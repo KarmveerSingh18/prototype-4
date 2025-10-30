@@ -2,3 +2,520 @@
 [2025-10-30 22:55:57] Restarted notepad.exe | Cause: Process not found / crashed
 [2025-10-30 22:56:02] Restarted notepad.exe | Cause: Process not found / crashed
 [2025-10-30 23:07:47] Restarted notepad.exe | Cause: Process not found / crashed
+[2025-10-30 23:14:22] Restarted notepad.exe | Cause: Process not found / crashed
+[2025-10-30 23:20:48] Restarted notepad.exe | Cause: Process not found / crashed
+[2025-10-30 23:28:09] 🧠 Healer service started: Timestamp: 1761847089.0360386
+[2025-10-30 23:28:09] 🩹 Attempting to heal process: System (PID 4): 
+[2025-10-30 23:28:09] ❌ Healing failed for System (PID 4) → (pid=4, name='System'): 
+[2025-10-30 23:28:09] 🩹 Attempting to heal process:  (PID 236): 
+[2025-10-30 23:28:09] ❌ Healing failed for  (PID 236) → (pid=236): 
+[2025-10-30 23:28:09] 🩹 Attempting to heal process: Registry (PID 280): 
+[2025-10-30 23:28:09] ❌ Healing failed for Registry (PID 280) → (pid=280, name='Registry'): 
+[2025-10-30 23:28:09] 🩹 Attempting to heal process: nvcontainer.exe (PID 508): 
+[2025-10-30 23:28:09] ✅ Terminated unresponsive process: nvcontainer.exe (PID 508): 
+[2025-10-30 23:28:09] 🩹 Attempting to heal process: svchost.exe (PID 728): 
+[2025-10-30 23:28:09] ❌ Healing failed for svchost.exe (PID 728) → (pid=728, name='svchost.exe'): 
+[2025-10-30 23:28:09] 🩹 Attempting to heal process: smss.exe (PID 756): 
+[2025-10-30 23:28:09] ❌ Healing failed for smss.exe (PID 756) → (pid=756, name='smss.exe'): 
+[2025-10-30 23:28:09] 🩹 Attempting to heal process: svchost.exe (PID 1156): 
+[2025-10-30 23:28:09] ❌ Healing failed for svchost.exe (PID 1156) → (pid=1156, name='svchost.exe'): 
+[2025-10-30 23:28:10] 🩹 Attempting to heal process: csrss.exe (PID 1164): 
+[2025-10-30 23:28:10] ❌ Healing failed for csrss.exe (PID 1164) → (pid=1164, name='csrss.exe'): 
+[2025-10-30 23:28:10] 🩹 Attempting to heal process: wininit.exe (PID 1272): 
+[2025-10-30 23:28:10] ❌ Healing failed for wininit.exe (PID 1272) → (pid=1272, name='wininit.exe'): 
+[2025-10-30 23:28:10] 🩹 Attempting to heal process: Dell.Connected.Service.Delivery.exe (PID 1312): 
+[2025-10-30 23:28:10] ❌ Healing failed for Dell.Connected.Service.Delivery.exe (PID 1312) → (pid=1312, name='Dell.Connected.Service.Delivery.exe'): 
+[2025-10-30 23:28:10] 🩹 Attempting to heal process: services.exe (PID 1348): 
+[2025-10-30 23:28:10] ❌ Healing failed for services.exe (PID 1348) → (pid=1348, name='services.exe'): 
+[2025-10-30 23:28:10] 🩹 Attempting to heal process: LsaIso.exe (PID 1368): 
+[2025-10-30 23:28:10] ❌ Healing failed for LsaIso.exe (PID 1368) → (pid=1368, name='LsaIso.exe'): 
+[2025-10-30 23:28:10] 🩹 Attempting to heal process: lsass.exe (PID 1376): 
+[2025-10-30 23:28:10] ❌ Healing failed for lsass.exe (PID 1376) → (pid=1376, name='lsass.exe'): 
+[2025-10-30 23:28:10] 🩹 Attempting to heal process: svchost.exe (PID 1432): 
+[2025-10-30 23:28:10] ❌ Healing failed for svchost.exe (PID 1432) → (pid=1432, name='svchost.exe'): 
+[2025-10-30 23:28:10] 🩹 Attempting to heal process: svchost.exe (PID 1512): 
+[2025-10-30 23:28:10] ❌ Healing failed for svchost.exe (PID 1512) → (pid=1512, name='svchost.exe'): 
+[2025-10-30 23:28:11] 🩹 Attempting to heal process: fontdrvhost.exe (PID 1536): 
+[2025-10-30 23:28:11] ❌ Healing failed for fontdrvhost.exe (PID 1536) → (pid=1536, name='fontdrvhost.exe'): 
+[2025-10-30 23:28:11] 🩹 Attempting to heal process: WUDFHost.exe (PID 1580): 
+[2025-10-30 23:28:11] ❌ Healing failed for WUDFHost.exe (PID 1580) → (pid=1580, name='WUDFHost.exe'): 
+[2025-10-30 23:28:11] 🩹 Attempting to heal process: svchost.exe (PID 1636): 
+[2025-10-30 23:28:11] ❌ Healing failed for svchost.exe (PID 1636) → (pid=1636, name='svchost.exe'): 
+[2025-10-30 23:28:11] 🩹 Attempting to heal process: svchost.exe (PID 1700): 
+[2025-10-30 23:28:11] ❌ Healing failed for svchost.exe (PID 1700) → (pid=1700, name='svchost.exe'): 
+[2025-10-30 23:28:11] 🩹 Attempting to heal process: WUDFHost.exe (PID 1740): 
+[2025-10-30 23:28:11] ❌ Healing failed for WUDFHost.exe (PID 1740) → (pid=1740, name='WUDFHost.exe'): 
+[2025-10-30 23:28:11] 🩹 Attempting to heal process: WUDFHost.exe (PID 1964): 
+[2025-10-30 23:28:11] ❌ Healing failed for WUDFHost.exe (PID 1964) → (pid=1964, name='WUDFHost.exe'): 
+[2025-10-30 23:28:11] 🩹 Attempting to heal process: svchost.exe (PID 1992): 
+[2025-10-30 23:28:11] ❌ Healing failed for svchost.exe (PID 1992) → (pid=1992, name='svchost.exe'): 
+[2025-10-30 23:28:11] 🩹 Attempting to heal process: svchost.exe (PID 2040): 
+[2025-10-30 23:28:11] ❌ Healing failed for svchost.exe (PID 2040) → (pid=2040, name='svchost.exe'): 
+[2025-10-30 23:28:11] 🩹 Attempting to heal process: opera.exe (PID 2068): 
+[2025-10-30 23:28:11] ✅ Terminated unresponsive process: opera.exe (PID 2068): 
+[2025-10-30 23:28:12] 🩹 Attempting to heal process: svchost.exe (PID 2140): 
+[2025-10-30 23:28:12] ❌ Healing failed for svchost.exe (PID 2140) → (pid=2140, name='svchost.exe'): 
+[2025-10-30 23:28:12] 🩹 Attempting to heal process: svchost.exe (PID 2216): 
+[2025-10-30 23:28:12] ❌ Healing failed for svchost.exe (PID 2216) → (pid=2216, name='svchost.exe'): 
+[2025-10-30 23:28:12] 🩹 Attempting to heal process: svchost.exe (PID 2220): 
+[2025-10-30 23:28:12] ❌ Healing failed for svchost.exe (PID 2220) → (pid=2220, name='svchost.exe'): 
+[2025-10-30 23:28:12] 🩹 Attempting to heal process: svchost.exe (PID 2228): 
+[2025-10-30 23:28:12] ❌ Healing failed for svchost.exe (PID 2228) → (pid=2228, name='svchost.exe'): 
+[2025-10-30 23:28:12] 🩹 Attempting to heal process: svchost.exe (PID 2236): 
+[2025-10-30 23:28:12] ❌ Healing failed for svchost.exe (PID 2236) → (pid=2236, name='svchost.exe'): 
+[2025-10-30 23:28:12] 🩹 Attempting to heal process: svchost.exe (PID 2312): 
+[2025-10-30 23:28:12] ❌ Healing failed for svchost.exe (PID 2312) → (pid=2312, name='svchost.exe'): 
+[2025-10-30 23:28:12] 🩹 Attempting to heal process: IntelCpHDCPSvc.exe (PID 2456): 
+[2025-10-30 23:28:12] ❌ Healing failed for IntelCpHDCPSvc.exe (PID 2456) → (pid=2456, name='IntelCpHDCPSvc.exe'): 
+[2025-10-30 23:28:12] 🩹 Attempting to heal process: svchost.exe (PID 2472): 
+[2025-10-30 23:28:12] ❌ Healing failed for svchost.exe (PID 2472) → (pid=2472, name='svchost.exe'): 
+[2025-10-30 23:28:12] 🩹 Attempting to heal process: svchost.exe (PID 2480): 
+[2025-10-30 23:28:12] ❌ Healing failed for svchost.exe (PID 2480) → (pid=2480, name='svchost.exe'): 
+[2025-10-30 23:28:13] 🩹 Attempting to heal process: svchost.exe (PID 2532): 
+[2025-10-30 23:28:13] ❌ Healing failed for svchost.exe (PID 2532) → (pid=2532, name='svchost.exe'): 
+[2025-10-30 23:28:13] 🩹 Attempting to heal process: svchost.exe (PID 2596): 
+[2025-10-30 23:28:13] ❌ Healing failed for svchost.exe (PID 2596) → (pid=2596, name='svchost.exe'): 
+[2025-10-30 23:28:13] 🩹 Attempting to heal process: svchost.exe (PID 2628): 
+[2025-10-30 23:28:13] ❌ Healing failed for svchost.exe (PID 2628) → (pid=2628, name='svchost.exe'): 
+[2025-10-30 23:28:13] 🩹 Attempting to heal process: AdobeCollabSync.exe (PID 2712): 
+[2025-10-30 23:28:13] ✅ Terminated unresponsive process: AdobeCollabSync.exe (PID 2712): 
+[2025-10-30 23:28:13] 🩹 Attempting to heal process: svchost.exe (PID 2764): 
+[2025-10-30 23:28:13] ❌ Healing failed for svchost.exe (PID 2764) → (pid=2764, name='svchost.exe'): 
+[2025-10-30 23:28:13] 🩹 Attempting to heal process: svchost.exe (PID 2772): 
+[2025-10-30 23:28:13] ❌ Healing failed for svchost.exe (PID 2772) → (pid=2772, name='svchost.exe'): 
+[2025-10-30 23:28:13] 🩹 Attempting to heal process: svchost.exe (PID 2808): 
+[2025-10-30 23:28:13] ❌ Healing failed for svchost.exe (PID 2808) → (pid=2808, name='svchost.exe'): 
+[2025-10-30 23:28:14] 🩹 Attempting to heal process: svchost.exe (PID 2980): 
+[2025-10-30 23:28:14] ❌ Healing failed for svchost.exe (PID 2980) → (pid=2980, name='svchost.exe'): 
+[2025-10-30 23:28:14] 🩹 Attempting to heal process: svchost.exe (PID 3160): 
+[2025-10-30 23:28:14] ✅ Terminated unresponsive process: svchost.exe (PID 3160): 
+[2025-10-30 23:28:14] 🩹 Attempting to heal process: helperservice.exe (PID 3260): 
+[2025-10-30 23:28:14] ❌ Healing failed for helperservice.exe (PID 3260) → (pid=3260, name='helperservice.exe'): 
+[2025-10-30 23:28:14] 🩹 Attempting to heal process: svchost.exe (PID 3408): 
+[2025-10-30 23:28:14] ❌ Healing failed for svchost.exe (PID 3408) → (pid=3408, name='svchost.exe'): 
+[2025-10-30 23:28:14] 🩹 Attempting to heal process: conhost.exe (PID 3488): 
+[2025-10-30 23:28:14] ❌ Healing failed for conhost.exe (PID 3488) → (pid=3488, name='conhost.exe'): 
+[2025-10-30 23:28:14] 🩹 Attempting to heal process: RtkAudUService64.exe (PID 3512): 
+[2025-10-30 23:28:14] ❌ Healing failed for RtkAudUService64.exe (PID 3512) → (pid=3512, name='RtkAudUService64.exe'): 
+[2025-10-30 23:28:14] 🩹 Attempting to heal process: svchost.exe (PID 3560): 
+[2025-10-30 23:28:14] ❌ Healing failed for svchost.exe (PID 3560) → (pid=3560, name='svchost.exe'): 
+[2025-10-30 23:28:14] 🩹 Attempting to heal process: svchost.exe (PID 3576): 
+[2025-10-30 23:28:14] ❌ Healing failed for svchost.exe (PID 3576) → (pid=3576, name='svchost.exe'): 
+[2025-10-30 23:28:15] 🩹 Attempting to heal process: svchost.exe (PID 3620): 
+[2025-10-30 23:28:15] ❌ Healing failed for svchost.exe (PID 3620) → (pid=3620, name='svchost.exe'): 
+[2025-10-30 23:28:15] 🩹 Attempting to heal process: svchost.exe (PID 3628): 
+[2025-10-30 23:28:15] ❌ Healing failed for svchost.exe (PID 3628) → (pid=3628, name='svchost.exe'): 
+[2025-10-30 23:28:15] 🩹 Attempting to heal process: svchost.exe (PID 3636): 
+[2025-10-30 23:28:15] ❌ Healing failed for svchost.exe (PID 3636) → (pid=3636, name='svchost.exe'): 
+[2025-10-30 23:28:15] 🩹 Attempting to heal process: conhost.exe (PID 3660): 
+[2025-10-30 23:28:15] ✅ Terminated unresponsive process: conhost.exe (PID 3660): 
+[2025-10-30 23:28:15] 🩹 Attempting to heal process: conhost.exe (PID 3832): 
+[2025-10-30 23:28:15] ❌ Healing failed for conhost.exe (PID 3832) → (pid=3832, name='conhost.exe'): 
+[2025-10-30 23:28:15] 🩹 Attempting to heal process: svchost.exe (PID 3856): 
+[2025-10-30 23:28:15] ❌ Healing failed for svchost.exe (PID 3856) → (pid=3856, name='svchost.exe'): 
+[2025-10-30 23:28:15] 🩹 Attempting to heal process: svchost.exe (PID 3892): 
+[2025-10-30 23:28:15] ❌ Healing failed for svchost.exe (PID 3892) → (pid=3892, name='svchost.exe'): 
+[2025-10-30 23:28:16] 🩹 Attempting to heal process: svchost.exe (PID 3900): 
+[2025-10-30 23:28:16] ❌ Healing failed for svchost.exe (PID 3900) → (pid=3900, name='svchost.exe'): 
+[2025-10-30 23:28:16] 🩹 Attempting to heal process: svchost.exe (PID 3996): 
+[2025-10-30 23:28:16] ❌ Healing failed for svchost.exe (PID 3996) → (pid=3996, name='svchost.exe'): 
+[2025-10-30 23:28:16] 🩹 Attempting to heal process: svchost.exe (PID 4004): 
+[2025-10-30 23:28:16] ❌ Healing failed for svchost.exe (PID 4004) → (pid=4004, name='svchost.exe'): 
+[2025-10-30 23:28:16] 🩹 Attempting to heal process: Dell.Update.SubAgent.exe (PID 4012): 
+[2025-10-30 23:28:16] ❌ Healing failed for Dell.Update.SubAgent.exe (PID 4012) → (pid=4012, name='Dell.Update.SubAgent.exe'): 
+[2025-10-30 23:28:16] 🩹 Attempting to heal process: svchost.exe (PID 4032): 
+[2025-10-30 23:28:16] ❌ Healing failed for svchost.exe (PID 4032) → (pid=4032, name='svchost.exe'): 
+[2025-10-30 23:28:16] 🩹 Attempting to heal process: powershell.exe (PID 4048): 
+[2025-10-30 23:28:16] ✅ Terminated unresponsive process: powershell.exe (PID 4048): 
+[2025-10-30 23:28:16] 🩹 Attempting to heal process: python.exe (PID 4060): 
+[2025-10-30 23:33:26] 🧠 Healer service started: Timestamp: 1761847406.3198123
+[2025-10-30 23:33:26] 🩹 Attempting to heal process:  (PID 236): 
+[2025-10-30 23:33:26] ❌ Healing failed for  (PID 236) → (pid=236): 
+[2025-10-30 23:33:26] 🩹 Attempting to heal process: opera.exe (PID 276): 
+[2025-10-30 23:33:26] ✅ Terminated unresponsive process: opera.exe (PID 276): 
+[2025-10-30 23:33:26] 🩹 Attempting to heal process: Registry (PID 280): 
+[2025-10-30 23:33:26] ❌ Healing failed for Registry (PID 280) → (pid=280, name='Registry'): 
+[2025-10-30 23:33:27] 🩹 Attempting to heal process: svchost.exe (PID 728): 
+[2025-10-30 23:33:27] ❌ Healing failed for svchost.exe (PID 728) → (pid=728, name='svchost.exe'): 
+[2025-10-30 23:33:27] 🩹 Attempting to heal process: smss.exe (PID 756): 
+[2025-10-30 23:33:27] ❌ Healing failed for smss.exe (PID 756) → (pid=756, name='smss.exe'): 
+[2025-10-30 23:33:27] 🩹 Attempting to heal process: svchost.exe (PID 1156): 
+[2025-10-30 23:33:27] ❌ Healing failed for svchost.exe (PID 1156) → (pid=1156, name='svchost.exe'): 
+[2025-10-30 23:33:27] 🩹 Attempting to heal process: csrss.exe (PID 1164): 
+[2025-10-30 23:33:27] ❌ Healing failed for csrss.exe (PID 1164) → (pid=1164, name='csrss.exe'): 
+[2025-10-30 23:33:27] 🩹 Attempting to heal process: wininit.exe (PID 1272): 
+[2025-10-30 23:33:27] ❌ Healing failed for wininit.exe (PID 1272) → (pid=1272, name='wininit.exe'): 
+[2025-10-30 23:33:27] 🩹 Attempting to heal process: Dell.Connected.Service.Delivery.exe (PID 1312): 
+[2025-10-30 23:33:27] ❌ Healing failed for Dell.Connected.Service.Delivery.exe (PID 1312) → (pid=1312, name='Dell.Connected.Service.Delivery.exe'): 
+[2025-10-30 23:33:27] 🩹 Attempting to heal process: services.exe (PID 1348): 
+[2025-10-30 23:33:27] ❌ Healing failed for services.exe (PID 1348) → (pid=1348, name='services.exe'): 
+[2025-10-30 23:33:27] 🩹 Attempting to heal process: LsaIso.exe (PID 1368): 
+[2025-10-30 23:33:27] ❌ Healing failed for LsaIso.exe (PID 1368) → (pid=1368, name='LsaIso.exe'): 
+[2025-10-30 23:33:27] 🩹 Attempting to heal process: lsass.exe (PID 1376): 
+[2025-10-30 23:33:27] ❌ Healing failed for lsass.exe (PID 1376) → (pid=1376, name='lsass.exe'): 
+[2025-10-30 23:33:28] 🩹 Attempting to heal process: svchost.exe (PID 1432): 
+[2025-10-30 23:33:28] ❌ Healing failed for svchost.exe (PID 1432) → (pid=1432, name='svchost.exe'): 
+[2025-10-30 23:33:28] 🩹 Attempting to heal process: svchost.exe (PID 1512): 
+[2025-10-30 23:33:28] ❌ Healing failed for svchost.exe (PID 1512) → (pid=1512, name='svchost.exe'): 
+[2025-10-30 23:33:28] 🩹 Attempting to heal process: fontdrvhost.exe (PID 1536): 
+[2025-10-30 23:33:28] ❌ Healing failed for fontdrvhost.exe (PID 1536) → (pid=1536, name='fontdrvhost.exe'): 
+[2025-10-30 23:33:28] 🩹 Attempting to heal process: WUDFHost.exe (PID 1580): 
+[2025-10-30 23:33:28] ❌ Healing failed for WUDFHost.exe (PID 1580) → (pid=1580, name='WUDFHost.exe'): 
+[2025-10-30 23:33:28] 🩹 Attempting to heal process: svchost.exe (PID 1636): 
+[2025-10-30 23:33:28] ❌ Healing failed for svchost.exe (PID 1636) → (pid=1636, name='svchost.exe'): 
+[2025-10-30 23:33:28] 🩹 Attempting to heal process: svchost.exe (PID 1700): 
+[2025-10-30 23:33:28] ❌ Healing failed for svchost.exe (PID 1700) → (pid=1700, name='svchost.exe'): 
+[2025-10-30 23:33:28] 🩹 Attempting to heal process: WUDFHost.exe (PID 1740): 
+[2025-10-30 23:33:28] ❌ Healing failed for WUDFHost.exe (PID 1740) → (pid=1740, name='WUDFHost.exe'): 
+[2025-10-30 23:33:28] 🩹 Attempting to heal process: WUDFHost.exe (PID 1964): 
+[2025-10-30 23:33:28] ❌ Healing failed for WUDFHost.exe (PID 1964) → (pid=1964, name='WUDFHost.exe'): 
+[2025-10-30 23:33:29] 🩹 Attempting to heal process: svchost.exe (PID 1992): 
+[2025-10-30 23:33:29] ❌ Healing failed for svchost.exe (PID 1992) → (pid=1992, name='svchost.exe'): 
+[2025-10-30 23:33:29] 🩹 Attempting to heal process: svchost.exe (PID 2040): 
+[2025-10-30 23:33:29] ❌ Healing failed for svchost.exe (PID 2040) → (pid=2040, name='svchost.exe'): 
+[2025-10-30 23:33:29] 🩹 Attempting to heal process: svchost.exe (PID 2140): 
+[2025-10-30 23:33:29] ❌ Healing failed for svchost.exe (PID 2140) → (pid=2140, name='svchost.exe'): 
+[2025-10-30 23:33:29] 🩹 Attempting to heal process: svchost.exe (PID 2216): 
+[2025-10-30 23:33:29] ❌ Healing failed for svchost.exe (PID 2216) → (pid=2216, name='svchost.exe'): 
+[2025-10-30 23:33:29] 🩹 Attempting to heal process: svchost.exe (PID 2220): 
+[2025-10-30 23:33:29] ❌ Healing failed for svchost.exe (PID 2220) → (pid=2220, name='svchost.exe'): 
+[2025-10-30 23:33:29] 🩹 Attempting to heal process: svchost.exe (PID 2228): 
+[2025-10-30 23:33:29] ❌ Healing failed for svchost.exe (PID 2228) → (pid=2228, name='svchost.exe'): 
+[2025-10-30 23:33:29] 🩹 Attempting to heal process: svchost.exe (PID 2236): 
+[2025-10-30 23:33:29] ❌ Healing failed for svchost.exe (PID 2236) → (pid=2236, name='svchost.exe'): 
+[2025-10-30 23:33:29] 🩹 Attempting to heal process: svchost.exe (PID 2312): 
+[2025-10-30 23:33:29] ❌ Healing failed for svchost.exe (PID 2312) → (pid=2312, name='svchost.exe'): 
+[2025-10-30 23:33:30] 🩹 Attempting to heal process: IntelCpHDCPSvc.exe (PID 2456): 
+[2025-10-30 23:33:30] ❌ Healing failed for IntelCpHDCPSvc.exe (PID 2456) → (pid=2456, name='IntelCpHDCPSvc.exe'): 
+[2025-10-30 23:33:30] 🩹 Attempting to heal process: svchost.exe (PID 2472): 
+[2025-10-30 23:33:30] ❌ Healing failed for svchost.exe (PID 2472) → (pid=2472, name='svchost.exe'): 
+[2025-10-30 23:33:30] 🩹 Attempting to heal process: svchost.exe (PID 2480): 
+[2025-10-30 23:33:30] ❌ Healing failed for svchost.exe (PID 2480) → (pid=2480, name='svchost.exe'): 
+[2025-10-30 23:33:30] 🩹 Attempting to heal process: svchost.exe (PID 2532): 
+[2025-10-30 23:33:30] ❌ Healing failed for svchost.exe (PID 2532) → (pid=2532, name='svchost.exe'): 
+[2025-10-30 23:33:30] 🩹 Attempting to heal process: svchost.exe (PID 2596): 
+[2025-10-30 23:33:30] ❌ Healing failed for svchost.exe (PID 2596) → (pid=2596, name='svchost.exe'): 
+[2025-10-30 23:33:30] 🩹 Attempting to heal process: svchost.exe (PID 2628): 
+[2025-10-30 23:33:30] ❌ Healing failed for svchost.exe (PID 2628) → (pid=2628, name='svchost.exe'): 
+[2025-10-30 23:33:30] 🩹 Attempting to heal process: svchost.exe (PID 2764): 
+[2025-10-30 23:33:30] ❌ Healing failed for svchost.exe (PID 2764) → (pid=2764, name='svchost.exe'): 
+[2025-10-30 23:33:30] 🩹 Attempting to heal process: svchost.exe (PID 2772): 
+[2025-10-30 23:33:30] ❌ Healing failed for svchost.exe (PID 2772) → (pid=2772, name='svchost.exe'): 
+[2025-10-30 23:33:31] 🩹 Attempting to heal process: svchost.exe (PID 2808): 
+[2025-10-30 23:33:31] ❌ Healing failed for svchost.exe (PID 2808) → (pid=2808, name='svchost.exe'): 
+[2025-10-30 23:33:31] 🩹 Attempting to heal process: Code.exe (PID 2952): 
+[2025-10-30 23:33:31] ✅ Terminated unresponsive process: Code.exe (PID 2952): 
+[2025-10-30 23:33:31] 🩹 Attempting to heal process: svchost.exe (PID 2980): 
+[2025-10-30 23:33:31] ❌ Healing failed for svchost.exe (PID 2980) → (pid=2980, name='svchost.exe'): 
+[2025-10-30 23:33:31] 🩹 Attempting to heal process: opera.exe (PID 3128): 
+[2025-10-30 23:33:31] ✅ Terminated unresponsive process: opera.exe (PID 3128): 
+[2025-10-30 23:33:31] 🩹 Attempting to heal process: helperservice.exe (PID 3260): 
+[2025-10-30 23:33:31] ❌ Healing failed for helperservice.exe (PID 3260) → (pid=3260, name='helperservice.exe'): 
+[2025-10-30 23:33:31] 🩹 Attempting to heal process: svchost.exe (PID 3408): 
+[2025-10-30 23:33:31] ❌ Healing failed for svchost.exe (PID 3408) → (pid=3408, name='svchost.exe'): 
+[2025-10-30 23:33:31] 🩹 Attempting to heal process: conhost.exe (PID 3488): 
+[2025-10-30 23:33:31] ❌ Healing failed for conhost.exe (PID 3488) → (pid=3488, name='conhost.exe'): 
+[2025-10-30 23:33:31] 🩹 Attempting to heal process: NVDisplay.Container.exe (PID 3500): 
+[2025-10-30 23:33:31] ❌ Healing failed for NVDisplay.Container.exe (PID 3500) → (pid=3500, name='NVDisplay.Container.exe'): 
+[2025-10-30 23:33:32] 🩹 Attempting to heal process: RtkAudUService64.exe (PID 3512): 
+[2025-10-30 23:33:32] ❌ Healing failed for RtkAudUService64.exe (PID 3512) → (pid=3512, name='RtkAudUService64.exe'): 
+[2025-10-30 23:33:32] 🩹 Attempting to heal process: svchost.exe (PID 3560): 
+[2025-10-30 23:33:32] ❌ Healing failed for svchost.exe (PID 3560) → (pid=3560, name='svchost.exe'): 
+[2025-10-30 23:33:32] 🩹 Attempting to heal process: svchost.exe (PID 3576): 
+[2025-10-30 23:33:32] ❌ Healing failed for svchost.exe (PID 3576) → (pid=3576, name='svchost.exe'): 
+[2025-10-30 23:33:32] 🩹 Attempting to heal process: Code.exe (PID 3604): 
+[2025-10-30 23:33:44] Restarted notepad.exe | Cause: Process not found / crashed
+[2025-10-30 23:41:51] 🧠 Healer service started: Timestamp: 1761847911.6534085
+[2025-10-30 23:41:51] 🩹 Attempting to heal process:  (PID 236): 
+[2025-10-30 23:41:51] ❌ Healing failed for  (PID 236) → (pid=236): 
+[2025-10-30 23:41:52] 🩹 Attempting to heal process: Registry (PID 280): 
+[2025-10-30 23:41:52] ❌ Healing failed for Registry (PID 280) → (pid=280, name='Registry'): 
+[2025-10-30 23:41:52] 🩹 Attempting to heal process: svchost.exe (PID 728): 
+[2025-10-30 23:41:52] ❌ Healing failed for svchost.exe (PID 728) → (pid=728, name='svchost.exe'): 
+[2025-10-30 23:41:52] 🩹 Attempting to heal process: smss.exe (PID 756): 
+[2025-10-30 23:41:52] ❌ Healing failed for smss.exe (PID 756) → (pid=756, name='smss.exe'): 
+[2025-10-30 23:41:52] 🩹 Attempting to heal process: svchost.exe (PID 1156): 
+[2025-10-30 23:41:52] ❌ Healing failed for svchost.exe (PID 1156) → (pid=1156, name='svchost.exe'): 
+[2025-10-30 23:41:52] 🩹 Attempting to heal process: csrss.exe (PID 1164): 
+[2025-10-30 23:41:52] ❌ Healing failed for csrss.exe (PID 1164) → (pid=1164, name='csrss.exe'): 
+[2025-10-30 23:41:52] 🩹 Attempting to heal process: wininit.exe (PID 1272): 
+[2025-10-30 23:41:52] ❌ Healing failed for wininit.exe (PID 1272) → (pid=1272, name='wininit.exe'): 
+[2025-10-30 23:41:52] 🩹 Attempting to heal process: Dell.Connected.Service.Delivery.exe (PID 1312): 
+[2025-10-30 23:41:52] ❌ Healing failed for Dell.Connected.Service.Delivery.exe (PID 1312) → (pid=1312, name='Dell.Connected.Service.Delivery.exe'): 
+[2025-10-30 23:41:52] 🩹 Attempting to heal process: services.exe (PID 1348): 
+[2025-10-30 23:41:52] ❌ Healing failed for services.exe (PID 1348) → (pid=1348, name='services.exe'): 
+[2025-10-30 23:41:53] 🩹 Attempting to heal process: LsaIso.exe (PID 1368): 
+[2025-10-30 23:41:53] ❌ Healing failed for LsaIso.exe (PID 1368) → (pid=1368, name='LsaIso.exe'): 
+[2025-10-30 23:41:53] 🩹 Attempting to heal process: lsass.exe (PID 1376): 
+[2025-10-30 23:41:53] ❌ Healing failed for lsass.exe (PID 1376) → (pid=1376, name='lsass.exe'): 
+[2025-10-30 23:41:53] 🩹 Attempting to heal process: svchost.exe (PID 1432): 
+[2025-10-30 23:41:53] ❌ Healing failed for svchost.exe (PID 1432) → (pid=1432, name='svchost.exe'): 
+[2025-10-30 23:41:53] 🩹 Attempting to heal process: svchost.exe (PID 1512): 
+[2025-10-30 23:41:53] ❌ Healing failed for svchost.exe (PID 1512) → (pid=1512, name='svchost.exe'): 
+[2025-10-30 23:41:53] 🩹 Attempting to heal process: fontdrvhost.exe (PID 1536): 
+[2025-10-30 23:41:53] ❌ Healing failed for fontdrvhost.exe (PID 1536) → (pid=1536, name='fontdrvhost.exe'): 
+[2025-10-30 23:41:53] 🩹 Attempting to heal process: WUDFHost.exe (PID 1580): 
+[2025-10-30 23:41:53] ❌ Healing failed for WUDFHost.exe (PID 1580) → (pid=1580, name='WUDFHost.exe'): 
+[2025-10-30 23:41:53] 🩹 Attempting to heal process: svchost.exe (PID 1636): 
+[2025-10-30 23:41:53] ❌ Healing failed for svchost.exe (PID 1636) → (pid=1636, name='svchost.exe'): 
+[2025-10-30 23:41:53] 🩹 Attempting to heal process: svchost.exe (PID 1700): 
+[2025-10-30 23:41:53] ❌ Healing failed for svchost.exe (PID 1700) → (pid=1700, name='svchost.exe'): 
+[2025-10-30 23:41:53] 🩹 Attempting to heal process: WUDFHost.exe (PID 1740): 
+[2025-10-30 23:41:53] ❌ Healing failed for WUDFHost.exe (PID 1740) → (pid=1740, name='WUDFHost.exe'): 
+[2025-10-30 23:41:54] 🩹 Attempting to heal process: WUDFHost.exe (PID 1964): 
+[2025-10-30 23:41:54] ❌ Healing failed for WUDFHost.exe (PID 1964) → (pid=1964, name='WUDFHost.exe'): 
+[2025-10-30 23:41:54] 🩹 Attempting to heal process: svchost.exe (PID 1992): 
+[2025-10-30 23:41:54] ❌ Healing failed for svchost.exe (PID 1992) → (pid=1992, name='svchost.exe'): 
+[2025-10-30 23:41:54] 🩹 Attempting to heal process: svchost.exe (PID 2040): 
+[2025-10-30 23:41:54] ❌ Healing failed for svchost.exe (PID 2040) → (pid=2040, name='svchost.exe'): 
+[2025-10-30 23:41:54] 🩹 Attempting to heal process: svchost.exe (PID 2140): 
+[2025-10-30 23:41:54] ❌ Healing failed for svchost.exe (PID 2140) → (pid=2140, name='svchost.exe'): 
+[2025-10-30 23:41:54] 🩹 Attempting to heal process: svchost.exe (PID 2216): 
+[2025-10-30 23:41:54] ❌ Healing failed for svchost.exe (PID 2216) → (pid=2216, name='svchost.exe'): 
+[2025-10-30 23:41:54] 🩹 Attempting to heal process: svchost.exe (PID 2220): 
+[2025-10-30 23:41:54] ❌ Healing failed for svchost.exe (PID 2220) → (pid=2220, name='svchost.exe'): 
+[2025-10-30 23:41:54] 🩹 Attempting to heal process: svchost.exe (PID 2228): 
+[2025-10-30 23:41:54] ❌ Healing failed for svchost.exe (PID 2228) → (pid=2228, name='svchost.exe'): 
+[2025-10-30 23:41:54] 🩹 Attempting to heal process: svchost.exe (PID 2236): 
+[2025-10-30 23:41:54] ❌ Healing failed for svchost.exe (PID 2236) → (pid=2236, name='svchost.exe'): 
+[2025-10-30 23:41:54] 🩹 Attempting to heal process: svchost.exe (PID 2312): 
+[2025-10-30 23:41:54] ❌ Healing failed for svchost.exe (PID 2312) → (pid=2312, name='svchost.exe'): 
+[2025-10-30 23:41:55] 🩹 Attempting to heal process: IntelCpHDCPSvc.exe (PID 2456): 
+[2025-10-30 23:41:55] ❌ Healing failed for IntelCpHDCPSvc.exe (PID 2456) → (pid=2456, name='IntelCpHDCPSvc.exe'): 
+[2025-10-30 23:41:55] 🩹 Attempting to heal process: svchost.exe (PID 2472): 
+[2025-10-30 23:41:55] ❌ Healing failed for svchost.exe (PID 2472) → (pid=2472, name='svchost.exe'): 
+[2025-10-30 23:41:55] 🩹 Attempting to heal process: svchost.exe (PID 2480): 
+[2025-10-30 23:41:55] ❌ Healing failed for svchost.exe (PID 2480) → (pid=2480, name='svchost.exe'): 
+[2025-10-30 23:41:55] 🩹 Attempting to heal process: svchost.exe (PID 2532): 
+[2025-10-30 23:41:55] ❌ Healing failed for svchost.exe (PID 2532) → (pid=2532, name='svchost.exe'): 
+[2025-10-30 23:41:55] 🩹 Attempting to heal process: svchost.exe (PID 2596): 
+[2025-10-30 23:41:55] ❌ Healing failed for svchost.exe (PID 2596) → (pid=2596, name='svchost.exe'): 
+[2025-10-30 23:41:55] 🩹 Attempting to heal process: svchost.exe (PID 2628): 
+[2025-10-30 23:41:55] ❌ Healing failed for svchost.exe (PID 2628) → (pid=2628, name='svchost.exe'): 
+[2025-10-30 23:41:55] 🩹 Attempting to heal process: svchost.exe (PID 2764): 
+[2025-10-30 23:41:55] ❌ Healing failed for svchost.exe (PID 2764) → (pid=2764, name='svchost.exe'): 
+[2025-10-30 23:41:55] 🩹 Attempting to heal process: svchost.exe (PID 2772): 
+[2025-10-30 23:41:55] ❌ Healing failed for svchost.exe (PID 2772) → (pid=2772, name='svchost.exe'): 
+[2025-10-30 23:41:56] 🩹 Attempting to heal process: svchost.exe (PID 2808): 
+[2025-10-30 23:41:56] ❌ Healing failed for svchost.exe (PID 2808) → (pid=2808, name='svchost.exe'): 
+[2025-10-30 23:41:56] 🩹 Attempting to heal process: svchost.exe (PID 2980): 
+[2025-10-30 23:41:56] ❌ Healing failed for svchost.exe (PID 2980) → (pid=2980, name='svchost.exe'): 
+[2025-10-30 23:41:56] 🩹 Attempting to heal process: helperservice.exe (PID 3260): 
+[2025-10-30 23:41:56] ❌ Healing failed for helperservice.exe (PID 3260) → (pid=3260, name='helperservice.exe'): 
+[2025-10-30 23:41:56] 🩹 Attempting to heal process: svchost.exe (PID 3408): 
+[2025-10-30 23:41:56] ❌ Healing failed for svchost.exe (PID 3408) → (pid=3408, name='svchost.exe'): 
+[2025-10-30 23:41:56] 🩹 Attempting to heal process: conhost.exe (PID 3488): 
+[2025-10-30 23:41:56] ❌ Healing failed for conhost.exe (PID 3488) → (pid=3488, name='conhost.exe'): 
+[2025-10-30 23:41:56] 🩹 Attempting to heal process: NVDisplay.Container.exe (PID 3500): 
+[2025-10-30 23:41:56] ❌ Healing failed for NVDisplay.Container.exe (PID 3500) → (pid=3500, name='NVDisplay.Container.exe'): 
+[2025-10-30 23:41:56] 🩹 Attempting to heal process: RtkAudUService64.exe (PID 3512): 
+[2025-10-30 23:41:56] ❌ Healing failed for RtkAudUService64.exe (PID 3512) → (pid=3512, name='RtkAudUService64.exe'): 
+[2025-10-30 23:41:56] 🩹 Attempting to heal process: svchost.exe (PID 3560): 
+[2025-10-30 23:41:56] ❌ Healing failed for svchost.exe (PID 3560) → (pid=3560, name='svchost.exe'): 
+[2025-10-30 23:41:56] 🩹 Attempting to heal process: svchost.exe (PID 3576): 
+[2025-10-30 23:41:56] ❌ Healing failed for svchost.exe (PID 3576) → (pid=3576, name='svchost.exe'): 
+[2025-10-30 23:41:57] 🩹 Attempting to heal process: svchost.exe (PID 3620): 
+[2025-10-30 23:41:57] ❌ Healing failed for svchost.exe (PID 3620) → (pid=3620, name='svchost.exe'): 
+[2025-10-30 23:41:57] 🩹 Attempting to heal process: svchost.exe (PID 3628): 
+[2025-10-30 23:41:57] ❌ Healing failed for svchost.exe (PID 3628) → (pid=3628, name='svchost.exe'): 
+[2025-10-30 23:41:57] 🩹 Attempting to heal process: svchost.exe (PID 3636): 
+[2025-10-30 23:41:57] ❌ Healing failed for svchost.exe (PID 3636) → (pid=3636, name='svchost.exe'): 
+[2025-10-30 23:41:57] 🩹 Attempting to heal process: conhost.exe (PID 3832): 
+[2025-10-30 23:41:57] ❌ Healing failed for conhost.exe (PID 3832) → (pid=3832, name='conhost.exe'): 
+[2025-10-30 23:41:57] 🩹 Attempting to heal process: svchost.exe (PID 3856): 
+[2025-10-30 23:41:57] ❌ Healing failed for svchost.exe (PID 3856) → (pid=3856, name='svchost.exe'): 
+[2025-10-30 23:41:57] 🩹 Attempting to heal process: svchost.exe (PID 3892): 
+[2025-10-30 23:41:57] ❌ Healing failed for svchost.exe (PID 3892) → (pid=3892, name='svchost.exe'): 
+[2025-10-30 23:41:58] 🩹 Attempting to heal process: svchost.exe (PID 3900): 
+[2025-10-30 23:41:58] ❌ Healing failed for svchost.exe (PID 3900) → (pid=3900, name='svchost.exe'): 
+[2025-10-30 23:41:58] 🩹 Attempting to heal process: svchost.exe (PID 3996): 
+[2025-10-30 23:41:58] ❌ Healing failed for svchost.exe (PID 3996) → (pid=3996, name='svchost.exe'): 
+[2025-10-30 23:41:58] 🩹 Attempting to heal process: svchost.exe (PID 4004): 
+[2025-10-30 23:41:58] ❌ Healing failed for svchost.exe (PID 4004) → (pid=4004, name='svchost.exe'): 
+[2025-10-30 23:41:58] 🩹 Attempting to heal process: Dell.Update.SubAgent.exe (PID 4012): 
+[2025-10-30 23:41:58] ❌ Healing failed for Dell.Update.SubAgent.exe (PID 4012) → (pid=4012, name='Dell.Update.SubAgent.exe'): 
+[2025-10-30 23:41:58] 🩹 Attempting to heal process: svchost.exe (PID 4032): 
+[2025-10-30 23:41:58] ❌ Healing failed for svchost.exe (PID 4032) → (pid=4032, name='svchost.exe'): 
+[2025-10-30 23:41:58] 🩹 Attempting to heal process: svchost.exe (PID 4064): 
+[2025-10-30 23:41:58] ❌ Healing failed for svchost.exe (PID 4064) → (pid=4064, name='svchost.exe'): 
+[2025-10-30 23:41:58] 🩹 Attempting to heal process: svchost.exe (PID 4116): 
+[2025-10-30 23:41:58] ❌ Healing failed for svchost.exe (PID 4116) → (pid=4116, name='svchost.exe'): 
+[2025-10-30 23:41:58] 🩹 Attempting to heal process: svchost.exe (PID 4124): 
+[2025-10-30 23:41:58] ❌ Healing failed for svchost.exe (PID 4124) → (pid=4124, name='svchost.exe'): 
+[2025-10-30 23:41:59] 🩹 Attempting to heal process: svchost.exe (PID 4172): 
+[2025-10-30 23:41:59] ❌ Healing failed for svchost.exe (PID 4172) → (pid=4172, name='svchost.exe'): 
+[2025-10-30 23:41:59] 🩹 Attempting to heal process: spoolsv.exe (PID 4256): 
+[2025-10-30 23:41:59] ❌ Healing failed for spoolsv.exe (PID 4256) → (pid=4256, name='spoolsv.exe'): 
+[2025-10-30 23:41:59] 🩹 Attempting to heal process: svchost.exe (PID 4296): 
+[2025-10-30 23:41:59] ❌ Healing failed for svchost.exe (PID 4296) → (pid=4296, name='svchost.exe'): 
+[2025-10-30 23:41:59] 🩹 Attempting to heal process: svchost.exe (PID 4448): 
+[2025-10-30 23:41:59] ❌ Healing failed for svchost.exe (PID 4448) → (pid=4448, name='svchost.exe'): 
+[2025-10-30 23:41:59] 🩹 Attempting to heal process: svchost.exe (PID 4552): 
+[2025-10-30 23:41:59] ❌ Healing failed for svchost.exe (PID 4552) → (pid=4552, name='svchost.exe'): 
+[2025-10-30 23:41:59] 🩹 Attempting to heal process: AnyDesk.exe (PID 4672): 
+[2025-10-30 23:41:59] ❌ Healing failed for AnyDesk.exe (PID 4672) → (pid=4672, name='AnyDesk.exe'): 
+[2025-10-30 23:41:59] 🩹 Attempting to heal process: armsvc.exe (PID 4676): 
+[2025-10-30 23:41:59] ❌ Healing failed for armsvc.exe (PID 4676) → (pid=4676, name='armsvc.exe'): 
+[2025-10-30 23:41:59] 🩹 Attempting to heal process: Dell.TechHub.exe (PID 4688): 
+[2025-10-30 23:41:59] ❌ Healing failed for Dell.TechHub.exe (PID 4688) → (pid=4688, name='Dell.TechHub.exe'): 
+[2025-10-30 23:41:59] 🩹 Attempting to heal process: svchost.exe (PID 4696): 
+[2025-10-30 23:41:59] ❌ Healing failed for svchost.exe (PID 4696) → (pid=4696, name='svchost.exe'): 
+[2025-10-30 23:42:00] 🩹 Attempting to heal process: DAX3API.exe (PID 4704): 
+[2025-10-30 23:42:00] ❌ Healing failed for DAX3API.exe (PID 4704) → (pid=4704, name='DAX3API.exe'): 
+[2025-10-30 23:42:00] 🩹 Attempting to heal process: svchost.exe (PID 4716): 
+[2025-10-30 23:42:00] ❌ Healing failed for svchost.exe (PID 4716) → (pid=4716, name='svchost.exe'): 
+[2025-10-30 23:42:00] 🩹 Attempting to heal process: svchost.exe (PID 4732): 
+[2025-10-30 23:42:00] ❌ Healing failed for svchost.exe (PID 4732) → (pid=4732, name='svchost.exe'): 
+[2025-10-30 23:42:00] 🩹 Attempting to heal process: ipfsvc.exe (PID 4740): 
+[2025-10-30 23:42:00] ❌ Healing failed for ipfsvc.exe (PID 4740) → (pid=4740, name='ipfsvc.exe'): 
+[2025-10-30 23:42:00] 🩹 Attempting to heal process: OneApp.IGCC.WinService.exe (PID 4772): 
+[2025-10-30 23:42:00] ❌ Healing failed for OneApp.IGCC.WinService.exe (PID 4772) → (pid=4772, name='OneApp.IGCC.WinService.exe'): 
+[2025-10-30 23:42:00] 🩹 Attempting to heal process: IgoAudioService_x64.exe (PID 4780): 
+[2025-10-30 23:42:00] ❌ Healing failed for IgoAudioService_x64.exe (PID 4780) → (pid=4780, name='IgoAudioService_x64.exe'): 
+[2025-10-30 23:42:00] 🩹 Attempting to heal process: IntelAudioService.exe (PID 4812): 
+[2025-10-30 23:42:00] ❌ Healing failed for IntelAudioService.exe (PID 4812) → (pid=4812, name='IntelAudioService.exe'): 
+[2025-10-30 23:42:00] 🩹 Attempting to heal process: OfficeClickToRun.exe (PID 4824): 
+[2025-10-30 23:42:00] ❌ Healing failed for OfficeClickToRun.exe (PID 4824) → (pid=4824, name='OfficeClickToRun.exe'): 
+[2025-10-30 23:42:00] 🩹 Attempting to heal process: ipf_uf.exe (PID 4856): 
+[2025-10-30 23:42:00] ❌ Healing failed for ipf_uf.exe (PID 4856) → (pid=4856, name='ipf_uf.exe'): 
+[2025-10-30 23:42:01] 🩹 Attempting to heal process: svchost.exe (PID 4880): 
+[2025-10-30 23:42:01] ❌ Healing failed for svchost.exe (PID 4880) → (pid=4880, name='svchost.exe'): 
+[2025-10-30 23:42:01] 🩹 Attempting to heal process: svchost.exe (PID 4920): 
+[2025-10-30 23:42:01] ❌ Healing failed for svchost.exe (PID 4920) → (pid=4920, name='svchost.exe'): 
+[2025-10-30 23:42:01] 🩹 Attempting to heal process: nvcontainer.exe (PID 4956): 
+[2025-10-30 23:42:01] ❌ Healing failed for nvcontainer.exe (PID 4956) → (pid=4956, name='nvcontainer.exe'): 
+[2025-10-30 23:42:01] 🩹 Attempting to heal process: jhi_service.exe (PID 4988): 
+[2025-10-30 23:42:01] ❌ Healing failed for jhi_service.exe (PID 4988) → (pid=4988, name='jhi_service.exe'): 
+[2025-10-30 23:42:01] 🩹 Attempting to heal process: RstMwService.exe (PID 5056): 
+[2025-10-30 23:42:01] ❌ Healing failed for RstMwService.exe (PID 5056) → (pid=5056, name='RstMwService.exe'): 
+[2025-10-30 23:42:01] 🩹 Attempting to heal process: svchost.exe (PID 5104): 
+[2025-10-30 23:42:01] ❌ Healing failed for svchost.exe (PID 5104) → (pid=5104, name='svchost.exe'): 
+[2025-10-30 23:42:01] 🩹 Attempting to heal process: WMIRegistrationService.exe (PID 5124): 
+[2025-10-30 23:42:01] ❌ Healing failed for WMIRegistrationService.exe (PID 5124) → (pid=5124, name='WMIRegistrationService.exe'): 
+[2025-10-30 23:42:01] 🩹 Attempting to heal process: svchost.exe (PID 5132): 
+[2025-10-30 23:42:01] ❌ Healing failed for svchost.exe (PID 5132) → (pid=5132, name='svchost.exe'): 
+[2025-10-30 23:42:02] 🩹 Attempting to heal process: svchost.exe (PID 5140): 
+[2025-10-30 23:42:02] ❌ Healing failed for svchost.exe (PID 5140) → (pid=5140, name='svchost.exe'): 
+[2025-10-30 23:42:02] 🩹 Attempting to heal process: svchost.exe (PID 5160): 
+[2025-10-30 23:42:02] ❌ Healing failed for svchost.exe (PID 5160) → (pid=5160, name='svchost.exe'): 
+[2025-10-30 23:42:02] 🩹 Attempting to heal process: conhost.exe (PID 5192): 
+[2025-10-30 23:42:02] ✅ Terminated unresponsive process: conhost.exe (PID 5192): 
+[2025-10-30 23:42:02] 🩹 Attempting to heal process: GameEyeApp.exe (PID 5236): 
+[2025-10-30 23:42:02] ✅ Terminated unresponsive process: GameEyeApp.exe (PID 5236): 
+[2025-10-30 23:42:02] 🩹 Attempting to heal process: opera.exe (PID 5256): 
+[2025-10-30 23:42:02] ✅ Terminated unresponsive process: opera.exe (PID 5256): 
+[2025-10-30 23:42:02] 🩹 Attempting to heal process: svchost.exe (PID 5300): 
+[2025-10-30 23:42:02] ✅ Terminated unresponsive process: svchost.exe (PID 5300): 
+[2025-10-30 23:42:02] 🩹 Attempting to heal process: svchost.exe (PID 5968): 
+[2025-10-30 23:42:02] ❌ Healing failed for svchost.exe (PID 5968) → (pid=5968, name='svchost.exe'): 
+[2025-10-30 23:42:02] 🩹 Attempting to heal process: ctfmon.exe (PID 6640): 
+[2025-10-30 23:42:02] ❌ Healing failed for ctfmon.exe (PID 6640) → (pid=6640, name='ctfmon.exe'): 
+[2025-10-30 23:42:03] 🩹 Attempting to heal process: SDXHelper.exe (PID 6680): 
+[2025-10-30 23:42:03] ✅ Terminated unresponsive process: SDXHelper.exe (PID 6680): 
+[2025-10-30 23:42:03] 🩹 Attempting to heal process: RuntimeBroker.exe (PID 6932): 
+[2025-10-30 23:42:03] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 6932): 
+[2025-10-30 23:42:03] 🩹 Attempting to heal process: conhost.exe (PID 7028): 
+[2025-10-30 23:42:03] ❌ Healing failed for conhost.exe (PID 7028) → (pid=7028, name='conhost.exe'): 
+[2025-10-30 23:42:03] 🩹 Attempting to heal process: svchost.exe (PID 7108): 
+[2025-10-30 23:42:03] ✅ Terminated unresponsive process: svchost.exe (PID 7108): 
+[2025-10-30 23:42:03] 🩹 Attempting to heal process: iGoSwServer.exe (PID 7704): 
+[2025-10-30 23:42:03] ❌ Healing failed for iGoSwServer.exe (PID 7704) → (pid=7704, name='iGoSwServer.exe'): 
+[2025-10-30 23:42:03] 🩹 Attempting to heal process: WmiPrvSE.exe (PID 7880): 
+[2025-10-30 23:42:03] ❌ Healing failed for WmiPrvSE.exe (PID 7880) → (pid=7880, name='WmiPrvSE.exe'): 
+[2025-10-30 23:42:03] 🩹 Attempting to heal process: opera_crashreporter.exe (PID 8120): 
+[2025-10-30 23:42:03] ✅ Terminated unresponsive process: opera_crashreporter.exe (PID 8120): 
+[2025-10-30 23:42:03] 🩹 Attempting to heal process: Dell.TechHub.DataManager.SubAgent.exe (PID 8176): 
+[2025-10-30 23:42:03] ❌ Healing failed for Dell.TechHub.DataManager.SubAgent.exe (PID 8176) → (pid=8176, name='Dell.TechHub.DataManager.SubAgent.exe'): 
+[2025-10-30 23:42:04] 🩹 Attempting to heal process: XtuService.exe (PID 8624): 
+[2025-10-30 23:42:04] ❌ Healing failed for XtuService.exe (PID 8624) → (pid=8624, name='XtuService.exe'): 
+[2025-10-30 23:42:04] 🩹 Attempting to heal process: svchost.exe (PID 8656): 
+[2025-10-30 23:42:04] ❌ Healing failed for svchost.exe (PID 8656) → (pid=8656, name='svchost.exe'): 
+[2025-10-30 23:42:04] 🩹 Attempting to heal process: gamingservices.exe (PID 8740): 
+[2025-10-30 23:42:04] ❌ Healing failed for gamingservices.exe (PID 8740) → (pid=8740, name='gamingservices.exe'): 
+[2025-10-30 23:42:04] 🩹 Attempting to heal process: gamingservicesnet.exe (PID 8748): 
+[2025-10-30 23:42:04] ❌ Healing failed for gamingservicesnet.exe (PID 8748) → (pid=8748, name='gamingservicesnet.exe'): 
+[2025-10-30 23:42:04] 🩹 Attempting to heal process: IntelGraphicsSoftware.Service.exe (PID 8764): 
+[2025-10-30 23:42:04] ❌ Healing failed for IntelGraphicsSoftware.Service.exe (PID 8764) → (pid=8764, name='IntelGraphicsSoftware.Service.exe'): 
+[2025-10-30 23:42:04] 🩹 Attempting to heal process: AlienFXSubAgent.exe (PID 8924): 
+[2025-10-30 23:42:04] ✅ Terminated unresponsive process: AlienFXSubAgent.exe (PID 8924): 
+[2025-10-30 23:42:04] 🩹 Attempting to heal process: Widgets.exe (PID 8936): 
+[2025-10-30 23:42:04] ✅ Terminated unresponsive process: Widgets.exe (PID 8936): 
+[2025-10-30 23:42:04] 🩹 Attempting to heal process: svchost.exe (PID 9128): 
+[2025-10-30 23:42:04] ❌ Healing failed for svchost.exe (PID 9128) → (pid=9128, name='svchost.exe'): 
+[2025-10-30 23:42:04] 🩹 Attempting to heal process: wlanext.exe (PID 9136): 
+[2025-10-30 23:42:04] ❌ Healing failed for wlanext.exe (PID 9136) → (pid=9136, name='wlanext.exe'): 
+[2025-10-30 23:42:05] 🩹 Attempting to heal process: Intel_PIE_Service.exe (PID 9260): 
+[2025-10-30 23:42:05] ❌ Healing failed for Intel_PIE_Service.exe (PID 9260) → (pid=9260, name='Intel_PIE_Service.exe'): 
+[2025-10-30 23:42:05] 🩹 Attempting to heal process: AggregatorHost.exe (PID 9408): 
+[2025-10-30 23:42:05] ❌ Healing failed for AggregatorHost.exe (PID 9408) → (pid=9408, name='AggregatorHost.exe'): 
+[2025-10-30 23:42:05] 🩹 Attempting to heal process: PresentMonService.exe (PID 9988): 
+[2025-10-30 23:42:05] ❌ Healing failed for PresentMonService.exe (PID 9988) → (pid=9988, name='PresentMonService.exe'): 
+[2025-10-30 23:42:05] 🩹 Attempting to heal process: conhost.exe (PID 10112): 
+[2025-10-30 23:42:05] ❌ Healing failed for conhost.exe (PID 10112) → (pid=10112, name='conhost.exe'): 
+[2025-10-30 23:42:05] 🩹 Attempting to heal process: svchost.exe (PID 10140): 
+[2025-10-30 23:42:05] ❌ Healing failed for svchost.exe (PID 10140) → (pid=10140, name='svchost.exe'): 
+[2025-10-30 23:42:05] 🩹 Attempting to heal process: svchost.exe (PID 10152): 
+[2025-10-30 23:42:05] ✅ Terminated unresponsive process: svchost.exe (PID 10152): 
+[2025-10-30 23:42:05] 🩹 Attempting to heal process: svchost.exe (PID 10404): 
+[2025-10-30 23:42:05] ❌ Healing failed for svchost.exe (PID 10404) → (pid=10404, name='svchost.exe'): 
+[2025-10-30 23:42:05] 🩹 Attempting to heal process: svchost.exe (PID 10420): 
+[2025-10-30 23:42:05] ❌ Healing failed for svchost.exe (PID 10420) → (pid=10420, name='svchost.exe'): 
+[2025-10-30 23:42:06] 🩹 Attempting to heal process: fontdrvhost.exe (PID 10612): 
+[2025-10-30 23:42:06] ❌ Healing failed for fontdrvhost.exe (PID 10612) → (pid=10612, name='fontdrvhost.exe'): 
+[2025-10-30 23:42:06] 🩹 Attempting to heal process: svchost.exe (PID 10624): 
+[2025-10-30 23:42:06] ❌ Healing failed for svchost.exe (PID 10624) → (pid=10624, name='svchost.exe'): 
+[2025-10-30 23:42:06] 🩹 Attempting to heal process: mc-neo-host.exe (PID 11028): 
+[2025-10-30 23:42:06] ❌ Healing failed for mc-neo-host.exe (PID 11028) → (pid=11028, name='mc-neo-host.exe'): 
+[2025-10-30 23:42:06] 🩹 Attempting to heal process: DAX3API.exe (PID 11048): 
+[2025-10-30 23:42:06] ❌ Healing failed for DAX3API.exe (PID 11048) → (pid=11048, name='DAX3API.exe'): 
+[2025-10-30 23:42:06] 🩹 Attempting to heal process: nvsphelper64.exe (PID 11068): 
+[2025-10-30 23:42:06] ❌ Healing failed for nvsphelper64.exe (PID 11068) → (pid=11068, name='nvsphelper64.exe'): 
+[2025-10-30 23:42:06] 🩹 Attempting to heal process: svchost.exe (PID 11216): 
+[2025-10-30 23:42:06] ❌ Healing failed for svchost.exe (PID 11216) → (pid=11216, name='svchost.exe'): 
+[2025-10-30 23:42:06] 🩹 Attempting to heal process: svchost.exe (PID 11284): 
+[2025-10-30 23:42:06] ❌ Healing failed for svchost.exe (PID 11284) → (pid=11284, name='svchost.exe'): 
+[2025-10-30 23:42:06] 🩹 Attempting to heal process: taskhostw.exe (PID 11396): 
+[2025-10-30 23:42:06] ✅ Terminated unresponsive process: taskhostw.exe (PID 11396): 
+[2025-10-30 23:42:07] 🩹 Attempting to heal process: conhost.exe (PID 11544): 
+[2025-10-30 23:42:07] ✅ Terminated unresponsive process: conhost.exe (PID 11544): 
+[2025-10-30 23:42:07] 🩹 Attempting to heal process: conhost.exe (PID 11604): 
+[2025-10-30 23:42:07] ✅ Terminated unresponsive process: conhost.exe (PID 11604): 
+[2025-10-30 23:42:07] 🩹 Attempting to heal process: svchost.exe (PID 11704): 
+[2025-10-30 23:42:07] ❌ Healing failed for svchost.exe (PID 11704) → (pid=11704, name='svchost.exe'): 
+[2025-10-30 23:42:07] 🩹 Attempting to heal process: CrossDeviceResume.exe (PID 11784): 
+[2025-10-30 23:42:07] ✅ Terminated unresponsive process: CrossDeviceResume.exe (PID 11784): 
+[2025-10-30 23:42:07] 🩹 Attempting to heal process: svchost.exe (PID 11808): 
+[2025-10-30 23:42:07] ❌ Healing failed for svchost.exe (PID 11808) → (pid=11808, name='svchost.exe'): 
+[2025-10-30 23:42:07] 🩹 Attempting to heal process: Code.exe (PID 12076): 
+[2025-10-30 23:42:07] ✅ Terminated unresponsive process: Code.exe (PID 12076): 
+[2025-10-30 23:42:07] 🩹 Attempting to heal process: Code.exe (PID 12264): 
+[2025-10-30 23:42:07] ✅ Terminated unresponsive process: Code.exe (PID 12264): 
+[2025-10-30 23:42:08] 🩹 Attempting to heal process: conhost.exe (PID 12456): 
+[2025-10-30 23:42:08] ✅ Terminated unresponsive process: conhost.exe (PID 12456): 
+[2025-10-30 23:42:08] 🩹 Attempting to heal process: AppActions.exe (PID 12460): 
+[2025-10-30 23:42:08] ✅ Terminated unresponsive process: AppActions.exe (PID 12460): 
+[2025-10-30 23:42:08] 🩹 Attempting to heal process: RtkAudUService64.exe (PID 12636): 
+[2025-10-30 23:42:08] ❌ Healing failed for RtkAudUService64.exe (PID 12636) → (pid=12636, name='RtkAudUService64.exe'): 
+[2025-10-30 23:42:08] 🩹 Attempting to heal process: svchost.exe (PID 12716): 
+[2025-10-30 23:42:08] ❌ Healing failed for svchost.exe (PID 12716) → (pid=12716, name='svchost.exe'): 
+[2025-10-30 23:42:08] 🩹 Attempting to heal process: csrss.exe (PID 12804): 
+[2025-10-30 23:42:08] ❌ Healing failed for csrss.exe (PID 12804) → (pid=12804, name='csrss.exe'): 
+[2025-10-30 23:42:08] 🩹 Attempting to heal process: svchost.exe (PID 12848): 
+[2025-10-30 23:42:08] ❌ Healing failed for svchost.exe (PID 12848) → (pid=12848, name='svchost.exe'): 
+[2025-10-30 23:42:08] 🩹 Attempting to heal process: NVIDIA Overlay.exe (PID 12952): 
+[2025-10-30 23:42:08] ✅ Terminated unresponsive process: NVIDIA Overlay.exe (PID 12952): 
+[2025-10-30 23:42:09] 🩹 Attempting to heal process: svchost.exe (PID 13084): 
+[2025-10-30 23:42:09] ❌ Healing failed for svchost.exe (PID 13084) → (pid=13084, name='svchost.exe'): 
+[2025-10-30 23:42:09] 🩹 Attempting to heal process: RuntimeBroker.exe (PID 13408): 
+[2025-10-30 23:42:09] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 13408): 
+[2025-10-30 23:42:09] 🩹 Attempting to heal process: ipf_helper.exe (PID 13624): 
+[2025-10-30 23:42:09] ✅ Terminated unresponsive process: ipf_helper.exe (PID 13624): 
+[2025-10-30 23:42:09] 🩹 Attempting to heal process: NVIDIA Overlay.exe (PID 13772): 
+[2025-10-30 23:42:10] ✅ Terminated unresponsive process: NVIDIA Overlay.exe (PID 13772): 
+[2025-10-30 23:42:10] 🩹 Attempting to heal process: SecurityHealthService.exe (PID 13916): 
+[2025-10-30 23:42:10] ❌ Healing failed for SecurityHealthService.exe (PID 13916) → (pid=13916, name='SecurityHealthService.exe'): 
+[2025-10-30 23:42:11] 🩹 Attempting to heal process: svchost.exe (PID 14004): 
+[2025-10-30 23:42:11] ❌ Healing failed for svchost.exe (PID 14004) → (pid=14004, name='svchost.exe'): 
+[2025-10-30 23:42:11] 🩹 Attempting to heal process: svchost.exe (PID 14084): 
+[2025-10-30 23:42:11] ✅ Terminated unresponsive process: svchost.exe (PID 14084): 
+[2025-10-30 23:42:11] 🩹 Attempting to heal process: python.exe (PID 14096): 

@@ -1,7 +1,13 @@
 import psutil, time, subprocess
 from utils import log_event, ts
 
-# Simple restart mapping for common system tools (demo purpose)
+# Ignore system-level or protected processes
+IGNORE = [
+    "System", "Registry", "svchost.exe", "smss.exe",
+    "wininit.exe", "lsass.exe", "csrss.exe", "services.exe"
+]
+
+# Simple restart mapping for common demo tools
 RESTART_MAP = {
     "notepad.exe": ["notepad.exe"],
     "calc.exe": ["calc.exe"],
@@ -35,11 +41,20 @@ def heal_process(proc):
         log_event(f"❌ Healing failed for {name} (PID {pid}) → {e}")
 
 def main():
-    log_event(f"🧠 Healer service started at {ts()}")
+    log_event("🧠 Healer service started", f"Timestamp: {ts()}")
     while True:
         for proc in psutil.process_iter(['pid', 'name', 'cpu_percent', 'memory_percent']):
-            if is_process_unresponsive(proc):
-                heal_process(proc)
+            try:
+                # Skip protected/system processes
+                if proc.info["name"] in IGNORE:
+                    continue
+
+                if is_process_unresponsive(proc):
+                    heal_process(proc)
+
+            except (psutil.NoSuchProcess, psutil.AccessDenied):
+                continue
+
         time.sleep(10)  # check every 10 seconds
 
 if __name__ == "__main__":
