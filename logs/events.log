@@ -519,3 +519,231 @@
 [2025-10-30 23:42:11] 🩹 Attempting to heal process: svchost.exe (PID 14084): 
 [2025-10-30 23:42:11] ✅ Terminated unresponsive process: svchost.exe (PID 14084): 
 [2025-10-30 23:42:11] 🩹 Attempting to heal process: python.exe (PID 14096): 
+[2025-10-30 23:50:08] 🧠 Healer service started: Timestamp: 1761848408.858992
+[2025-10-30 23:50:09] 🩹 Attempting to heal process:  (PID 236): 
+[2025-10-30 23:50:09] ❌ Healing failed for  (PID 236) → (pid=236): 
+[2025-10-30 23:50:09] 🩹 Attempting to heal process: Dell.Connected.Service.Delivery.exe (PID 1312): 
+[2025-10-30 23:50:09] ❌ Healing failed for Dell.Connected.Service.Delivery.exe (PID 1312) → (pid=1312, name='Dell.Connected.Service.Delivery.exe'): 
+[2025-10-30 23:50:09] 🩹 Attempting to heal process: LsaIso.exe (PID 1368): 
+[2025-10-30 23:50:09] ❌ Healing failed for LsaIso.exe (PID 1368) → (pid=1368, name='LsaIso.exe'): 
+[2025-10-30 23:50:09] 🩹 Attempting to heal process: fontdrvhost.exe (PID 1536): 
+[2025-10-30 23:50:09] ❌ Healing failed for fontdrvhost.exe (PID 1536) → (pid=1536, name='fontdrvhost.exe'): 
+[2025-10-30 23:50:09] 🩹 Attempting to heal process: WUDFHost.exe (PID 1580): 
+[2025-10-30 23:50:09] ❌ Healing failed for WUDFHost.exe (PID 1580) → (pid=1580, name='WUDFHost.exe'): 
+[2025-10-30 23:50:09] 🩹 Attempting to heal process: msedgewebview2.exe (PID 1656): 
+[2025-10-30 23:50:09] ✅ Terminated unresponsive process: msedgewebview2.exe (PID 1656): 
+[2025-10-30 23:50:09] 🩹 Attempting to heal process: WUDFHost.exe (PID 1740): 
+[2025-10-30 23:50:09] ❌ Healing failed for WUDFHost.exe (PID 1740) → (pid=1740, name='WUDFHost.exe'): 
+[2025-10-30 23:50:09] 🩹 Attempting to heal process: WUDFHost.exe (PID 1964): 
+[2025-10-30 23:50:09] ❌ Healing failed for WUDFHost.exe (PID 1964) → (pid=1964, name='WUDFHost.exe'): 
+[2025-10-30 23:50:10] 🩹 Attempting to heal process: IntelCpHDCPSvc.exe (PID 2456): 
+[2025-10-30 23:50:10] ❌ Healing failed for IntelCpHDCPSvc.exe (PID 2456) → (pid=2456, name='IntelCpHDCPSvc.exe'): 
+[2025-10-30 23:50:10] 🩹 Attempting to heal process: conhost.exe (PID 2504): 
+[2025-10-30 23:50:10] ✅ Terminated unresponsive process: conhost.exe (PID 2504): 
+[2025-10-30 23:50:10] 🩹 Attempting to heal process: Code.exe (PID 2908): 
+[2025-10-30 23:50:10] ✅ Terminated unresponsive process: Code.exe (PID 2908): 
+[2025-10-30 23:50:10] 🩹 Attempting to heal process: helperservice.exe (PID 3260): 
+[2025-10-30 23:50:10] ❌ Healing failed for helperservice.exe (PID 3260) → (pid=3260, name='helperservice.exe'): 
+[2025-10-30 23:50:10] 🩹 Attempting to heal process: conhost.exe (PID 3280): 
+[2025-10-30 23:50:10] ✅ Terminated unresponsive process: conhost.exe (PID 3280): 
+[2025-10-30 23:50:10] 🩹 Attempting to heal process: conhost.exe (PID 3488): 
+[2025-10-30 23:50:10] ❌ Healing failed for conhost.exe (PID 3488) → (pid=3488, name='conhost.exe'): 
+[2025-10-30 23:50:10] 🩹 Attempting to heal process: NVDisplay.Container.exe (PID 3500): 
+[2025-10-30 23:50:10] ❌ Healing failed for NVDisplay.Container.exe (PID 3500) → (pid=3500, name='NVDisplay.Container.exe'): 
+[2025-10-30 23:50:11] 🩹 Attempting to heal process: RtkAudUService64.exe (PID 3512): 
+[2025-10-30 23:50:11] ❌ Healing failed for RtkAudUService64.exe (PID 3512) → (pid=3512, name='RtkAudUService64.exe'): 
+[2025-10-30 23:50:11] 🩹 Attempting to heal process: conhost.exe (PID 3832): 
+[2025-10-30 23:50:11] ❌ Healing failed for conhost.exe (PID 3832) → (pid=3832, name='conhost.exe'): 
+[2025-10-30 23:50:11] 🩹 Attempting to heal process: Dell.Update.SubAgent.exe (PID 4012): 
+[2025-10-30 23:50:11] ❌ Healing failed for Dell.Update.SubAgent.exe (PID 4012) → (pid=4012, name='Dell.Update.SubAgent.exe'): 
+[2025-10-30 23:50:11] 🩹 Attempting to heal process: spoolsv.exe (PID 4256): 
+[2025-10-30 23:50:11] ❌ Healing failed for spoolsv.exe (PID 4256) → (pid=4256, name='spoolsv.exe'): 
+[2025-10-30 23:50:11] 🩹 Attempting to heal process: AnyDesk.exe (PID 4672): 
+[2025-10-30 23:50:11] ❌ Healing failed for AnyDesk.exe (PID 4672) → (pid=4672, name='AnyDesk.exe'): 
+[2025-10-30 23:50:11] 🩹 Attempting to heal process: armsvc.exe (PID 4676): 
+[2025-10-30 23:50:11] ❌ Healing failed for armsvc.exe (PID 4676) → (pid=4676, name='armsvc.exe'): 
+[2025-10-30 23:50:12] 🩹 Attempting to heal process: Dell.TechHub.exe (PID 4688): 
+[2025-10-30 23:50:12] ❌ Healing failed for Dell.TechHub.exe (PID 4688) → (pid=4688, name='Dell.TechHub.exe'): 
+[2025-10-30 23:50:12] 🩹 Attempting to heal process: DAX3API.exe (PID 4704): 
+[2025-10-30 23:50:12] ❌ Healing failed for DAX3API.exe (PID 4704) → (pid=4704, name='DAX3API.exe'): 
+[2025-10-30 23:50:12] 🩹 Attempting to heal process: ipfsvc.exe (PID 4740): 
+[2025-10-30 23:50:12] ❌ Healing failed for ipfsvc.exe (PID 4740) → (pid=4740, name='ipfsvc.exe'): 
+[2025-10-30 23:50:12] 🩹 Attempting to heal process: OneApp.IGCC.WinService.exe (PID 4772): 
+[2025-10-30 23:50:12] ❌ Healing failed for OneApp.IGCC.WinService.exe (PID 4772) → (pid=4772, name='OneApp.IGCC.WinService.exe'): 
+[2025-10-30 23:50:12] 🩹 Attempting to heal process: IgoAudioService_x64.exe (PID 4780): 
+[2025-10-30 23:50:12] ❌ Healing failed for IgoAudioService_x64.exe (PID 4780) → (pid=4780, name='IgoAudioService_x64.exe'): 
+[2025-10-30 23:50:12] 🩹 Attempting to heal process: IntelAudioService.exe (PID 4812): 
+[2025-10-30 23:50:12] ❌ Healing failed for IntelAudioService.exe (PID 4812) → (pid=4812, name='IntelAudioService.exe'): 
+[2025-10-30 23:50:12] 🩹 Attempting to heal process: OfficeClickToRun.exe (PID 4824): 
+[2025-10-30 23:50:12] ❌ Healing failed for OfficeClickToRun.exe (PID 4824) → (pid=4824, name='OfficeClickToRun.exe'): 
+[2025-10-30 23:50:12] 🩹 Attempting to heal process: ipf_uf.exe (PID 4856): 
+[2025-10-30 23:50:12] ❌ Healing failed for ipf_uf.exe (PID 4856) → (pid=4856, name='ipf_uf.exe'): 
+[2025-10-30 23:50:12] 🩹 Attempting to heal process: nvcontainer.exe (PID 4956): 
+[2025-10-30 23:50:12] ❌ Healing failed for nvcontainer.exe (PID 4956) → (pid=4956, name='nvcontainer.exe'): 
+[2025-10-30 23:50:13] 🩹 Attempting to heal process: jhi_service.exe (PID 4988): 
+[2025-10-30 23:50:13] ❌ Healing failed for jhi_service.exe (PID 4988) → (pid=4988, name='jhi_service.exe'): 
+[2025-10-30 23:50:13] 🩹 Attempting to heal process: RstMwService.exe (PID 5056): 
+[2025-10-30 23:50:13] ❌ Healing failed for RstMwService.exe (PID 5056) → (pid=5056, name='RstMwService.exe'): 
+[2025-10-30 23:50:13] 🩹 Attempting to heal process: WMIRegistrationService.exe (PID 5124): 
+[2025-10-30 23:50:13] ❌ Healing failed for WMIRegistrationService.exe (PID 5124) → (pid=5124, name='WMIRegistrationService.exe'): 
+[2025-10-30 23:50:13] 🩹 Attempting to heal process: Code.exe (PID 6164): 
+[2025-10-30 23:50:13] ✅ Terminated unresponsive process: Code.exe (PID 6164): 
+[2025-10-30 23:50:13] 🩹 Attempting to heal process: powershell.exe (PID 6812): 
+[2025-10-30 23:50:13] ✅ Terminated unresponsive process: powershell.exe (PID 6812): 
+[2025-10-30 23:50:14] 🩹 Attempting to heal process: conhost.exe (PID 7028): 
+[2025-10-30 23:50:14] ❌ Healing failed for conhost.exe (PID 7028) → (pid=7028, name='conhost.exe'): 
+[2025-10-30 23:50:14] 🩹 Attempting to heal process: NVIDIA Overlay.exe (PID 7188): 
+[2025-10-30 23:50:14] ✅ Terminated unresponsive process: NVIDIA Overlay.exe (PID 7188): 
+[2025-10-30 23:50:14] 🩹 Attempting to heal process: iGoSwServer.exe (PID 7704): 
+[2025-10-30 23:50:14] ❌ Healing failed for iGoSwServer.exe (PID 7704) → (pid=7704, name='iGoSwServer.exe'): 
+[2025-10-30 23:50:14] 🩹 Attempting to heal process: WmiPrvSE.exe (PID 7880): 
+[2025-10-30 23:50:14] ❌ Healing failed for WmiPrvSE.exe (PID 7880) → (pid=7880, name='WmiPrvSE.exe'): 
+[2025-10-30 23:50:14] 🩹 Attempting to heal process: Dell.TechHub.DataManager.SubAgent.exe (PID 8176): 
+[2025-10-30 23:50:14] ❌ Healing failed for Dell.TechHub.DataManager.SubAgent.exe (PID 8176) → (pid=8176, name='Dell.TechHub.DataManager.SubAgent.exe'): 
+[2025-10-30 23:50:14] 🩹 Attempting to heal process: gamingservices.exe (PID 8740): 
+[2025-10-30 23:50:14] ❌ Healing failed for gamingservices.exe (PID 8740) → (pid=8740, name='gamingservices.exe'): 
+[2025-10-30 23:50:14] 🩹 Attempting to heal process: gamingservicesnet.exe (PID 8748): 
+[2025-10-30 23:50:14] ❌ Healing failed for gamingservicesnet.exe (PID 8748) → (pid=8748, name='gamingservicesnet.exe'): 
+[2025-10-30 23:50:14] 🩹 Attempting to heal process: IntelGraphicsSoftware.Service.exe (PID 8764): 
+[2025-10-30 23:50:14] ❌ Healing failed for IntelGraphicsSoftware.Service.exe (PID 8764) → (pid=8764, name='IntelGraphicsSoftware.Service.exe'): 
+[2025-10-30 23:50:15] 🩹 Attempting to heal process: wlanext.exe (PID 9136): 
+[2025-10-30 23:50:15] ❌ Healing failed for wlanext.exe (PID 9136) → (pid=9136, name='wlanext.exe'): 
+[2025-10-30 23:50:15] 🩹 Attempting to heal process: Intel_PIE_Service.exe (PID 9260): 
+[2025-10-30 23:50:15] ❌ Healing failed for Intel_PIE_Service.exe (PID 9260) → (pid=9260, name='Intel_PIE_Service.exe'): 
+[2025-10-30 23:50:15] 🩹 Attempting to heal process: AggregatorHost.exe (PID 9408): 
+[2025-10-30 23:50:15] ❌ Healing failed for AggregatorHost.exe (PID 9408) → (pid=9408, name='AggregatorHost.exe'): 
+[2025-10-30 23:50:15] 🩹 Attempting to heal process: GameEyeApp.exe (PID 9496): 
+[2025-10-30 23:50:15] ✅ Terminated unresponsive process: GameEyeApp.exe (PID 9496): 
+[2025-10-30 23:50:15] 🩹 Attempting to heal process: PresentMonService.exe (PID 9988): 
+[2025-10-30 23:50:15] ❌ Healing failed for PresentMonService.exe (PID 9988) → (pid=9988, name='PresentMonService.exe'): 
+[2025-10-30 23:50:15] 🩹 Attempting to heal process: conhost.exe (PID 10112): 
+[2025-10-30 23:50:15] ❌ Healing failed for conhost.exe (PID 10112) → (pid=10112, name='conhost.exe'): 
+[2025-10-30 23:50:15] 🩹 Attempting to heal process: Code.exe (PID 10152): 
+[2025-10-30 23:50:15] ✅ Terminated unresponsive process: Code.exe (PID 10152): 
+[2025-10-30 23:50:15] 🩹 Attempting to heal process: fontdrvhost.exe (PID 10612): 
+[2025-10-30 23:50:15] ❌ Healing failed for fontdrvhost.exe (PID 10612) → (pid=10612, name='fontdrvhost.exe'): 
+[2025-10-30 23:50:16] 🩹 Attempting to heal process: mc-neo-host.exe (PID 11028): 
+[2025-10-30 23:50:16] ❌ Healing failed for mc-neo-host.exe (PID 11028) → (pid=11028, name='mc-neo-host.exe'): 
+[2025-10-30 23:50:16] 🩹 Attempting to heal process: DAX3API.exe (PID 11048): 
+[2025-10-30 23:50:16] ❌ Healing failed for DAX3API.exe (PID 11048) → (pid=11048, name='DAX3API.exe'): 
+[2025-10-30 23:50:16] 🩹 Attempting to heal process: dllhost.exe (PID 11280): 
+[2025-10-30 23:50:16] ✅ Terminated unresponsive process: dllhost.exe (PID 11280): 
+[2025-10-30 23:50:16] 🩹 Attempting to heal process: RtkAudUService64.exe (PID 12636): 
+[2025-10-30 23:50:16] ❌ Healing failed for RtkAudUService64.exe (PID 12636) → (pid=12636, name='RtkAudUService64.exe'): 
+[2025-10-30 23:50:16] 🩹 Attempting to heal process: powershell.exe (PID 13396): 
+[2025-10-30 23:50:16] ✅ Terminated unresponsive process: powershell.exe (PID 13396): 
+[2025-10-30 23:50:16] 🩹 Attempting to heal process: SecurityHealthService.exe (PID 13916): 
+[2025-10-30 23:50:16] ❌ Healing failed for SecurityHealthService.exe (PID 13916) → (pid=13916, name='SecurityHealthService.exe'): 
+[2025-10-30 23:50:17] 🩹 Attempting to heal process: mc-fw-host.exe (PID 14512): 
+[2025-10-30 23:50:17] ❌ Healing failed for mc-fw-host.exe (PID 14512) → (pid=14512, name='mc-fw-host.exe'): 
+[2025-10-30 23:50:17] 🩹 Attempting to heal process: RuntimeBroker.exe (PID 14576): 
+[2025-10-30 23:50:17] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 14576): 
+[2025-10-30 23:50:17] 🩹 Attempting to heal process: NVIDIA Overlay.exe (PID 14592): 
+[2025-10-30 23:50:17] ✅ Terminated unresponsive process: NVIDIA Overlay.exe (PID 14592): 
+[2025-10-30 23:50:17] 🩹 Attempting to heal process: ShellExperienceHost.exe (PID 14804): 
+[2025-10-30 23:50:17] ✅ Terminated unresponsive process: ShellExperienceHost.exe (PID 14804): 
+[2025-10-30 23:50:17] 🩹 Attempting to heal process: opera.exe (PID 15136): 
+[2025-10-30 23:50:17] ✅ Terminated unresponsive process: opera.exe (PID 15136): 
+[2025-10-30 23:50:17] 🩹 Attempting to heal process: NVDisplay.Container.exe (PID 15252): 
+[2025-10-30 23:50:17] ❌ Healing failed for NVDisplay.Container.exe (PID 15252) → (pid=15252, name='NVDisplay.Container.exe'): 
+[2025-10-30 23:50:17] 🩹 Attempting to heal process: SearchIndexer.exe (PID 15460): 
+[2025-10-30 23:50:17] ❌ Healing failed for SearchIndexer.exe (PID 15460) → (pid=15460, name='SearchIndexer.exe'): 
+[2025-10-30 23:50:18] 🩹 Attempting to heal process: StartMenuExperienceHost.exe (PID 15492): 
+[2025-10-30 23:50:18] ✅ Terminated unresponsive process: StartMenuExperienceHost.exe (PID 15492): 
+[2025-10-30 23:50:18] 🩹 Attempting to heal process: UserOOBEBroker.exe (PID 15516): 
+[2025-10-30 23:50:18] ✅ Terminated unresponsive process: UserOOBEBroker.exe (PID 15516): 
+[2025-10-30 23:50:18] 🩹 Attempting to heal process: conhost.exe (PID 15684): 
+[2025-10-30 23:50:18] ❌ Healing failed for conhost.exe (PID 15684) → (pid=15684, name='conhost.exe'): 
+[2025-10-30 23:50:18] 🩹 Attempting to heal process: NVIDIA Overlay.exe (PID 15744): 
+[2025-10-30 23:50:18] ✅ Terminated unresponsive process: NVIDIA Overlay.exe (PID 15744): 
+[2025-10-30 23:50:18] 🩹 Attempting to heal process: nvcontainer.exe (PID 16176): 
+[2025-10-30 23:50:18] ❌ Healing failed for nvcontainer.exe (PID 16176) → (pid=16176, name='nvcontainer.exe'): 
+[2025-10-30 23:50:18] 🩹 Attempting to heal process: RuntimeBroker.exe (PID 16264): 
+[2025-10-30 23:50:18] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 16264): 
+[2025-10-30 23:50:19] 🩹 Attempting to heal process: opera.exe (PID 16292): 
+[2025-10-30 23:50:19] ✅ Terminated unresponsive process: opera.exe (PID 16292): 
+[2025-10-30 23:50:19] 🩹 Attempting to heal process: mc-vpn.exe (PID 16556): 
+[2025-10-30 23:50:19] ❌ Healing failed for mc-vpn.exe (PID 16556) → (pid=16556, name='mc-vpn.exe'): 
+[2025-10-30 23:50:19] 🩹 Attempting to heal process: RuntimeBroker.exe (PID 16744): 
+[2025-10-30 23:50:19] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 16744): 
+[2025-10-30 23:50:19] 🩹 Attempting to heal process: conhost.exe (PID 16972): 
+[2025-10-30 23:50:19] ✅ Terminated unresponsive process: conhost.exe (PID 16972): 
+[2025-10-30 23:50:19] 🩹 Attempting to heal process: conhost.exe (PID 17328): 
+[2025-10-30 23:50:19] ✅ Terminated unresponsive process: conhost.exe (PID 17328): 
+[2025-10-30 23:50:19] 🩹 Attempting to heal process: Code.exe (PID 17372): 
+[2025-10-30 23:50:19] ✅ Terminated unresponsive process: Code.exe (PID 17372): 
+[2025-10-30 23:50:19] 🩹 Attempting to heal process: SystemSettings.exe (PID 17612): 
+[2025-10-30 23:50:19] ✅ Terminated unresponsive process: SystemSettings.exe (PID 17612): 
+[2025-10-30 23:50:20] 🩹 Attempting to heal process: AWGameLibrary.UCSubAgent.exe (PID 18244): 
+[2025-10-30 23:50:20] ✅ Terminated unresponsive process: AWGameLibrary.UCSubAgent.exe (PID 18244): 
+[2025-10-30 23:50:20] 🩹 Attempting to heal process: Code.exe (PID 18248): 
+[2025-10-30 23:50:20] ✅ Terminated unresponsive process: Code.exe (PID 18248): 
+[2025-10-30 23:50:20] 🩹 Attempting to heal process: Code.exe (PID 18296): 
+[2025-10-30 23:56:29] 🧠 Healer service started: Timestamp: 1761848789.3290148
+[2025-10-30 23:56:29] 🩹 Attempting to heal process:  (PID 236): 
+[2025-10-30 23:56:29] ❌ Healing failed for  (PID 236) → (pid=236): 
+[2025-10-30 23:56:29] 🩹 Attempting to heal process: Dell.Connected.Service.Delivery.exe (PID 1312): 
+[2025-10-30 23:56:29] ❌ Healing failed for Dell.Connected.Service.Delivery.exe (PID 1312) → (pid=1312, name='Dell.Connected.Service.Delivery.exe'): 
+[2025-10-30 23:56:29] 🩹 Attempting to heal process: LsaIso.exe (PID 1368): 
+[2025-10-30 23:56:29] ❌ Healing failed for LsaIso.exe (PID 1368) → (pid=1368, name='LsaIso.exe'): 
+[2025-10-30 23:56:29] 🩹 Attempting to heal process: fontdrvhost.exe (PID 1536): 
+[2025-10-30 23:56:29] ❌ Healing failed for fontdrvhost.exe (PID 1536) → (pid=1536, name='fontdrvhost.exe'): 
+[2025-10-30 23:56:30] 🩹 Attempting to heal process: WUDFHost.exe (PID 1580): 
+[2025-10-30 23:56:30] ❌ Healing failed for WUDFHost.exe (PID 1580) → (pid=1580, name='WUDFHost.exe'): 
+[2025-10-30 23:56:30] 🩹 Attempting to heal process: WUDFHost.exe (PID 1740): 
+[2025-10-30 23:56:30] ❌ Healing failed for WUDFHost.exe (PID 1740) → (pid=1740, name='WUDFHost.exe'): 
+[2025-10-30 23:56:30] 🩹 Attempting to heal process: WUDFHost.exe (PID 1964): 
+[2025-10-30 23:56:30] ❌ Healing failed for WUDFHost.exe (PID 1964) → (pid=1964, name='WUDFHost.exe'): 
+[2025-10-30 23:56:30] 🩹 Attempting to heal process: smartscreen.exe (PID 2292): 
+[2025-10-30 23:56:30] ✅ Terminated unresponsive process: smartscreen.exe (PID 2292): 
+[2025-10-30 23:56:30] 🩹 Attempting to heal process: IntelCpHDCPSvc.exe (PID 2456): 
+[2025-10-30 23:56:30] ❌ Healing failed for IntelCpHDCPSvc.exe (PID 2456) → (pid=2456, name='IntelCpHDCPSvc.exe'): 
+[2025-10-30 23:56:30] 🩹 Attempting to heal process: conhost.exe (PID 3224): 
+[2025-10-30 23:56:30] ✅ Terminated unresponsive process: conhost.exe (PID 3224): 
+[2025-10-30 23:56:30] 🩹 Attempting to heal process: helperservice.exe (PID 3260): 
+[2025-10-30 23:56:30] ❌ Healing failed for helperservice.exe (PID 3260) → (pid=3260, name='helperservice.exe'): 
+[2025-10-30 23:56:31] 🩹 Attempting to heal process: conhost.exe (PID 3488): 
+[2025-10-30 23:56:31] ❌ Healing failed for conhost.exe (PID 3488) → (pid=3488, name='conhost.exe'): 
+[2025-10-30 23:56:31] 🩹 Attempting to heal process: NVDisplay.Container.exe (PID 3500): 
+[2025-10-30 23:56:31] ❌ Healing failed for NVDisplay.Container.exe (PID 3500) → (pid=3500, name='NVDisplay.Container.exe'): 
+[2025-10-30 23:56:31] 🩹 Attempting to heal process: RtkAudUService64.exe (PID 3512): 
+[2025-10-30 23:56:31] ❌ Healing failed for RtkAudUService64.exe (PID 3512) → (pid=3512, name='RtkAudUService64.exe'): 
+[2025-10-30 23:56:31] 🩹 Attempting to heal process: conhost.exe (PID 3832): 
+[2025-10-30 23:56:31] ❌ Healing failed for conhost.exe (PID 3832) → (pid=3832, name='conhost.exe'): 
+[2025-10-30 23:56:31] 🩹 Attempting to heal process: Dell.Update.SubAgent.exe (PID 4012): 
+[2025-10-30 23:56:31] ❌ Healing failed for Dell.Update.SubAgent.exe (PID 4012) → (pid=4012, name='Dell.Update.SubAgent.exe'): 
+[2025-10-30 23:56:31] 🩹 Attempting to heal process: spoolsv.exe (PID 4256): 
+[2025-10-30 23:56:31] ❌ Healing failed for spoolsv.exe (PID 4256) → (pid=4256, name='spoolsv.exe'): 
+[2025-10-30 23:56:31] 🩹 Attempting to heal process: dllhost.exe (PID 4620): 
+[2025-10-30 23:56:32] ✅ Terminated unresponsive process: dllhost.exe (PID 4620): 
+[2025-10-30 23:56:32] 🩹 Attempting to heal process: AnyDesk.exe (PID 4672): 
+[2025-10-30 23:56:32] ❌ Healing failed for AnyDesk.exe (PID 4672) → (pid=4672, name='AnyDesk.exe'): 
+[2025-10-30 23:56:32] 🩹 Attempting to heal process: armsvc.exe (PID 4676): 
+[2025-10-30 23:56:32] ❌ Healing failed for armsvc.exe (PID 4676) → (pid=4676, name='armsvc.exe'): 
+[2025-10-30 23:56:32] 🩹 Attempting to heal process: Dell.TechHub.exe (PID 4688): 
+[2025-10-30 23:56:32] ❌ Healing failed for Dell.TechHub.exe (PID 4688) → (pid=4688, name='Dell.TechHub.exe'): 
+[2025-10-30 23:56:32] 🩹 Attempting to heal process: DAX3API.exe (PID 4704): 
+[2025-10-30 23:56:32] ❌ Healing failed for DAX3API.exe (PID 4704) → (pid=4704, name='DAX3API.exe'): 
+[2025-10-30 23:56:32] 🩹 Attempting to heal process: ipfsvc.exe (PID 4740): 
+[2025-10-30 23:56:32] ❌ Healing failed for ipfsvc.exe (PID 4740) → (pid=4740, name='ipfsvc.exe'): 
+[2025-10-30 23:56:32] 🩹 Attempting to heal process: OneApp.IGCC.WinService.exe (PID 4772): 
+[2025-10-30 23:56:32] ❌ Healing failed for OneApp.IGCC.WinService.exe (PID 4772) → (pid=4772, name='OneApp.IGCC.WinService.exe'): 
+[2025-10-30 23:56:32] 🩹 Attempting to heal process: IgoAudioService_x64.exe (PID 4780): 
+[2025-10-30 23:56:32] ❌ Healing failed for IgoAudioService_x64.exe (PID 4780) → (pid=4780, name='IgoAudioService_x64.exe'): 
+[2025-10-30 23:56:32] 🩹 Attempting to heal process: IntelAudioService.exe (PID 4812): 
+[2025-10-30 23:56:32] ❌ Healing failed for IntelAudioService.exe (PID 4812) → (pid=4812, name='IntelAudioService.exe'): 
+[2025-10-30 23:56:33] 🩹 Attempting to heal process: OfficeClickToRun.exe (PID 4824): 
+[2025-10-30 23:56:33] ❌ Healing failed for OfficeClickToRun.exe (PID 4824) → (pid=4824, name='OfficeClickToRun.exe'): 
+[2025-10-30 23:56:33] 🩹 Attempting to heal process: ipf_uf.exe (PID 4856): 
+[2025-10-30 23:56:33] ❌ Healing failed for ipf_uf.exe (PID 4856) → (pid=4856, name='ipf_uf.exe'): 
+[2025-10-30 23:56:33] 🩹 Attempting to heal process: nvcontainer.exe (PID 4956): 
+[2025-10-30 23:56:33] ❌ Healing failed for nvcontainer.exe (PID 4956) → (pid=4956, name='nvcontainer.exe'): 
+[2025-10-30 23:56:33] 🩹 Attempting to heal process: jhi_service.exe (PID 4988): 
+[2025-10-30 23:56:33] ❌ Healing failed for jhi_service.exe (PID 4988) → (pid=4988, name='jhi_service.exe'): 
+[2025-10-30 23:56:33] 🩹 Attempting to heal process: RstMwService.exe (PID 5056): 
+[2025-10-30 23:56:33] ❌ Healing failed for RstMwService.exe (PID 5056) → (pid=5056, name='RstMwService.exe'): 
+[2025-10-30 23:56:33] 🩹 Attempting to heal process: WMIRegistrationService.exe (PID 5124): 
+[2025-10-30 23:56:33] ❌ Healing failed for WMIRegistrationService.exe (PID 5124) → (pid=5124, name='WMIRegistrationService.exe'): 
+[2025-10-30 23:56:33] 🩹 Attempting to heal process: python.exe (PID 6084): 
+[2025-10-31 00:08:36] Restarted notepad.exe | Cause: Process not found / crashed
+[2025-10-31 00:13:07] Restarted notepad.exe | Cause: Process not found / crashed
