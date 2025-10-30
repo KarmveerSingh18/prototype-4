@@ -1,0 +1,13 @@
+# key: mapping
+demo_app:
+  name: "Demo App"
+  cmd: "python demo/demo_app.py"
+  restart_limit: 5
+  auto_restart: true
+
+# Example: other apps you want SHOL to be able to restart
+my_server:
+  name: "Local Server"
+  cmd: "python /home/parth/projects/server.py"
+  restart_limit: 3
+  auto_restart: true

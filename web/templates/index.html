@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>SHOL Dashboard</title>
+  <style>
+    body { font-family: Arial; margin: 16px; }
+    table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+    th, td { border: 1px solid #ddd; padding: 8px; }
+    th { background: #f4f4f4; }
+  </style>
+</head>
+<body>
+  <h2>SHOL — Processes</h2>
+  <table>
+    <tr><th>PID</th><th>Name</th><th>CPU%</th><th>Mem%</th><th>Cmdline</th><th>Status</th></tr>
+    {% for p in procs %}
+      <tr>
+        <td>{{ p.pid }}</td>
+        <td>{{ p.name }}</td>
+        <td>{{ "%.2f"|format(p.cpu or 0) }}</td>
+        <td>{{ "%.2f"|format(p.mem or 0) }}</td>
+        <td>{{ p.cmdline }}</td>
+        <td>{{ p.status }}</td>
+      </tr>
+    {% endfor %}
+  </table>
+
+  <h3>Recent Events</h3>
+  <table>
+    <tr><th>Time</th><th>Proc</th><th>Issue</th><th>Action</th><th>Detail</th></tr>
+    {% for l in logs %}
+      <tr>
+        <td>{{ l.timestr }}</td>
+        <td>{{ l.proc_name }}</td>
+        <td>{{ l.issue }}</td>
+        <td>{{ l.action }}</td>
+        <td>{{ l.detail }}</td>
+      </tr>
+    {% endfor %}
+  </table>
+</body>
+</html>
