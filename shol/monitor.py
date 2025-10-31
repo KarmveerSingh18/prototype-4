@@ -78,5 +78,38 @@ def monitor_system():
         time.sleep(5)  # check every 5 seconds
 
 
+def check_process(proc):
+    try:
+        cpu = proc.cpu_percent() / psutil.cpu_count()
+        mem = proc.memory_percent()
+
+        cause = None
+        if cpu > 85:
+            cause = f"High CPU Usage ({cpu:.1f}%)"
+        elif mem > 80:
+            cause = f"High Memory Usage ({mem:.1f}%)"
+        elif not proc.is_running():
+            cause = "Process Not Responding"
+
+        if cause:
+            from healer import heal_process
+            heal_process(proc, cause)
+    except (psutil.NoSuchProcess, psutil.AccessDenied):
+        pass
+
+
+def get_health_score(cpu, mem):
+    score = max(0, 100 - (cpu*0.6 + mem*0.4))
+    if score > 80:
+        status = "Healthy"
+    elif score > 60:
+        status = "Warning"
+    else:
+        status = "Critical"
+    return score, status
+
+
+
+
 if __name__ == "__main__":
     monitor_system()

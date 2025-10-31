@@ -23,22 +23,43 @@ def is_process_unresponsive(proc):
     except (psutil.NoSuchProcess, psutil.AccessDenied):
         return False
 
-def heal_process(proc):
-    name = proc.name()
-    pid = proc.pid
+def heal_process(proc, cause=None, health_score=None):
+    """
+    Heals (terminates/restarts) the given psutil.Process object.
+    Accepts optional cause (string) and health_score (numeric) for richer logging.
+    Backwards-compatible: existing calls without cause/health_score will still work.
+    """
     try:
-        log_event(f"🩹 Attempting to heal process: {name} (PID {pid})")
+        name = proc.name()
+        pid = proc.pid
+    except (psutil.NoSuchProcess, psutil.AccessDenied):
+        log_event(f"⚠️ Cannot access process metadata (may have exited) | PID: {getattr(proc, 'pid', 'N/A')}")
+        return
+
+    # Build rich log message
+    meta_parts = []
+    if cause:
+        meta_parts.append(f"Cause: {cause}")
+    if health_score is not None:
+        meta_parts.append(f"Health: {health_score:.1f}")
+    meta = " | ".join(meta_parts) if meta_parts else "No cause provided"
+
+    try:
+        log_event(f"🩺 Attempting to heal process: {name} (PID {pid}) | {meta}")
         proc.terminate()
         proc.wait(timeout=5)
-        log_event(f"✅ Terminated unresponsive process: {name} (PID {pid})")
+        log_event(f"✅ Terminated unresponsive process: {name} (PID {pid}) | {meta}")
 
-        # Try restarting if it’s known in RESTART_MAP
+        # Optionally attempt restart if you have a mapping
         if name.lower() in RESTART_MAP:
-            subprocess.Popen(RESTART_MAP[name.lower()])
-            log_event(f"🔁 Restarted process: {name}")
+            try:
+                subprocess.Popen(RESTART_MAP[name.lower()])
+                log_event(f"🔁 Restarted process: {name} (via restart map)")
+            except Exception as e:
+                log_event(f"❌ Restart failed for {name} -> {e}")
 
     except Exception as e:
-        log_event(f"❌ Healing failed for {name} (PID {pid}) → {e}")
+        log_event(f"❌ Healing failed for {name} (PID {pid}) -> {e} | {meta}")
 
 def main():
     log_event("🧠 Healer service started", f"Timestamp: {ts()}")
