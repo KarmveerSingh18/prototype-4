@@ -1604,3 +1604,937 @@
 [2025-10-31 12:31:45] Restarted notepad.exe | Cause: Process not found / crashed
 [2025-10-31 12:31:55] Restarted notepad.exe | Cause: Process not found / crashed
 [2025-10-31 12:32:05] Restarted notepad.exe | Cause: Process not found / crashed
+[2025-10-31 13:01:48] 🧠 Healer service started: Timestamp: 1761895908.9789877
+[2025-10-31 13:01:49] 🩺 Attempting to heal process:  (PID 188) | No cause provided: 
+[2025-10-31 13:01:49] ❌ Healing failed for  (PID 188) -> (pid=188) | No cause provided: 
+[2025-10-31 13:01:50] 🩺 Attempting to heal process: dasHost.exe (PID 844) | No cause provided: 
+[2025-10-31 13:01:50] ❌ Healing failed for dasHost.exe (PID 844) -> (pid=844, name='dasHost.exe') | No cause provided: 
+[2025-10-31 13:01:50] 🩺 Attempting to heal process: LsaIso.exe (PID 1288) | No cause provided: 
+[2025-10-31 13:01:50] ❌ Healing failed for LsaIso.exe (PID 1288) -> (pid=1288, name='LsaIso.exe') | No cause provided: 
+[2025-10-31 13:01:51] 🩺 Attempting to heal process: fontdrvhost.exe (PID 1532) | No cause provided: 
+[2025-10-31 13:01:51] ❌ Healing failed for fontdrvhost.exe (PID 1532) -> (pid=1532, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 13:01:51] 🩺 Attempting to heal process: WUDFHost.exe (PID 1576) | No cause provided: 
+[2025-10-31 13:01:51] ❌ Healing failed for WUDFHost.exe (PID 1576) -> (pid=1576, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 13:01:51] 🩺 Attempting to heal process: sihost.exe (PID 1728) | No cause provided: 
+[2025-10-31 13:01:51] ✅ Terminated unresponsive process: sihost.exe (PID 1728) | No cause provided: 
+[2025-10-31 13:01:52] 🩺 Attempting to heal process: WUDFHost.exe (PID 2064) | No cause provided: 
+[2025-10-31 13:01:52] ❌ Healing failed for WUDFHost.exe (PID 2064) -> (pid=2064, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 13:01:53] 🩺 Attempting to heal process: IntelCpHDCPSvc.exe (PID 2444) | No cause provided: 
+[2025-10-31 13:01:53] ❌ Healing failed for IntelCpHDCPSvc.exe (PID 2444) -> (pid=2444, name='IntelCpHDCPSvc.exe') | No cause provided: 
+[2025-10-31 13:01:55] 🩺 Attempting to heal process: OmenCap.exe (PID 3460) | No cause provided: 
+[2025-10-31 13:01:55] ❌ Healing failed for OmenCap.exe (PID 3460) -> (pid=3460, name='OmenCap.exe') | No cause provided: 
+[2025-10-31 13:01:55] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 3548) | No cause provided: 
+[2025-10-31 13:01:55] ❌ Healing failed for NVDisplay.Container.exe (PID 3548) -> (pid=3548, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 13:01:56] 🩺 Attempting to heal process: AppHelperCap.exe (PID 3940) | No cause provided: 
+[2025-10-31 13:01:56] ❌ Healing failed for AppHelperCap.exe (PID 3940) -> (pid=3940, name='AppHelperCap.exe') | No cause provided: 
+[2025-10-31 13:01:57] 🩺 Attempting to heal process: SysInfoCap.exe (PID 3956) | No cause provided: 
+[2025-10-31 13:01:57] ❌ Healing failed for SysInfoCap.exe (PID 3956) -> (pid=3956, name='SysInfoCap.exe') | No cause provided: 
+[2025-10-31 13:01:57] 🩺 Attempting to heal process: NetworkCap.exe (PID 3964) | No cause provided: 
+[2025-10-31 13:01:57] ❌ Healing failed for NetworkCap.exe (PID 3964) -> (pid=3964, name='NetworkCap.exe') | No cause provided: 
+[2025-10-31 13:01:58] 🩺 Attempting to heal process: DiagsCap.exe (PID 3972) | No cause provided: 
+[2025-10-31 13:01:58] ❌ Healing failed for DiagsCap.exe (PID 3972) -> (pid=3972, name='DiagsCap.exe') | No cause provided: 
+[2025-10-31 13:01:58] 🩺 Attempting to heal process: TouchpointAnalyticsClientService.exe (PID 3980) | No cause provided: 
+[2025-10-31 13:01:58] ❌ Healing failed for TouchpointAnalyticsClientService.exe (PID 3980) -> (pid=3980, name='TouchpointAnalyticsClientService.exe') | No cause provided: 
+[2025-10-31 13:01:58] 🩺 Attempting to heal process: SecurityHealthService.exe (PID 4600) | No cause provided: 
+[2025-10-31 13:01:58] ❌ Healing failed for SecurityHealthService.exe (PID 4600) -> (pid=4600, name='SecurityHealthService.exe') | No cause provided: 
+[2025-10-31 13:01:59] 🩺 Attempting to heal process: unsecapp.exe (PID 4772) | No cause provided: 
+[2025-10-31 13:01:59] ❌ Healing failed for unsecapp.exe (PID 4772) -> (pid=4772, name='unsecapp.exe') | No cause provided: 
+[2025-10-31 13:02:00] 🩺 Attempting to heal process: WmiPrvSE.exe (PID 4996) | No cause provided: 
+[2025-10-31 13:02:00] ❌ Healing failed for WmiPrvSE.exe (PID 4996) -> (pid=4996, name='WmiPrvSE.exe') | No cause provided: 
+[2025-10-31 13:02:01] 🩺 Attempting to heal process: spoolsv.exe (PID 5592) | No cause provided: 
+[2025-10-31 13:02:01] ❌ Healing failed for spoolsv.exe (PID 5592) -> (pid=5592, name='spoolsv.exe') | No cause provided: 
+[2025-10-31 13:02:01] 🩺 Attempting to heal process: ipf_uf.exe (PID 5724) | No cause provided: 
+[2025-10-31 13:02:01] ❌ Healing failed for ipf_uf.exe (PID 5724) -> (pid=5724, name='ipf_uf.exe') | No cause provided: 
+[2025-10-31 13:02:02] 🩺 Attempting to heal process: armsvc.exe (PID 5928) | No cause provided: 
+[2025-10-31 13:02:02] ❌ Healing failed for armsvc.exe (PID 5928) -> (pid=5928, name='armsvc.exe') | No cause provided: 
+[2025-10-31 13:02:02] 🩺 Attempting to heal process: DtsApo4Service.exe (PID 5936) | No cause provided: 
+[2025-10-31 13:02:02] ❌ Healing failed for DtsApo4Service.exe (PID 5936) -> (pid=5936, name='DtsApo4Service.exe') | No cause provided: 
+[2025-10-31 13:02:03] 🩺 Attempting to heal process: ETDService.exe (PID 5968) | No cause provided: 
+[2025-10-31 13:02:03] ❌ Healing failed for ETDService.exe (PID 5968) -> (pid=5968, name='ETDService.exe') | No cause provided: 
+[2025-10-31 13:02:03] 🩺 Attempting to heal process: OfficeClickToRun.exe (PID 5988) | No cause provided: 
+[2025-10-31 13:02:03] ❌ Healing failed for OfficeClickToRun.exe (PID 5988) -> (pid=5988, name='OfficeClickToRun.exe') | No cause provided: 
+[2025-10-31 13:02:03] 🩺 Attempting to heal process: HPCommRecovery.exe (PID 6016) | No cause provided: 
+[2025-10-31 13:02:03] ❌ Healing failed for HPCommRecovery.exe (PID 6016) -> (pid=6016, name='HPCommRecovery.exe') | No cause provided: 
+[2025-10-31 13:02:03] 🩺 Attempting to heal process: HPPrintScanDoctorService.exe (PID 6024) | No cause provided: 
+[2025-10-31 13:02:03] ❌ Healing failed for HPPrintScanDoctorService.exe (PID 6024) -> (pid=6024, name='HPPrintScanDoctorService.exe') | No cause provided: 
+[2025-10-31 13:02:04] 🩺 Attempting to heal process: OneApp.IGCC.WinService.exe (PID 6072) | No cause provided: 
+[2025-10-31 13:02:04] ❌ Healing failed for OneApp.IGCC.WinService.exe (PID 6072) -> (pid=6072, name='OneApp.IGCC.WinService.exe') | No cause provided: 
+[2025-10-31 13:02:04] 🩺 Attempting to heal process: IntelAudioService.exe (PID 6092) | No cause provided: 
+[2025-10-31 13:02:04] ❌ Healing failed for IntelAudioService.exe (PID 6092) -> (pid=6092, name='IntelAudioService.exe') | No cause provided: 
+[2025-10-31 13:02:05] 🩺 Attempting to heal process: MpDefenderCoreService.exe (PID 6204) | No cause provided: 
+[2025-10-31 13:02:05] ❌ Healing failed for MpDefenderCoreService.exe (PID 6204) -> (pid=6204, name='MpDefenderCoreService.exe') | No cause provided: 
+[2025-10-31 13:02:05] 🩺 Attempting to heal process: jhi_service.exe (PID 6220) | No cause provided: 
+[2025-10-31 13:02:05] ❌ Healing failed for jhi_service.exe (PID 6220) -> (pid=6220, name='jhi_service.exe') | No cause provided: 
+[2025-10-31 13:02:05] 🩺 Attempting to heal process: nvcontainer.exe (PID 6284) | No cause provided: 
+[2025-10-31 13:02:05] ❌ Healing failed for nvcontainer.exe (PID 6284) -> (pid=6284, name='nvcontainer.exe') | No cause provided: 
+[2025-10-31 13:02:06] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 6292) | No cause provided: 
+[2025-10-31 13:02:06] ❌ Healing failed for RtkAudUService64.exe (PID 6292) -> (pid=6292, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 13:02:06] 🩺 Attempting to heal process: RtkBtManServ.exe (PID 6316) | No cause provided: 
+[2025-10-31 13:02:06] ❌ Healing failed for RtkBtManServ.exe (PID 6316) -> (pid=6316, name='RtkBtManServ.exe') | No cause provided: 
+[2025-10-31 13:02:06] 🩺 Attempting to heal process: XtuService.exe (PID 6448) | No cause provided: 
+[2025-10-31 13:02:06] ❌ Healing failed for XtuService.exe (PID 6448) -> (pid=6448, name='XtuService.exe') | No cause provided: 
+[2025-10-31 13:02:07] 🩺 Attempting to heal process: WMIRegistrationService.exe (PID 6456) | No cause provided: 
+[2025-10-31 13:02:07] ❌ Healing failed for WMIRegistrationService.exe (PID 6456) -> (pid=6456, name='WMIRegistrationService.exe') | No cause provided: 
+[2025-10-31 13:02:07] 🩺 Attempting to heal process: IntelGraphicsSoftware.Service.exe (PID 10868) | No cause provided: 
+[2025-10-31 13:02:07] ❌ Healing failed for IntelGraphicsSoftware.Service.exe (PID 10868) -> (pid=10868, name='IntelGraphicsSoftware.Service.exe') | No cause provided: 
+[2025-10-31 13:02:08] 🩺 Attempting to heal process: AggregatorHost.exe (PID 12116) | No cause provided: 
+[2025-10-31 13:02:08] ❌ Healing failed for AggregatorHost.exe (PID 12116) -> (pid=12116, name='AggregatorHost.exe') | No cause provided: 
+[2025-10-31 13:02:08] 🩺 Attempting to heal process: PresentMonService.exe (PID 14240) | No cause provided: 
+[2025-10-31 13:02:08] ❌ Healing failed for PresentMonService.exe (PID 14240) -> (pid=14240, name='PresentMonService.exe') | No cause provided: 
+[2025-10-31 13:02:09] 🩺 Attempting to heal process: conhost.exe (PID 14276) | No cause provided: 
+[2025-10-31 13:02:09] ❌ Healing failed for conhost.exe (PID 14276) -> (pid=14276, name='conhost.exe') | No cause provided: 
+[2025-10-31 13:02:09] 🩺 Attempting to heal process: SearchIndexer.exe (PID 14812) | No cause provided: 
+[2025-10-31 13:02:09] ❌ Healing failed for SearchIndexer.exe (PID 14812) -> (pid=14812, name='SearchIndexer.exe') | No cause provided: 
+[2025-10-31 13:02:09] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 17768) | No cause provided: 
+[2025-10-31 13:02:09] ❌ Healing failed for NVDisplay.Container.exe (PID 17768) -> (pid=17768, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 13:02:09] 🩺 Attempting to heal process: conhost.exe (PID 21000) | No cause provided: 
+[2025-10-31 13:02:09] ✅ Terminated unresponsive process: conhost.exe (PID 21000) | No cause provided: 
+[2025-10-31 13:02:10] 🩺 Attempting to heal process: winlogon.exe (PID 22808) | No cause provided: 
+[2025-10-31 13:02:10] ❌ Healing failed for winlogon.exe (PID 22808) -> (pid=22808, name='winlogon.exe') | No cause provided: 
+[2025-10-31 13:02:10] 🩺 Attempting to heal process: cmd.exe (PID 25364) | No cause provided: 
+[2025-10-31 13:02:10] ✅ Terminated unresponsive process: cmd.exe (PID 25364) | No cause provided: 
+[2025-10-31 13:02:11] 🩺 Attempting to heal process: dasHost.exe (PID 25540) | No cause provided: 
+[2025-10-31 13:02:11] ❌ Healing failed for dasHost.exe (PID 25540) -> (pid=25540, name='dasHost.exe') | No cause provided: 
+[2025-10-31 13:02:11] 🩺 Attempting to heal process: Code.exe (PID 28636) | No cause provided: 
+[2025-10-31 13:02:11] ✅ Terminated unresponsive process: Code.exe (PID 28636) | No cause provided: 
+[2025-10-31 13:02:11] 🩺 Attempting to heal process: chrome.exe (PID 29748) | No cause provided: 
+[2025-10-31 13:02:11] ✅ Terminated unresponsive process: chrome.exe (PID 29748) | No cause provided: 
+[2025-10-31 13:02:12] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 34792) | No cause provided: 
+[2025-10-31 13:02:12] ❌ Healing failed for RtkAudUService64.exe (PID 34792) -> (pid=34792, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 13:02:12] 🩺 Attempting to heal process: WidgetService.exe (PID 35492) | No cause provided: 
+[2025-10-31 13:02:12] ✅ Terminated unresponsive process: WidgetService.exe (PID 35492) | No cause provided: 
+[2025-10-31 13:02:13] 🩺 Attempting to heal process: Code.exe (PID 36516) | No cause provided: 
+[2025-10-31 13:02:14] ✅ Terminated unresponsive process: Code.exe (PID 36516) | No cause provided: 
+[2025-10-31 13:02:14] 🩺 Attempting to heal process: ChatGPT.exe (PID 43040) | No cause provided: 
+[2025-10-31 13:02:14] ✅ Terminated unresponsive process: ChatGPT.exe (PID 43040) | No cause provided: 
+[2025-10-31 13:02:16] 🩺 Attempting to heal process: fontdrvhost.exe (PID 45100) | No cause provided: 
+[2025-10-31 13:02:16] ❌ Healing failed for fontdrvhost.exe (PID 45100) -> (pid=45100, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 13:02:17] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 51264) | No cause provided: 
+[2025-10-31 13:02:17] ❌ Healing failed for SearchFilterHost.exe (PID 51264) -> (pid=51264, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:02:17] 🩺 Attempting to heal process: chrome.exe (PID 58964) | No cause provided: 
+[2025-10-31 13:02:17] ✅ Terminated unresponsive process: chrome.exe (PID 58964) | No cause provided: 
+[2025-10-31 13:02:17] 🩺 Attempting to heal process: nvcontainer.exe (PID 213316) | No cause provided: 
+[2025-10-31 13:02:17] ❌ Healing failed for nvcontainer.exe (PID 213316) -> (pid=213316, name='nvcontainer.exe') | No cause provided: 
+[2025-10-31 13:02:18] 🩺 Attempting to heal process: cmd.exe (PID 263856) | No cause provided: 
+[2025-10-31 13:02:18] ✅ Terminated unresponsive process: cmd.exe (PID 263856) | No cause provided: 
+[2025-10-31 13:02:18] 🩺 Attempting to heal process: dwm.exe (PID 270840) | No cause provided: 
+[2025-10-31 13:02:18] ❌ Healing failed for dwm.exe (PID 270840) -> (pid=270840, name='dwm.exe') | No cause provided: 
+[2025-10-31 13:02:18] 🩺 Attempting to heal process: chrome.exe (PID 277260) | No cause provided: 
+[2025-10-31 13:02:21] ✅ Terminated unresponsive process: chrome.exe (PID 277260) | No cause provided: 
+[2025-10-31 13:02:21] 🩺 Attempting to heal process: Notepad.exe (PID 278872) | No cause provided: 
+[2025-10-31 13:02:21] ✅ Terminated unresponsive process: Notepad.exe (PID 278872) | No cause provided: 
+[2025-10-31 13:02:22] 🔁 Restarted process: Notepad.exe (via restart map): 
+[2025-10-31 13:02:22] Restarted notepad.exe | Cause: Process not found / crashed
+[2025-10-31 13:02:22] 🩺 Attempting to heal process: pgavgui.exe (PID 283032) | No cause provided: 
+[2025-10-31 13:02:27] ❌ Healing failed for pgavgui.exe (PID 283032) -> timeout after 5 seconds (pid=283032, name='pgavgui.exe') | No cause provided: 
+[2025-10-31 13:02:27] 🩺 Attempting to heal process: taskhostw.exe (PID 285296) | No cause provided: 
+[2025-10-31 13:02:27] ❌ Healing failed for taskhostw.exe (PID 285296) -> (pid=285296, name='taskhostw.exe') | No cause provided: 
+[2025-10-31 13:02:28] 🩺 Attempting to heal process: servicehost.exe (PID 286556) | No cause provided: 
+[2025-10-31 13:02:28] ❌ Healing failed for servicehost.exe (PID 286556) -> (pid=286556, name='servicehost.exe') | No cause provided: 
+[2025-10-31 13:02:28] 🩺 Attempting to heal process: chrome.exe (PID 307120) | No cause provided: 
+[2025-10-31 13:02:28] ✅ Terminated unresponsive process: chrome.exe (PID 307120) | No cause provided: 
+[2025-10-31 13:02:28] 🩺 Attempting to heal process: backgroundTaskHost.exe (PID 311032) | No cause provided: 
+[2025-10-31 13:02:28] ✅ Terminated unresponsive process: backgroundTaskHost.exe (PID 311032) | No cause provided: 
+[2025-10-31 13:02:28] 🩺 Attempting to heal process: chrome.exe (PID 311456) | No cause provided: 
+[2025-10-31 13:02:28] ✅ Terminated unresponsive process: chrome.exe (PID 311456) | No cause provided: 
+[2025-10-31 13:02:29] 🩺 Attempting to heal process: ShellHost.exe (PID 318436) | No cause provided: 
+[2025-10-31 13:02:29] ✅ Terminated unresponsive process: ShellHost.exe (PID 318436) | No cause provided: 
+[2025-10-31 13:02:29] 🩺 Attempting to heal process: CrossDeviceResume.exe (PID 319636) | No cause provided: 
+[2025-10-31 13:02:29] ✅ Terminated unresponsive process: CrossDeviceResume.exe (PID 319636) | No cause provided: 
+[2025-10-31 13:02:30] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 319712) | No cause provided: 
+[2025-10-31 13:02:30] ❌ Healing failed for SearchFilterHost.exe (PID 319712) -> (pid=319712, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:02:30] 🩺 Attempting to heal process: uihost.exe (PID 320920) | No cause provided: 
+[2025-10-31 13:02:30] ✅ Terminated unresponsive process: uihost.exe (PID 320920) | No cause provided: 
+[2025-10-31 13:02:30] 🩺 Attempting to heal process: PhoneExperienceHost.exe (PID 321144) | No cause provided: 
+[2025-10-31 13:02:30] ✅ Terminated unresponsive process: PhoneExperienceHost.exe (PID 321144) | No cause provided: 
+[2025-10-31 13:02:31] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 323288) | No cause provided: 
+[2025-10-31 13:02:31] ❌ Healing failed for SearchFilterHost.exe (PID 323288) -> (pid=323288, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:02:31] 🩺 Attempting to heal process: dllhost.exe (PID 324136) | No cause provided: 
+[2025-10-31 13:02:31] ✅ Terminated unresponsive process: dllhost.exe (PID 324136) | No cause provided: 
+[2025-10-31 13:02:32] 🩺 Attempting to heal process: RuntimeBroker.exe (PID 324408) | No cause provided: 
+[2025-10-31 13:02:32] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 324408) | No cause provided: 
+[2025-10-31 13:02:32] 🩺 Attempting to heal process: chrome.exe (PID 325656) | No cause provided: 
+[2025-10-31 13:02:32] Restarted notepad.exe | Cause: Process not found / crashed
+[2025-10-31 13:02:32] Restarted notepad.exe | Cause: Process not found / crashed
+[2025-10-31 13:02:32] ✅ Terminated unresponsive process: chrome.exe (PID 325656) | No cause provided: 
+[2025-10-31 13:02:32] 🩺 Attempting to heal process: RuntimeBroker.exe (PID 325828) | No cause provided: 
+[2025-10-31 13:02:32] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 325828) | No cause provided: 
+[2025-10-31 13:02:33] 🩺 Attempting to heal process: WmiPrvSE.exe (PID 326696) | No cause provided: 
+[2025-10-31 13:02:33] ❌ Healing failed for WmiPrvSE.exe (PID 326696) -> (pid=326696, name='WmiPrvSE.exe') | No cause provided: 
+[2025-10-31 13:02:33] 🩺 Attempting to heal process: chrome.exe (PID 326840) | No cause provided: 
+[2025-10-31 13:02:33] ✅ Terminated unresponsive process: chrome.exe (PID 326840) | No cause provided: 
+[2025-10-31 13:02:34] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 326884) | No cause provided: 
+[2025-10-31 13:02:34] ❌ Healing failed for SearchFilterHost.exe (PID 326884) -> (pid=326884, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:02:34] 🩺 Attempting to heal process: SearchProtocolHost.exe (PID 327264) | No cause provided: 
+[2025-10-31 13:02:34] ❌ Healing failed for SearchProtocolHost.exe (PID 327264) -> (pid=327264, name='SearchProtocolHost.exe') | No cause provided: 
+[2025-10-31 13:02:35] 🩺 Attempting to heal process: nvcontainer.exe (PID 327432) | No cause provided: 
+[2025-10-31 13:02:35] ✅ Terminated unresponsive process: nvcontainer.exe (PID 327432) | No cause provided: 
+[2025-10-31 13:02:35] 🩺 Attempting to heal process: cmd.exe (PID 332540) | No cause provided: 
+[2025-10-31 13:02:35] ✅ Terminated unresponsive process: cmd.exe (PID 332540) | No cause provided: 
+[2025-10-31 13:02:35] 🩺 Attempting to heal process: python.exe (PID 332688) | No cause provided: 
+[2025-10-31 13:02:35] ✅ Terminated unresponsive process: python.exe (PID 332688) | No cause provided: 
+[2025-10-31 13:02:35] 🩺 Attempting to heal process: python.exe (PID 332756) | No cause provided: 
+[2025-10-31 13:02:35] ✅ Terminated unresponsive process: python.exe (PID 332756) | No cause provided: 
+[2025-10-31 13:02:35] 🩺 Attempting to heal process: chrome.exe (PID 332776) | No cause provided: 
+[2025-10-31 13:02:35] ✅ Terminated unresponsive process: chrome.exe (PID 332776) | No cause provided: 
+[2025-10-31 13:02:36] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 333564) | No cause provided: 
+[2025-10-31 13:02:36] ❌ Healing failed for SearchFilterHost.exe (PID 333564) -> (pid=333564, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:02:36] 🩺 Attempting to heal process: ctfmon.exe (PID 334068) | No cause provided: 
+[2025-10-31 13:02:36] ❌ Healing failed for ctfmon.exe (PID 334068) -> (pid=334068, name='ctfmon.exe') | No cause provided: 
+[2025-10-31 13:02:36] 🩺 Attempting to heal process: nvcontainer.exe (PID 334300) | No cause provided: 
+[2025-10-31 13:02:36] ✅ Terminated unresponsive process: nvcontainer.exe (PID 334300) | No cause provided: 
+[2025-10-31 13:02:36] 🩺 Attempting to heal process: chrome.exe (PID 334308) | No cause provided: 
+[2025-10-31 13:02:36] ✅ Terminated unresponsive process: chrome.exe (PID 334308) | No cause provided: 
+[2025-10-31 13:02:37] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 334580) | No cause provided: 
+[2025-10-31 13:02:37] ❌ Healing failed for SearchFilterHost.exe (PID 334580) -> (pid=334580, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:02:37] 🩺 Attempting to heal process: Code.exe (PID 334968) | No cause provided: 
+[2025-10-31 13:02:37] ✅ Terminated unresponsive process: Code.exe (PID 334968) | No cause provided: 
+[2025-10-31 13:02:37] 🩺 Attempting to heal process: python.exe (PID 335596) | No cause provided: 
+[2025-10-31 13:02:37] ✅ Terminated unresponsive process: python.exe (PID 335596) | No cause provided: 
+[2025-10-31 13:02:38] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 335648) | No cause provided: 
+[2025-10-31 13:02:38] ❌ Healing failed for SearchFilterHost.exe (PID 335648) -> (pid=335648, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:02:38] 🩺 Attempting to heal process: pet.exe (PID 335752) | No cause provided: 
+[2025-10-31 13:02:38] ✅ Terminated unresponsive process: pet.exe (PID 335752) | No cause provided: 
+[2025-10-31 13:02:38] 🩺 Attempting to heal process: python.exe (PID 335948) | No cause provided: 
+[2025-10-31 13:08:35] 🧠 Healer service started: Timestamp: 1761896315.969751
+[2025-10-31 13:08:36] 🩺 Attempting to heal process:  (PID 188) | No cause provided: 
+[2025-10-31 13:08:36] ❌ Healing failed for  (PID 188) -> (pid=188) | No cause provided: 
+[2025-10-31 13:08:37] 🩺 Attempting to heal process: dasHost.exe (PID 844) | No cause provided: 
+[2025-10-31 13:08:37] ❌ Healing failed for dasHost.exe (PID 844) -> (pid=844, name='dasHost.exe') | No cause provided: 
+[2025-10-31 13:08:38] 🩺 Attempting to heal process: LsaIso.exe (PID 1288) | No cause provided: 
+[2025-10-31 13:08:38] ❌ Healing failed for LsaIso.exe (PID 1288) -> (pid=1288, name='LsaIso.exe') | No cause provided: 
+[2025-10-31 13:08:38] 🩺 Attempting to heal process: fontdrvhost.exe (PID 1532) | No cause provided: 
+[2025-10-31 13:08:38] ❌ Healing failed for fontdrvhost.exe (PID 1532) -> (pid=1532, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 13:08:38] 🩺 Attempting to heal process: WUDFHost.exe (PID 1576) | No cause provided: 
+[2025-10-31 13:08:38] ❌ Healing failed for WUDFHost.exe (PID 1576) -> (pid=1576, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 13:08:40] 🩺 Attempting to heal process: WUDFHost.exe (PID 2064) | No cause provided: 
+[2025-10-31 13:08:40] ❌ Healing failed for WUDFHost.exe (PID 2064) -> (pid=2064, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 13:08:41] 🩺 Attempting to heal process: IntelCpHDCPSvc.exe (PID 2444) | No cause provided: 
+[2025-10-31 13:08:41] ❌ Healing failed for IntelCpHDCPSvc.exe (PID 2444) -> (pid=2444, name='IntelCpHDCPSvc.exe') | No cause provided: 
+[2025-10-31 13:08:42] 🩺 Attempting to heal process: OmenCap.exe (PID 3460) | No cause provided: 
+[2025-10-31 13:08:42] ❌ Healing failed for OmenCap.exe (PID 3460) -> (pid=3460, name='OmenCap.exe') | No cause provided: 
+[2025-10-31 13:08:42] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 3548) | No cause provided: 
+[2025-10-31 13:08:42] ❌ Healing failed for NVDisplay.Container.exe (PID 3548) -> (pid=3548, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 13:08:44] 🩺 Attempting to heal process: AppHelperCap.exe (PID 3940) | No cause provided: 
+[2025-10-31 13:08:44] ❌ Healing failed for AppHelperCap.exe (PID 3940) -> (pid=3940, name='AppHelperCap.exe') | No cause provided: 
+[2025-10-31 13:08:44] 🩺 Attempting to heal process: SysInfoCap.exe (PID 3956) | No cause provided: 
+[2025-10-31 13:08:44] ❌ Healing failed for SysInfoCap.exe (PID 3956) -> (pid=3956, name='SysInfoCap.exe') | No cause provided: 
+[2025-10-31 13:08:45] 🩺 Attempting to heal process: NetworkCap.exe (PID 3964) | No cause provided: 
+[2025-10-31 13:08:45] ❌ Healing failed for NetworkCap.exe (PID 3964) -> (pid=3964, name='NetworkCap.exe') | No cause provided: 
+[2025-10-31 13:08:45] 🩺 Attempting to heal process: DiagsCap.exe (PID 3972) | No cause provided: 
+[2025-10-31 13:08:45] ❌ Healing failed for DiagsCap.exe (PID 3972) -> (pid=3972, name='DiagsCap.exe') | No cause provided: 
+[2025-10-31 13:08:46] 🩺 Attempting to heal process: TouchpointAnalyticsClientService.exe (PID 3980) | No cause provided: 
+[2025-10-31 13:08:46] ❌ Healing failed for TouchpointAnalyticsClientService.exe (PID 3980) -> (pid=3980, name='TouchpointAnalyticsClientService.exe') | No cause provided: 
+[2025-10-31 13:08:47] 🩺 Attempting to heal process: SecurityHealthService.exe (PID 4600) | No cause provided: 
+[2025-10-31 13:08:47] ❌ Healing failed for SecurityHealthService.exe (PID 4600) -> (pid=4600, name='SecurityHealthService.exe') | No cause provided: 
+[2025-10-31 13:08:47] 🩺 Attempting to heal process: unsecapp.exe (PID 4772) | No cause provided: 
+[2025-10-31 13:08:47] ❌ Healing failed for unsecapp.exe (PID 4772) -> (pid=4772, name='unsecapp.exe') | No cause provided: 
+[2025-10-31 13:08:48] 🩺 Attempting to heal process: WmiPrvSE.exe (PID 4996) | No cause provided: 
+[2025-10-31 13:08:48] ❌ Healing failed for WmiPrvSE.exe (PID 4996) -> (pid=4996, name='WmiPrvSE.exe') | No cause provided: 
+[2025-10-31 13:08:50] 🩺 Attempting to heal process: spoolsv.exe (PID 5592) | No cause provided: 
+[2025-10-31 13:08:50] ❌ Healing failed for spoolsv.exe (PID 5592) -> (pid=5592, name='spoolsv.exe') | No cause provided: 
+[2025-10-31 13:08:51] 🩺 Attempting to heal process: ipf_uf.exe (PID 5724) | No cause provided: 
+[2025-10-31 13:08:51] ❌ Healing failed for ipf_uf.exe (PID 5724) -> (pid=5724, name='ipf_uf.exe') | No cause provided: 
+[2025-10-31 13:08:52] 🩺 Attempting to heal process: armsvc.exe (PID 5928) | No cause provided: 
+[2025-10-31 13:08:52] ❌ Healing failed for armsvc.exe (PID 5928) -> (pid=5928, name='armsvc.exe') | No cause provided: 
+[2025-10-31 13:08:53] 🩺 Attempting to heal process: DtsApo4Service.exe (PID 5936) | No cause provided: 
+[2025-10-31 13:08:53] ❌ Healing failed for DtsApo4Service.exe (PID 5936) -> (pid=5936, name='DtsApo4Service.exe') | No cause provided: 
+[2025-10-31 13:08:53] 🩺 Attempting to heal process: ETDService.exe (PID 5968) | No cause provided: 
+[2025-10-31 13:08:53] ❌ Healing failed for ETDService.exe (PID 5968) -> (pid=5968, name='ETDService.exe') | No cause provided: 
+[2025-10-31 13:08:54] 🩺 Attempting to heal process: OfficeClickToRun.exe (PID 5988) | No cause provided: 
+[2025-10-31 13:08:54] ❌ Healing failed for OfficeClickToRun.exe (PID 5988) -> (pid=5988, name='OfficeClickToRun.exe') | No cause provided: 
+[2025-10-31 13:08:55] 🩺 Attempting to heal process: HPCommRecovery.exe (PID 6016) | No cause provided: 
+[2025-10-31 13:08:55] ❌ Healing failed for HPCommRecovery.exe (PID 6016) -> (pid=6016, name='HPCommRecovery.exe') | No cause provided: 
+[2025-10-31 13:08:55] 🩺 Attempting to heal process: HPPrintScanDoctorService.exe (PID 6024) | No cause provided: 
+[2025-10-31 13:08:55] ❌ Healing failed for HPPrintScanDoctorService.exe (PID 6024) -> (pid=6024, name='HPPrintScanDoctorService.exe') | No cause provided: 
+[2025-10-31 13:08:55] 🩺 Attempting to heal process: OneApp.IGCC.WinService.exe (PID 6072) | No cause provided: 
+[2025-10-31 13:08:55] ❌ Healing failed for OneApp.IGCC.WinService.exe (PID 6072) -> (pid=6072, name='OneApp.IGCC.WinService.exe') | No cause provided: 
+[2025-10-31 13:08:56] 🩺 Attempting to heal process: IntelAudioService.exe (PID 6092) | No cause provided: 
+[2025-10-31 13:08:56] ❌ Healing failed for IntelAudioService.exe (PID 6092) -> (pid=6092, name='IntelAudioService.exe') | No cause provided: 
+[2025-10-31 13:08:56] 🩺 Attempting to heal process: MpDefenderCoreService.exe (PID 6204) | No cause provided: 
+[2025-10-31 13:08:56] ❌ Healing failed for MpDefenderCoreService.exe (PID 6204) -> (pid=6204, name='MpDefenderCoreService.exe') | No cause provided: 
+[2025-10-31 13:08:57] 🩺 Attempting to heal process: jhi_service.exe (PID 6220) | No cause provided: 
+[2025-10-31 13:08:57] ❌ Healing failed for jhi_service.exe (PID 6220) -> (pid=6220, name='jhi_service.exe') | No cause provided: 
+[2025-10-31 13:08:58] 🩺 Attempting to heal process: nvcontainer.exe (PID 6284) | No cause provided: 
+[2025-10-31 13:08:58] ❌ Healing failed for nvcontainer.exe (PID 6284) -> (pid=6284, name='nvcontainer.exe') | No cause provided: 
+[2025-10-31 13:08:58] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 6292) | No cause provided: 
+[2025-10-31 13:08:58] ❌ Healing failed for RtkAudUService64.exe (PID 6292) -> (pid=6292, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 13:08:59] 🩺 Attempting to heal process: RtkBtManServ.exe (PID 6316) | No cause provided: 
+[2025-10-31 13:08:59] ❌ Healing failed for RtkBtManServ.exe (PID 6316) -> (pid=6316, name='RtkBtManServ.exe') | No cause provided: 
+[2025-10-31 13:08:59] 🩺 Attempting to heal process: XtuService.exe (PID 6448) | No cause provided: 
+[2025-10-31 13:08:59] ❌ Healing failed for XtuService.exe (PID 6448) -> (pid=6448, name='XtuService.exe') | No cause provided: 
+[2025-10-31 13:09:00] 🩺 Attempting to heal process: WMIRegistrationService.exe (PID 6456) | No cause provided: 
+[2025-10-31 13:09:00] ❌ Healing failed for WMIRegistrationService.exe (PID 6456) -> (pid=6456, name='WMIRegistrationService.exe') | No cause provided: 
+[2025-10-31 13:09:00] 🩺 Attempting to heal process: Code.exe (PID 6636) | No cause provided: 
+[2025-10-31 13:09:00] ✅ Terminated unresponsive process: Code.exe (PID 6636) | No cause provided: 
+[2025-10-31 13:09:01] 🩺 Attempting to heal process: IntelGraphicsSoftware.Service.exe (PID 10868) | No cause provided: 
+[2025-10-31 13:09:01] ❌ Healing failed for IntelGraphicsSoftware.Service.exe (PID 10868) -> (pid=10868, name='IntelGraphicsSoftware.Service.exe') | No cause provided: 
+[2025-10-31 13:09:02] 🩺 Attempting to heal process: AggregatorHost.exe (PID 12116) | No cause provided: 
+[2025-10-31 13:09:02] ❌ Healing failed for AggregatorHost.exe (PID 12116) -> (pid=12116, name='AggregatorHost.exe') | No cause provided: 
+[2025-10-31 13:09:03] 🩺 Attempting to heal process: PresentMonService.exe (PID 14240) | No cause provided: 
+[2025-10-31 13:09:03] ❌ Healing failed for PresentMonService.exe (PID 14240) -> (pid=14240, name='PresentMonService.exe') | No cause provided: 
+[2025-10-31 13:09:04] 🩺 Attempting to heal process: conhost.exe (PID 14276) | No cause provided: 
+[2025-10-31 13:09:04] ❌ Healing failed for conhost.exe (PID 14276) -> (pid=14276, name='conhost.exe') | No cause provided: 
+[2025-10-31 13:09:04] 🩺 Attempting to heal process: SearchIndexer.exe (PID 14812) | No cause provided: 
+[2025-10-31 13:09:04] ❌ Healing failed for SearchIndexer.exe (PID 14812) -> (pid=14812, name='SearchIndexer.exe') | No cause provided: 
+[2025-10-31 13:09:05] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 17768) | No cause provided: 
+[2025-10-31 13:09:05] ❌ Healing failed for NVDisplay.Container.exe (PID 17768) -> (pid=17768, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 13:09:05] 🩺 Attempting to heal process: powershell.exe (PID 19280) | No cause provided: 
+[2025-10-31 13:09:05] ✅ Terminated unresponsive process: powershell.exe (PID 19280) | No cause provided: 
+[2025-10-31 13:09:05] 🩺 Attempting to heal process: msedgewebview2.exe (PID 19700) | No cause provided: 
+[2025-10-31 13:09:05] ✅ Terminated unresponsive process: msedgewebview2.exe (PID 19700) | No cause provided: 
+[2025-10-31 13:09:06] 🩺 Attempting to heal process: winlogon.exe (PID 22808) | No cause provided: 
+[2025-10-31 13:09:06] ❌ Healing failed for winlogon.exe (PID 22808) -> (pid=22808, name='winlogon.exe') | No cause provided: 
+[2025-10-31 13:09:07] 🩺 Attempting to heal process: dasHost.exe (PID 25540) | No cause provided: 
+[2025-10-31 13:09:07] ❌ Healing failed for dasHost.exe (PID 25540) -> (pid=25540, name='dasHost.exe') | No cause provided: 
+[2025-10-31 13:09:07] 🩺 Attempting to heal process: pet.exe (PID 28484) | No cause provided: 
+[2025-10-31 13:09:07] ✅ Terminated unresponsive process: pet.exe (PID 28484) | No cause provided: 
+[2025-10-31 13:09:07] 🩺 Attempting to heal process: msedgewebview2.exe (PID 30044) | No cause provided: 
+[2025-10-31 13:09:07] ✅ Terminated unresponsive process: msedgewebview2.exe (PID 30044) | No cause provided: 
+[2025-10-31 13:09:08] 🩺 Attempting to heal process: SearchHost.exe (PID 34104) | No cause provided: 
+[2025-10-31 13:09:08] ✅ Terminated unresponsive process: SearchHost.exe (PID 34104) | No cause provided: 
+[2025-10-31 13:09:08] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 34792) | No cause provided: 
+[2025-10-31 13:09:08] ❌ Healing failed for RtkAudUService64.exe (PID 34792) -> (pid=34792, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 13:09:09] 🩺 Attempting to heal process: fontdrvhost.exe (PID 45100) | No cause provided: 
+[2025-10-31 13:09:09] ❌ Healing failed for fontdrvhost.exe (PID 45100) -> (pid=45100, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 13:09:10] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 51264) | No cause provided: 
+[2025-10-31 13:09:10] ❌ Healing failed for SearchFilterHost.exe (PID 51264) -> (pid=51264, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:09:11] 🩺 Attempting to heal process: Widgets.exe (PID 176984) | No cause provided: 
+[2025-10-31 13:09:11] ✅ Terminated unresponsive process: Widgets.exe (PID 176984) | No cause provided: 
+[2025-10-31 13:09:11] 🩺 Attempting to heal process: cmd.exe (PID 197068) | No cause provided: 
+[2025-10-31 13:09:11] ✅ Terminated unresponsive process: cmd.exe (PID 197068) | No cause provided: 
+[2025-10-31 13:09:12] 🩺 Attempting to heal process: nvcontainer.exe (PID 213316) | No cause provided: 
+[2025-10-31 13:09:12] ❌ Healing failed for nvcontainer.exe (PID 213316) -> (pid=213316, name='nvcontainer.exe') | No cause provided: 
+[2025-10-31 13:09:12] 🩺 Attempting to heal process: chrome.exe (PID 263696) | No cause provided: 
+[2025-10-31 13:09:12] ✅ Terminated unresponsive process: chrome.exe (PID 263696) | No cause provided: 
+[2025-10-31 13:09:12] 🩺 Attempting to heal process: conhost.exe (PID 269036) | No cause provided: 
+[2025-10-31 13:09:12] ✅ Terminated unresponsive process: conhost.exe (PID 269036) | No cause provided: 
+[2025-10-31 13:09:12] 🩺 Attempting to heal process: conhost.exe (PID 269268) | No cause provided: 
+[2025-10-31 13:09:12] ✅ Terminated unresponsive process: conhost.exe (PID 269268) | No cause provided: 
+[2025-10-31 13:09:13] 🩺 Attempting to heal process: dwm.exe (PID 270840) | No cause provided: 
+[2025-10-31 13:09:13] ❌ Healing failed for dwm.exe (PID 270840) -> (pid=270840, name='dwm.exe') | No cause provided: 
+[2025-10-31 13:09:13] 🩺 Attempting to heal process: powershell.exe (PID 278624) | No cause provided: 
+[2025-10-31 13:09:13] ✅ Terminated unresponsive process: powershell.exe (PID 278624) | No cause provided: 
+[2025-10-31 13:09:14] 🩺 Attempting to heal process: pgavgui.exe (PID 283032) | No cause provided: 
+[2025-10-31 13:09:19] ❌ Healing failed for pgavgui.exe (PID 283032) -> timeout after 5 seconds (pid=283032, name='pgavgui.exe') | No cause provided: 
+[2025-10-31 13:09:19] 🩺 Attempting to heal process: ShellExperienceHost.exe (PID 283144) | No cause provided: 
+[2025-10-31 13:09:19] ✅ Terminated unresponsive process: ShellExperienceHost.exe (PID 283144) | No cause provided: 
+[2025-10-31 13:09:19] 🩺 Attempting to heal process: python.exe (PID 284376) | No cause provided: 
+[2025-10-31 13:09:19] ✅ Terminated unresponsive process: python.exe (PID 284376) | No cause provided: 
+[2025-10-31 13:09:19] 🩺 Attempting to heal process: uihost.exe (PID 285448) | No cause provided: 
+[2025-10-31 13:09:19] ✅ Terminated unresponsive process: uihost.exe (PID 285448) | No cause provided: 
+[2025-10-31 13:09:20] 🩺 Attempting to heal process: servicehost.exe (PID 286556) | No cause provided: 
+[2025-10-31 13:09:20] ❌ Healing failed for servicehost.exe (PID 286556) -> (pid=286556, name='servicehost.exe') | No cause provided: 
+[2025-10-31 13:09:20] 🩺 Attempting to heal process: chrome.exe (PID 308588) | No cause provided: 
+[2025-10-31 13:09:21] ✅ Terminated unresponsive process: chrome.exe (PID 308588) | No cause provided: 
+[2025-10-31 13:09:21] 🩺 Attempting to heal process: dllhost.exe (PID 310976) | No cause provided: 
+[2025-10-31 13:09:21] ✅ Terminated unresponsive process: dllhost.exe (PID 310976) | No cause provided: 
+[2025-10-31 13:09:22] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 319712) | No cause provided: 
+[2025-10-31 13:09:22] ❌ Healing failed for SearchFilterHost.exe (PID 319712) -> (pid=319712, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:09:22] 🩺 Attempting to heal process: nvcontainer.exe (PID 320920) | No cause provided: 
+[2025-10-31 13:09:22] ✅ Terminated unresponsive process: nvcontainer.exe (PID 320920) | No cause provided: 
+[2025-10-31 13:09:22] 🩺 Attempting to heal process: nvcontainer.exe (PID 322728) | No cause provided: 
+[2025-10-31 13:09:22] ✅ Terminated unresponsive process: nvcontainer.exe (PID 322728) | No cause provided: 
+[2025-10-31 13:09:23] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 323288) | No cause provided: 
+[2025-10-31 13:09:23] ❌ Healing failed for SearchFilterHost.exe (PID 323288) -> (pid=323288, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:09:24] 🩺 Attempting to heal process: WmiPrvSE.exe (PID 326696) | No cause provided: 
+[2025-10-31 13:09:24] ❌ Healing failed for WmiPrvSE.exe (PID 326696) -> (pid=326696, name='WmiPrvSE.exe') | No cause provided: 
+[2025-10-31 13:09:25] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 326884) | No cause provided: 
+[2025-10-31 13:09:25] ❌ Healing failed for SearchFilterHost.exe (PID 326884) -> (pid=326884, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:09:25] 🩺 Attempting to heal process: SearchProtocolHost.exe (PID 327264) | No cause provided: 
+[2025-10-31 13:09:25] ❌ Healing failed for SearchProtocolHost.exe (PID 327264) -> (pid=327264, name='SearchProtocolHost.exe') | No cause provided: 
+[2025-10-31 13:09:25] 🩺 Attempting to heal process: sihost.exe (PID 327820) | No cause provided: 
+[2025-10-31 13:09:25] ✅ Terminated unresponsive process: sihost.exe (PID 327820) | No cause provided: 
+[2025-10-31 13:09:25] 🩺 Attempting to heal process: Notepad.exe (PID 328236) | No cause provided: 
+[2025-10-31 13:09:25] ✅ Terminated unresponsive process: Notepad.exe (PID 328236) | No cause provided: 
+[2025-10-31 13:09:26] 🔁 Restarted process: Notepad.exe (via restart map): 
+[2025-10-31 13:09:26] 🩺 Attempting to heal process: ChatGPT.exe (PID 328424) | No cause provided: 
+[2025-10-31 13:09:26] ✅ Terminated unresponsive process: ChatGPT.exe (PID 328424) | No cause provided: 
+[2025-10-31 13:09:26] 🩺 Attempting to heal process: python.exe (PID 331348) | No cause provided: 
+[2025-10-31 13:09:26] ✅ Terminated unresponsive process: python.exe (PID 331348) | No cause provided: 
+[2025-10-31 13:09:27] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 333564) | No cause provided: 
+[2025-10-31 13:09:27] ❌ Healing failed for SearchFilterHost.exe (PID 333564) -> (pid=333564, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:09:27] 🩺 Attempting to heal process: Code.exe (PID 334092) | No cause provided: 
+[2025-10-31 13:09:27] ✅ Terminated unresponsive process: Code.exe (PID 334092) | No cause provided: 
+[2025-10-31 13:09:27] 🩺 Attempting to heal process: ctfmon.exe (PID 334120) | No cause provided: 
+[2025-10-31 13:09:27] ❌ Healing failed for ctfmon.exe (PID 334120) -> (pid=334120, name='ctfmon.exe') | No cause provided: 
+[2025-10-31 13:09:28] 🩺 Attempting to heal process: FileCoAuth.exe (PID 334164) | No cause provided: 
+[2025-10-31 13:09:28] ✅ Terminated unresponsive process: FileCoAuth.exe (PID 334164) | No cause provided: 
+[2025-10-31 13:09:28] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 334580) | No cause provided: 
+[2025-10-31 13:09:28] ❌ Healing failed for SearchFilterHost.exe (PID 334580) -> (pid=334580, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:09:29] 🩺 Attempting to heal process: chrome.exe (PID 335032) | No cause provided: 
+[2025-10-31 13:09:30] ✅ Terminated unresponsive process: chrome.exe (PID 335032) | No cause provided: 
+[2025-10-31 13:09:30] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 335648) | No cause provided: 
+[2025-10-31 13:09:30] ❌ Healing failed for SearchFilterHost.exe (PID 335648) -> (pid=335648, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:09:31] 🩺 Attempting to heal process: SearchFilterHost.exe (PID 335728) | No cause provided: 
+[2025-10-31 13:09:31] ❌ Healing failed for SearchFilterHost.exe (PID 335728) -> (pid=335728, name='SearchFilterHost.exe') | No cause provided: 
+[2025-10-31 13:09:31] 🩺 Attempting to heal process: ShellHost.exe (PID 335904) | No cause provided: 
+[2025-10-31 13:09:31] ✅ Terminated unresponsive process: ShellHost.exe (PID 335904) | No cause provided: 
+[2025-10-31 13:09:32] 🩺 Attempting to heal process: chrome.exe (PID 336868) | No cause provided: 
+[2025-10-31 13:09:32] ✅ Terminated unresponsive process: chrome.exe (PID 336868) | No cause provided: 
+[2025-10-31 13:09:33] 🩺 Attempting to heal process: FileSyncHelper.exe (PID 337544) | No cause provided: 
+[2025-10-31 13:09:33] ❌ Healing failed for FileSyncHelper.exe (PID 337544) -> (pid=337544, name='FileSyncHelper.exe') | No cause provided: 
+[2025-10-31 13:09:33] 🩺 Attempting to heal process: smartscreen.exe (PID 337704) | No cause provided: 
+[2025-10-31 13:09:33] ✅ Terminated unresponsive process: smartscreen.exe (PID 337704) | No cause provided: 
+[2025-10-31 13:09:33] 🩺 Attempting to heal process: python.exe (PID 338068) | No cause provided: 
+[2025-10-31 13:09:33] ✅ Terminated unresponsive process: python.exe (PID 338068) | No cause provided: 
+[2025-10-31 13:09:33] 🩺 Attempting to heal process: Code.exe (PID 338340) | No cause provided: 
+[2025-10-31 13:09:33] ✅ Terminated unresponsive process: Code.exe (PID 338340) | No cause provided: 
+[2025-10-31 13:09:34] 🩺 Attempting to heal process: RuntimeBroker.exe (PID 339016) | No cause provided: 
+[2025-10-31 13:09:34] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 339016) | No cause provided: 
+[2025-10-31 13:09:34] 🩺 Attempting to heal process: chrome.exe (PID 339120) | No cause provided: 
+[2025-10-31 13:09:34] ✅ Terminated unresponsive process: chrome.exe (PID 339120) | No cause provided: 
+[2025-10-31 13:09:34] 🩺 Attempting to heal process: ApplicationFrameHost.exe (PID 339688) | No cause provided: 
+[2025-10-31 13:09:34] ✅ Terminated unresponsive process: ApplicationFrameHost.exe (PID 339688) | No cause provided: 
+[2025-10-31 13:09:34] 🩺 Attempting to heal process: AppActions.exe (PID 339844) | No cause provided: 
+[2025-10-31 13:09:34] ✅ Terminated unresponsive process: AppActions.exe (PID 339844) | No cause provided: 
+[2025-10-31 13:09:34] 🩺 Attempting to heal process: WidgetService.exe (PID 340176) | No cause provided: 
+[2025-10-31 13:09:34] ✅ Terminated unresponsive process: WidgetService.exe (PID 340176) | No cause provided: 
+[2025-10-31 13:09:34] 🩺 Attempting to heal process: Code.exe (PID 342700) | No cause provided: 
+[2025-10-31 13:09:34] ✅ Terminated unresponsive process: Code.exe (PID 342700) | No cause provided: 
+[2025-10-31 13:09:35] 🩺 Attempting to heal process: Code.exe (PID 342712) | No cause provided: 
+[2025-10-31 13:09:35] ✅ Terminated unresponsive process: Code.exe (PID 342712) | No cause provided: 
+[2025-10-31 13:09:35] 🩺 Attempting to heal process: PhoneExperienceHost.exe (PID 343544) | No cause provided: 
+[2025-10-31 13:09:35] ✅ Terminated unresponsive process: PhoneExperienceHost.exe (PID 343544) | No cause provided: 
+[2025-10-31 13:09:35] 🩺 Attempting to heal process: python.exe (PID 343820) | No cause provided: 
+[2025-10-31 13:19:59] 🧠 Healer service started: Timestamp: 1761896999.7644947
+[2025-10-31 13:20:00] 🩺 Attempting to heal process:  (PID 188) | No cause provided: 
+[2025-10-31 13:20:00] ❌ Healing failed for  (PID 188) -> (pid=188) | No cause provided: 
+[2025-10-31 13:20:01] 🩺 Attempting to heal process: dasHost.exe (PID 844) | No cause provided: 
+[2025-10-31 13:20:01] ❌ Healing failed for dasHost.exe (PID 844) -> (pid=844, name='dasHost.exe') | No cause provided: 
+[2025-10-31 13:20:02] 🩺 Attempting to heal process: LsaIso.exe (PID 1288) | No cause provided: 
+[2025-10-31 13:20:02] ❌ Healing failed for LsaIso.exe (PID 1288) -> (pid=1288, name='LsaIso.exe') | No cause provided: 
+[2025-10-31 13:20:02] 🩺 Attempting to heal process: fontdrvhost.exe (PID 1532) | No cause provided: 
+[2025-10-31 13:20:02] ❌ Healing failed for fontdrvhost.exe (PID 1532) -> (pid=1532, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 13:20:03] 🩺 Attempting to heal process: WUDFHost.exe (PID 1576) | No cause provided: 
+[2025-10-31 13:20:03] ❌ Healing failed for WUDFHost.exe (PID 1576) -> (pid=1576, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 13:20:04] 🩺 Attempting to heal process: WUDFHost.exe (PID 2064) | No cause provided: 
+[2025-10-31 13:20:04] ❌ Healing failed for WUDFHost.exe (PID 2064) -> (pid=2064, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 13:20:05] 🩺 Attempting to heal process: IntelCpHDCPSvc.exe (PID 2444) | No cause provided: 
+[2025-10-31 13:20:05] ❌ Healing failed for IntelCpHDCPSvc.exe (PID 2444) -> (pid=2444, name='IntelCpHDCPSvc.exe') | No cause provided: 
+[2025-10-31 13:20:06] 🩺 Attempting to heal process: OmenCap.exe (PID 3460) | No cause provided: 
+[2025-10-31 13:20:06] ❌ Healing failed for OmenCap.exe (PID 3460) -> (pid=3460, name='OmenCap.exe') | No cause provided: 
+[2025-10-31 13:20:07] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 3548) | No cause provided: 
+[2025-10-31 13:20:07] ❌ Healing failed for NVDisplay.Container.exe (PID 3548) -> (pid=3548, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 13:20:08] 🩺 Attempting to heal process: AppHelperCap.exe (PID 3940) | No cause provided: 
+[2025-10-31 13:20:08] ❌ Healing failed for AppHelperCap.exe (PID 3940) -> (pid=3940, name='AppHelperCap.exe') | No cause provided: 
+[2025-10-31 13:20:09] 🩺 Attempting to heal process: SysInfoCap.exe (PID 3956) | No cause provided: 
+[2025-10-31 13:20:09] ❌ Healing failed for SysInfoCap.exe (PID 3956) -> (pid=3956, name='SysInfoCap.exe') | No cause provided: 
+[2025-10-31 13:20:09] 🩺 Attempting to heal process: NetworkCap.exe (PID 3964) | No cause provided: 
+[2025-10-31 13:20:09] ❌ Healing failed for NetworkCap.exe (PID 3964) -> (pid=3964, name='NetworkCap.exe') | No cause provided: 
+[2025-10-31 13:20:10] 🩺 Attempting to heal process: DiagsCap.exe (PID 3972) | No cause provided: 
+[2025-10-31 13:20:10] ❌ Healing failed for DiagsCap.exe (PID 3972) -> (pid=3972, name='DiagsCap.exe') | No cause provided: 
+[2025-10-31 13:20:11] 🩺 Attempting to heal process: TouchpointAnalyticsClientService.exe (PID 3980) | No cause provided: 
+[2025-10-31 13:20:11] ❌ Healing failed for TouchpointAnalyticsClientService.exe (PID 3980) -> (pid=3980, name='TouchpointAnalyticsClientService.exe') | No cause provided: 
+[2025-10-31 13:20:12] 🩺 Attempting to heal process: SecurityHealthService.exe (PID 4600) | No cause provided: 
+[2025-10-31 13:20:12] ❌ Healing failed for SecurityHealthService.exe (PID 4600) -> (pid=4600, name='SecurityHealthService.exe') | No cause provided: 
+[2025-10-31 13:20:12] 🩺 Attempting to heal process: unsecapp.exe (PID 4772) | No cause provided: 
+[2025-10-31 13:20:12] ❌ Healing failed for unsecapp.exe (PID 4772) -> (pid=4772, name='unsecapp.exe') | No cause provided: 
+[2025-10-31 13:20:13] 🩺 Attempting to heal process: WmiPrvSE.exe (PID 4996) | No cause provided: 
+[2025-10-31 13:20:13] ❌ Healing failed for WmiPrvSE.exe (PID 4996) -> (pid=4996, name='WmiPrvSE.exe') | No cause provided: 
+[2025-10-31 13:20:15] 🩺 Attempting to heal process: spoolsv.exe (PID 5592) | No cause provided: 
+[2025-10-31 13:20:15] ❌ Healing failed for spoolsv.exe (PID 5592) -> (pid=5592, name='spoolsv.exe') | No cause provided: 
+[2025-10-31 13:20:15] 🩺 Attempting to heal process: ipf_uf.exe (PID 5724) | No cause provided: 
+[2025-10-31 13:20:15] ❌ Healing failed for ipf_uf.exe (PID 5724) -> (pid=5724, name='ipf_uf.exe') | No cause provided: 
+[2025-10-31 13:20:17] 🩺 Attempting to heal process: armsvc.exe (PID 5928) | No cause provided: 
+[2025-10-31 13:20:17] ❌ Healing failed for armsvc.exe (PID 5928) -> (pid=5928, name='armsvc.exe') | No cause provided: 
+[2025-10-31 13:20:17] 🩺 Attempting to heal process: DtsApo4Service.exe (PID 5936) | No cause provided: 
+[2025-10-31 13:20:17] ❌ Healing failed for DtsApo4Service.exe (PID 5936) -> (pid=5936, name='DtsApo4Service.exe') | No cause provided: 
+[2025-10-31 13:20:18] 🩺 Attempting to heal process: ETDService.exe (PID 5968) | No cause provided: 
+[2025-10-31 13:20:18] ❌ Healing failed for ETDService.exe (PID 5968) -> (pid=5968, name='ETDService.exe') | No cause provided: 
+[2025-10-31 13:20:18] 🩺 Attempting to heal process: OfficeClickToRun.exe (PID 5988) | No cause provided: 
+[2025-10-31 13:20:18] ❌ Healing failed for OfficeClickToRun.exe (PID 5988) -> (pid=5988, name='OfficeClickToRun.exe') | No cause provided: 
+[2025-10-31 13:20:19] 🩺 Attempting to heal process: HPCommRecovery.exe (PID 6016) | No cause provided: 
+[2025-10-31 13:20:19] ❌ Healing failed for HPCommRecovery.exe (PID 6016) -> (pid=6016, name='HPCommRecovery.exe') | No cause provided: 
+[2025-10-31 13:20:20] 🩺 Attempting to heal process: HPPrintScanDoctorService.exe (PID 6024) | No cause provided: 
+[2025-10-31 13:20:20] ❌ Healing failed for HPPrintScanDoctorService.exe (PID 6024) -> (pid=6024, name='HPPrintScanDoctorService.exe') | No cause provided: 
+[2025-10-31 13:20:20] 🩺 Attempting to heal process: OneApp.IGCC.WinService.exe (PID 6072) | No cause provided: 
+[2025-10-31 13:20:20] ❌ Healing failed for OneApp.IGCC.WinService.exe (PID 6072) -> (pid=6072, name='OneApp.IGCC.WinService.exe') | No cause provided: 
+[2025-10-31 13:20:21] 🩺 Attempting to heal process: IntelAudioService.exe (PID 6092) | No cause provided: 
+[2025-10-31 13:20:21] ❌ Healing failed for IntelAudioService.exe (PID 6092) -> (pid=6092, name='IntelAudioService.exe') | No cause provided: 
+[2025-10-31 13:20:21] 🩺 Attempting to heal process: MpDefenderCoreService.exe (PID 6204) | No cause provided: 
+[2025-10-31 13:20:21] ❌ Healing failed for MpDefenderCoreService.exe (PID 6204) -> (pid=6204, name='MpDefenderCoreService.exe') | No cause provided: 
+[2025-10-31 13:20:22] 🩺 Attempting to heal process: jhi_service.exe (PID 6220) | No cause provided: 
+[2025-10-31 13:20:22] ❌ Healing failed for jhi_service.exe (PID 6220) -> (pid=6220, name='jhi_service.exe') | No cause provided: 
+[2025-10-31 13:20:22] 🩺 Attempting to heal process: nvcontainer.exe (PID 6284) | No cause provided: 
+[2025-10-31 13:20:22] ❌ Healing failed for nvcontainer.exe (PID 6284) -> (pid=6284, name='nvcontainer.exe') | No cause provided: 
+[2025-10-31 13:20:23] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 6292) | No cause provided: 
+[2025-10-31 13:20:23] ❌ Healing failed for RtkAudUService64.exe (PID 6292) -> (pid=6292, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 13:20:23] 🩺 Attempting to heal process: RtkBtManServ.exe (PID 6316) | No cause provided: 
+[2025-10-31 13:20:23] ❌ Healing failed for RtkBtManServ.exe (PID 6316) -> (pid=6316, name='RtkBtManServ.exe') | No cause provided: 
+[2025-10-31 13:20:24] 🩺 Attempting to heal process: XtuService.exe (PID 6448) | No cause provided: 
+[2025-10-31 13:20:24] ❌ Healing failed for XtuService.exe (PID 6448) -> (pid=6448, name='XtuService.exe') | No cause provided: 
+[2025-10-31 13:20:25] 🩺 Attempting to heal process: WMIRegistrationService.exe (PID 6456) | No cause provided: 
+[2025-10-31 13:20:25] ❌ Healing failed for WMIRegistrationService.exe (PID 6456) -> (pid=6456, name='WMIRegistrationService.exe') | No cause provided: 
+[2025-10-31 13:20:25] 🩺 Attempting to heal process: msedgewebview2.exe (PID 8132) | No cause provided: 
+[2025-10-31 13:20:25] ✅ Terminated unresponsive process: msedgewebview2.exe (PID 8132) | No cause provided: 
+[2025-10-31 13:20:27] 🩺 Attempting to heal process: IntelGraphicsSoftware.Service.exe (PID 10868) | No cause provided: 
+[2025-10-31 13:20:27] ❌ Healing failed for IntelGraphicsSoftware.Service.exe (PID 10868) -> (pid=10868, name='IntelGraphicsSoftware.Service.exe') | No cause provided: 
+[2025-10-31 13:20:28] 🩺 Attempting to heal process: AggregatorHost.exe (PID 12116) | No cause provided: 
+[2025-10-31 13:20:28] ❌ Healing failed for AggregatorHost.exe (PID 12116) -> (pid=12116, name='AggregatorHost.exe') | No cause provided: 
+[2025-10-31 13:20:29] 🩺 Attempting to heal process: PresentMonService.exe (PID 14240) | No cause provided: 
+[2025-10-31 13:20:29] ❌ Healing failed for PresentMonService.exe (PID 14240) -> (pid=14240, name='PresentMonService.exe') | No cause provided: 
+[2025-10-31 13:20:30] 🩺 Attempting to heal process: conhost.exe (PID 14276) | No cause provided: 
+[2025-10-31 13:20:30] ❌ Healing failed for conhost.exe (PID 14276) -> (pid=14276, name='conhost.exe') | No cause provided: 
+[2025-10-31 13:20:30] 🩺 Attempting to heal process: SearchIndexer.exe (PID 14812) | No cause provided: 
+[2025-10-31 13:20:30] ❌ Healing failed for SearchIndexer.exe (PID 14812) -> (pid=14812, name='SearchIndexer.exe') | No cause provided: 
+[2025-10-31 13:20:31] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 17768) | No cause provided: 
+[2025-10-31 13:20:31] ❌ Healing failed for NVDisplay.Container.exe (PID 17768) -> (pid=17768, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 13:20:32] 🩺 Attempting to heal process: winlogon.exe (PID 22808) | No cause provided: 
+[2025-10-31 13:20:32] ❌ Healing failed for winlogon.exe (PID 22808) -> (pid=22808, name='winlogon.exe') | No cause provided: 
+[2025-10-31 13:20:33] 🩺 Attempting to heal process: dasHost.exe (PID 25540) | No cause provided: 
+[2025-10-31 13:20:33] ❌ Healing failed for dasHost.exe (PID 25540) -> (pid=25540, name='dasHost.exe') | No cause provided: 
+[2025-10-31 13:20:33] 🩺 Attempting to heal process: dllhost.exe (PID 26208) | No cause provided: 
+[2025-10-31 13:20:33] ✅ Terminated unresponsive process: dllhost.exe (PID 26208) | No cause provided: 
+[2025-10-31 13:20:33] 🩺 Attempting to heal process: CrossDeviceResume.exe (PID 29676) | No cause provided: 
+[2025-10-31 13:20:33] ✅ Terminated unresponsive process: CrossDeviceResume.exe (PID 29676) | No cause provided: 
+[2025-10-31 13:20:34] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 34792) | No cause provided: 
+[2025-10-31 13:20:34] ❌ Healing failed for RtkAudUService64.exe (PID 34792) -> (pid=34792, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 13:20:34] 🩺 Attempting to heal process: chrome.exe (PID 36996) | No cause provided: 
+[2025-10-31 13:20:34] ✅ Terminated unresponsive process: chrome.exe (PID 36996) | No cause provided: 
+[2025-10-31 13:20:35] 🩺 Attempting to heal process: fontdrvhost.exe (PID 45100) | No cause provided: 
+[2025-10-31 13:20:35] ❌ Healing failed for fontdrvhost.exe (PID 45100) -> (pid=45100, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 13:20:35] 🩺 Attempting to heal process: Code.exe (PID 46464) | No cause provided: 
+[2025-10-31 13:20:35] ✅ Terminated unresponsive process: Code.exe (PID 46464) | No cause provided: 
+[2025-10-31 13:20:35] 🩺 Attempting to heal process: nvcontainer.exe (PID 191988) | No cause provided: 
+[2025-10-31 13:20:35] ✅ Terminated unresponsive process: nvcontainer.exe (PID 191988) | No cause provided: 
+[2025-10-31 13:20:36] 🩺 Attempting to heal process: nvcontainer.exe (PID 213316) | No cause provided: 
+[2025-10-31 13:20:36] ❌ Healing failed for nvcontainer.exe (PID 213316) -> (pid=213316, name='nvcontainer.exe') | No cause provided: 
+[2025-10-31 13:20:37] 🩺 Attempting to heal process: dwm.exe (PID 270840) | No cause provided: 
+[2025-10-31 13:20:37] ❌ Healing failed for dwm.exe (PID 270840) -> (pid=270840, name='dwm.exe') | No cause provided: 
+[2025-10-31 13:20:37] 🩺 Attempting to heal process: ChatGPT.exe (PID 277260) | No cause provided: 
+[2025-10-31 13:20:37] ✅ Terminated unresponsive process: ChatGPT.exe (PID 277260) | No cause provided: 
+[2025-10-31 13:20:38] 🩺 Attempting to heal process: ShellHost.exe (PID 281792) | No cause provided: 
+[2025-10-31 13:20:38] ✅ Terminated unresponsive process: ShellHost.exe (PID 281792) | No cause provided: 
+[2025-10-31 13:20:38] 🩺 Attempting to heal process: pgavgui.exe (PID 283032) | No cause provided: 
+[2025-10-31 13:20:43] ❌ Healing failed for pgavgui.exe (PID 283032) -> timeout after 5 seconds (pid=283032, name='pgavgui.exe') | No cause provided: 
+[2025-10-31 13:20:43] 🩺 Attempting to heal process: chrome.exe (PID 283584) | No cause provided: 
+[2025-10-31 13:20:43] ✅ Terminated unresponsive process: chrome.exe (PID 283584) | No cause provided: 
+[2025-10-31 13:20:43] 🩺 Attempting to heal process: smartscreen.exe (PID 283900) | No cause provided: 
+[2025-10-31 13:20:43] ✅ Terminated unresponsive process: smartscreen.exe (PID 283900) | No cause provided: 
+[2025-10-31 13:20:44] 🩺 Attempting to heal process: servicehost.exe (PID 286556) | No cause provided: 
+[2025-10-31 13:20:44] ❌ Healing failed for servicehost.exe (PID 286556) -> (pid=286556, name='servicehost.exe') | No cause provided: 
+[2025-10-31 13:20:44] 🩺 Attempting to heal process: sihost.exe (PID 304756) | No cause provided: 
+[2025-10-31 13:20:44] ✅ Terminated unresponsive process: sihost.exe (PID 304756) | No cause provided: 
+[2025-10-31 13:20:45] 🩺 Attempting to heal process: ConEmuC64.exe (PID 306640) | No cause provided: 
+[2025-10-31 13:20:45] ✅ Terminated unresponsive process: ConEmuC64.exe (PID 306640) | No cause provided: 
+[2025-10-31 13:20:45] 🩺 Attempting to heal process: WidgetService.exe (PID 314060) | No cause provided: 
+[2025-10-31 13:20:45] ✅ Terminated unresponsive process: WidgetService.exe (PID 314060) | No cause provided: 
+[2025-10-31 13:20:45] 🩺 Attempting to heal process: Notepad.exe (PID 317004) | No cause provided: 
+[2025-10-31 13:20:45] ✅ Terminated unresponsive process: Notepad.exe (PID 317004) | No cause provided: 
+[2025-10-31 13:20:45] 🔁 Restarted process: Notepad.exe (via restart map): 
+[2025-10-31 13:20:45] 🩺 Attempting to heal process: ctfmon.exe (PID 321132) | No cause provided: 
+[2025-10-31 13:20:45] ❌ Healing failed for ctfmon.exe (PID 321132) -> (pid=321132, name='ctfmon.exe') | No cause provided: 
+[2025-10-31 13:20:45] 🩺 Attempting to heal process: conhost.exe (PID 322164) | No cause provided: 
+[2025-10-31 13:20:45] ✅ Terminated unresponsive process: conhost.exe (PID 322164) | No cause provided: 
+[2025-10-31 13:20:45] 🩺 Attempting to heal process: cmd.exe (PID 322952) | No cause provided: 
+[2025-10-31 13:20:45] ✅ Terminated unresponsive process: cmd.exe (PID 322952) | No cause provided: 
+[2025-10-31 13:20:45] 🩺 Attempting to heal process: Widgets.exe (PID 323192) | No cause provided: 
+[2025-10-31 13:20:45] ✅ Terminated unresponsive process: Widgets.exe (PID 323192) | No cause provided: 
+[2025-10-31 13:20:46] 🩺 Attempting to heal process: uihost.exe (PID 323304) | No cause provided: 
+[2025-10-31 13:20:46] ✅ Terminated unresponsive process: uihost.exe (PID 323304) | No cause provided: 
+[2025-10-31 13:20:46] 🩺 Attempting to heal process: Code.exe (PID 323640) | No cause provided: 
+[2025-10-31 13:20:46] ✅ Terminated unresponsive process: Code.exe (PID 323640) | No cause provided: 
+[2025-10-31 13:20:48] 🩺 Attempting to heal process: chrome.exe (PID 328236) | No cause provided: 
+[2025-10-31 13:20:52] ✅ Terminated unresponsive process: chrome.exe (PID 328236) | No cause provided: 
+[2025-10-31 13:20:52] 🩺 Attempting to heal process: powershell.exe (PID 332728) | No cause provided: 
+[2025-10-31 13:20:52] ✅ Terminated unresponsive process: powershell.exe (PID 332728) | No cause provided: 
+[2025-10-31 13:20:52] 🩺 Attempting to heal process: chrome.exe (PID 334936) | No cause provided: 
+[2025-10-31 13:20:53] ✅ Terminated unresponsive process: chrome.exe (PID 334936) | No cause provided: 
+[2025-10-31 13:20:53] 🩺 Attempting to heal process: Code.exe (PID 335124) | No cause provided: 
+[2025-10-31 13:20:53] ✅ Terminated unresponsive process: Code.exe (PID 335124) | No cause provided: 
+[2025-10-31 13:20:53] 🩺 Attempting to heal process: chrome.exe (PID 335852) | No cause provided: 
+[2025-10-31 13:20:55] ✅ Terminated unresponsive process: chrome.exe (PID 335852) | No cause provided: 
+[2025-10-31 13:20:55] 🩺 Attempting to heal process: Code.exe (PID 335892) | No cause provided: 
+[2025-10-31 13:20:55] ✅ Terminated unresponsive process: Code.exe (PID 335892) | No cause provided: 
+[2025-10-31 13:20:56] 🩺 Attempting to heal process: Code.exe (PID 337028) | No cause provided: 
+[2025-10-31 13:20:56] ✅ Terminated unresponsive process: Code.exe (PID 337028) | No cause provided: 
+[2025-10-31 13:20:56] 🩺 Attempting to heal process: FileSyncHelper.exe (PID 337544) | No cause provided: 
+[2025-10-31 13:20:56] ❌ Healing failed for FileSyncHelper.exe (PID 337544) -> (pid=337544, name='FileSyncHelper.exe') | No cause provided: 
+[2025-10-31 13:20:57] 🩺 Attempting to heal process: chrome.exe (PID 337748) | No cause provided: 
+[2025-10-31 13:20:57] ✅ Terminated unresponsive process: chrome.exe (PID 337748) | No cause provided: 
+[2025-10-31 13:20:57] 🩺 Attempting to heal process: RuntimeBroker.exe (PID 338568) | No cause provided: 
+[2025-10-31 13:20:57] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 338568) | No cause provided: 
+[2025-10-31 13:20:57] 🩺 Attempting to heal process: nvcontainer.exe (PID 339924) | No cause provided: 
+[2025-10-31 13:20:57] ✅ Terminated unresponsive process: nvcontainer.exe (PID 339924) | No cause provided: 
+[2025-10-31 13:20:57] 🩺 Attempting to heal process: conhost.exe (PID 340568) | No cause provided: 
+[2025-10-31 13:20:57] ✅ Terminated unresponsive process: conhost.exe (PID 340568) | No cause provided: 
+[2025-10-31 13:20:57] 🩺 Attempting to heal process: Code.exe (PID 340840) | No cause provided: 
+[2025-10-31 13:20:57] ✅ Terminated unresponsive process: Code.exe (PID 340840) | No cause provided: 
+[2025-10-31 13:20:57] 🩺 Attempting to heal process: SearchHost.exe (PID 342000) | No cause provided: 
+[2025-10-31 13:20:58] ✅ Terminated unresponsive process: SearchHost.exe (PID 342000) | No cause provided: 
+[2025-10-31 13:20:58] 🩺 Attempting to heal process: ShellExperienceHost.exe (PID 343764) | No cause provided: 
+[2025-10-31 13:20:58] ✅ Terminated unresponsive process: ShellExperienceHost.exe (PID 343764) | No cause provided: 
+[2025-10-31 13:20:58] 🩺 Attempting to heal process: cmd.exe (PID 344212) | No cause provided: 
+[2025-10-31 13:20:58] ✅ Terminated unresponsive process: cmd.exe (PID 344212) | No cause provided: 
+[2025-10-31 13:20:59] 🩺 Attempting to heal process: python.exe (PID 344576) | No cause provided: 
+[2025-10-31 13:20:59] ✅ Terminated unresponsive process: python.exe (PID 344576) | No cause provided: 
+[2025-10-31 13:20:59] 🩺 Attempting to heal process: python.exe (PID 345336) | No cause provided: 
+[2025-10-31 13:22:25] 🧠 Healer service started: Timestamp: 1761897145.2148333
+[2025-10-31 13:22:26] 🩺 Attempting to heal process:  (PID 188) | No cause provided: 
+[2025-10-31 13:22:26] ❌ Healing failed for  (PID 188) -> (pid=188) | No cause provided: 
+[2025-10-31 13:22:26] 🩺 Attempting to heal process: dasHost.exe (PID 844) | No cause provided: 
+[2025-10-31 13:22:26] ❌ Healing failed for dasHost.exe (PID 844) -> (pid=844, name='dasHost.exe') | No cause provided: 
+[2025-10-31 13:22:27] 🩺 Attempting to heal process: LsaIso.exe (PID 1288) | No cause provided: 
+[2025-10-31 13:22:27] ❌ Healing failed for LsaIso.exe (PID 1288) -> (pid=1288, name='LsaIso.exe') | No cause provided: 
+[2025-10-31 13:22:28] 🩺 Attempting to heal process: fontdrvhost.exe (PID 1532) | No cause provided: 
+[2025-10-31 13:22:28] ❌ Healing failed for fontdrvhost.exe (PID 1532) -> (pid=1532, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 13:22:28] 🩺 Attempting to heal process: WUDFHost.exe (PID 1576) | No cause provided: 
+[2025-10-31 13:22:28] ❌ Healing failed for WUDFHost.exe (PID 1576) -> (pid=1576, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 13:22:29] 🩺 Attempting to heal process: WUDFHost.exe (PID 2064) | No cause provided: 
+[2025-10-31 13:22:29] ❌ Healing failed for WUDFHost.exe (PID 2064) -> (pid=2064, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 13:22:30] 🩺 Attempting to heal process: IntelCpHDCPSvc.exe (PID 2444) | No cause provided: 
+[2025-10-31 13:22:30] ❌ Healing failed for IntelCpHDCPSvc.exe (PID 2444) -> (pid=2444, name='IntelCpHDCPSvc.exe') | No cause provided: 
+[2025-10-31 13:22:31] 🩺 Attempting to heal process: cmd.exe (PID 3060) | No cause provided: 
+[2025-10-31 13:22:31] ✅ Terminated unresponsive process: cmd.exe (PID 3060) | No cause provided: 
+[2025-10-31 13:22:32] 🩺 Attempting to heal process: OmenCap.exe (PID 3460) | No cause provided: 
+[2025-10-31 13:22:32] ❌ Healing failed for OmenCap.exe (PID 3460) -> (pid=3460, name='OmenCap.exe') | No cause provided: 
+[2025-10-31 13:22:32] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 3548) | No cause provided: 
+[2025-10-31 13:22:32] ❌ Healing failed for NVDisplay.Container.exe (PID 3548) -> (pid=3548, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 13:22:33] 🩺 Attempting to heal process: AppHelperCap.exe (PID 3940) | No cause provided: 
+[2025-10-31 13:22:33] ❌ Healing failed for AppHelperCap.exe (PID 3940) -> (pid=3940, name='AppHelperCap.exe') | No cause provided: 
+[2025-10-31 13:22:34] 🩺 Attempting to heal process: SysInfoCap.exe (PID 3956) | No cause provided: 
+[2025-10-31 13:22:34] ❌ Healing failed for SysInfoCap.exe (PID 3956) -> (pid=3956, name='SysInfoCap.exe') | No cause provided: 
+[2025-10-31 13:22:35] 🩺 Attempting to heal process: NetworkCap.exe (PID 3964) | No cause provided: 
+[2025-10-31 13:22:35] ❌ Healing failed for NetworkCap.exe (PID 3964) -> (pid=3964, name='NetworkCap.exe') | No cause provided: 
+[2025-10-31 13:22:35] 🩺 Attempting to heal process: DiagsCap.exe (PID 3972) | No cause provided: 
+[2025-10-31 13:22:35] ❌ Healing failed for DiagsCap.exe (PID 3972) -> (pid=3972, name='DiagsCap.exe') | No cause provided: 
+[2025-10-31 13:22:36] 🩺 Attempting to heal process: TouchpointAnalyticsClientService.exe (PID 3980) | No cause provided: 
+[2025-10-31 13:22:36] ❌ Healing failed for TouchpointAnalyticsClientService.exe (PID 3980) -> (pid=3980, name='TouchpointAnalyticsClientService.exe') | No cause provided: 
+[2025-10-31 13:22:37] 🩺 Attempting to heal process: SecurityHealthService.exe (PID 4600) | No cause provided: 
+[2025-10-31 13:22:37] ❌ Healing failed for SecurityHealthService.exe (PID 4600) -> (pid=4600, name='SecurityHealthService.exe') | No cause provided: 
+[2025-10-31 13:22:37] 🩺 Attempting to heal process: unsecapp.exe (PID 4772) | No cause provided: 
+[2025-10-31 13:22:37] ❌ Healing failed for unsecapp.exe (PID 4772) -> (pid=4772, name='unsecapp.exe') | No cause provided: 
+[2025-10-31 13:22:38] 🩺 Attempting to heal process: WmiPrvSE.exe (PID 4996) | No cause provided: 
+[2025-10-31 13:22:38] ❌ Healing failed for WmiPrvSE.exe (PID 4996) -> (pid=4996, name='WmiPrvSE.exe') | No cause provided: 
+[2025-10-31 13:22:39] 🩺 Attempting to heal process: spoolsv.exe (PID 5592) | No cause provided: 
+[2025-10-31 13:22:39] ❌ Healing failed for spoolsv.exe (PID 5592) -> (pid=5592, name='spoolsv.exe') | No cause provided: 
+[2025-10-31 13:22:40] 🩺 Attempting to heal process: ipf_uf.exe (PID 5724) | No cause provided: 
+[2025-10-31 13:22:40] ❌ Healing failed for ipf_uf.exe (PID 5724) -> (pid=5724, name='ipf_uf.exe') | No cause provided: 
+[2025-10-31 13:22:41] 🩺 Attempting to heal process: armsvc.exe (PID 5928) | No cause provided: 
+[2025-10-31 13:22:41] ❌ Healing failed for armsvc.exe (PID 5928) -> (pid=5928, name='armsvc.exe') | No cause provided: 
+[2025-10-31 13:22:41] 🩺 Attempting to heal process: DtsApo4Service.exe (PID 5936) | No cause provided: 
+[2025-10-31 13:22:41] ❌ Healing failed for DtsApo4Service.exe (PID 5936) -> (pid=5936, name='DtsApo4Service.exe') | No cause provided: 
+[2025-10-31 13:22:42] 🩺 Attempting to heal process: ETDService.exe (PID 5968) | No cause provided: 
+[2025-10-31 13:22:42] ❌ Healing failed for ETDService.exe (PID 5968) -> (pid=5968, name='ETDService.exe') | No cause provided: 
+[2025-10-31 13:22:42] 🩺 Attempting to heal process: OfficeClickToRun.exe (PID 5988) | No cause provided: 
+[2025-10-31 13:22:42] ❌ Healing failed for OfficeClickToRun.exe (PID 5988) -> (pid=5988, name='OfficeClickToRun.exe') | No cause provided: 
+[2025-10-31 13:22:43] 🩺 Attempting to heal process: HPCommRecovery.exe (PID 6016) | No cause provided: 
+[2025-10-31 13:22:43] ❌ Healing failed for HPCommRecovery.exe (PID 6016) -> (pid=6016, name='HPCommRecovery.exe') | No cause provided: 
+[2025-10-31 13:22:44] 🩺 Attempting to heal process: HPPrintScanDoctorService.exe (PID 6024) | No cause provided: 
+[2025-10-31 13:22:44] ❌ Healing failed for HPPrintScanDoctorService.exe (PID 6024) -> (pid=6024, name='HPPrintScanDoctorService.exe') | No cause provided: 
+[2025-10-31 13:22:45] 🩺 Attempting to heal process: OneApp.IGCC.WinService.exe (PID 6072) | No cause provided: 
+[2025-10-31 13:22:45] ❌ Healing failed for OneApp.IGCC.WinService.exe (PID 6072) -> (pid=6072, name='OneApp.IGCC.WinService.exe') | No cause provided: 
+[2025-10-31 13:22:45] 🩺 Attempting to heal process: IntelAudioService.exe (PID 6092) | No cause provided: 
+[2025-10-31 13:22:45] ❌ Healing failed for IntelAudioService.exe (PID 6092) -> (pid=6092, name='IntelAudioService.exe') | No cause provided: 
+[2025-10-31 13:22:46] 🩺 Attempting to heal process: MpDefenderCoreService.exe (PID 6204) | No cause provided: 
+[2025-10-31 13:22:46] ❌ Healing failed for MpDefenderCoreService.exe (PID 6204) -> (pid=6204, name='MpDefenderCoreService.exe') | No cause provided: 
+[2025-10-31 13:22:46] 🩺 Attempting to heal process: jhi_service.exe (PID 6220) | No cause provided: 
+[2025-10-31 13:22:46] ❌ Healing failed for jhi_service.exe (PID 6220) -> (pid=6220, name='jhi_service.exe') | No cause provided: 
+[2025-10-31 13:22:47] 🩺 Attempting to heal process: nvcontainer.exe (PID 6284) | No cause provided: 
+[2025-10-31 13:22:47] ❌ Healing failed for nvcontainer.exe (PID 6284) -> (pid=6284, name='nvcontainer.exe') | No cause provided: 
+[2025-10-31 13:22:47] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 6292) | No cause provided: 
+[2025-10-31 13:22:47] ❌ Healing failed for RtkAudUService64.exe (PID 6292) -> (pid=6292, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 13:22:48] 🩺 Attempting to heal process: RtkBtManServ.exe (PID 6316) | No cause provided: 
+[2025-10-31 13:22:48] ❌ Healing failed for RtkBtManServ.exe (PID 6316) -> (pid=6316, name='RtkBtManServ.exe') | No cause provided: 
+[2025-10-31 13:22:49] 🩺 Attempting to heal process: XtuService.exe (PID 6448) | No cause provided: 
+[2025-10-31 13:22:49] ❌ Healing failed for XtuService.exe (PID 6448) -> (pid=6448, name='XtuService.exe') | No cause provided: 
+[2025-10-31 13:22:50] 🩺 Attempting to heal process: WMIRegistrationService.exe (PID 6456) | No cause provided: 
+[2025-10-31 13:22:50] ❌ Healing failed for WMIRegistrationService.exe (PID 6456) -> (pid=6456, name='WMIRegistrationService.exe') | No cause provided: 
+[2025-10-31 13:22:50] 🩺 Attempting to heal process: IntelGraphicsSoftware.Service.exe (PID 10868) | No cause provided: 
+[2025-10-31 13:22:50] ❌ Healing failed for IntelGraphicsSoftware.Service.exe (PID 10868) -> (pid=10868, name='IntelGraphicsSoftware.Service.exe') | No cause provided: 
+[2025-10-31 13:22:51] 🩺 Attempting to heal process: AggregatorHost.exe (PID 12116) | No cause provided: 
+[2025-10-31 13:22:51] ❌ Healing failed for AggregatorHost.exe (PID 12116) -> (pid=12116, name='AggregatorHost.exe') | No cause provided: 
+[2025-10-31 13:22:52] 🩺 Attempting to heal process: PresentMonService.exe (PID 14240) | No cause provided: 
+[2025-10-31 13:22:52] ❌ Healing failed for PresentMonService.exe (PID 14240) -> (pid=14240, name='PresentMonService.exe') | No cause provided: 
+[2025-10-31 13:22:53] 🩺 Attempting to heal process: conhost.exe (PID 14276) | No cause provided: 
+[2025-10-31 13:22:53] ❌ Healing failed for conhost.exe (PID 14276) -> (pid=14276, name='conhost.exe') | No cause provided: 
+[2025-10-31 13:22:54] 🩺 Attempting to heal process: SearchIndexer.exe (PID 14812) | No cause provided: 
+[2025-10-31 13:22:54] ❌ Healing failed for SearchIndexer.exe (PID 14812) -> (pid=14812, name='SearchIndexer.exe') | No cause provided: 
+[2025-10-31 13:22:54] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 17768) | No cause provided: 
+[2025-10-31 13:22:54] ❌ Healing failed for NVDisplay.Container.exe (PID 17768) -> (pid=17768, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 13:22:54] 🩺 Attempting to heal process: msedgewebview2.exe (PID 19700) | No cause provided: 
+[2025-10-31 13:22:54] ✅ Terminated unresponsive process: msedgewebview2.exe (PID 19700) | No cause provided: 
+[2025-10-31 13:22:55] 🩺 Attempting to heal process: winlogon.exe (PID 22808) | No cause provided: 
+[2025-10-31 13:22:55] ❌ Healing failed for winlogon.exe (PID 22808) -> (pid=22808, name='winlogon.exe') | No cause provided: 
+[2025-10-31 13:22:56] 🩺 Attempting to heal process: dasHost.exe (PID 25540) | No cause provided: 
+[2025-10-31 13:22:56] ❌ Healing failed for dasHost.exe (PID 25540) -> (pid=25540, name='dasHost.exe') | No cause provided: 
+[2025-10-31 13:22:57] 🩺 Attempting to heal process: uihost.exe (PID 33860) | No cause provided: 
+[2025-10-31 13:22:57] ✅ Terminated unresponsive process: uihost.exe (PID 33860) | No cause provided: 
+[2025-10-31 13:22:58] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 34792) | No cause provided: 
+[2025-10-31 13:22:58] ❌ Healing failed for RtkAudUService64.exe (PID 34792) -> (pid=34792, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 13:22:59] 🩺 Attempting to heal process: chrome.exe (PID 44432) | No cause provided: 
+[2025-10-31 13:23:00] ✅ Terminated unresponsive process: chrome.exe (PID 44432) | No cause provided: 
+[2025-10-31 13:23:02] 🩺 Attempting to heal process: fontdrvhost.exe (PID 45100) | No cause provided: 
+[2025-10-31 13:23:02] ❌ Healing failed for fontdrvhost.exe (PID 45100) -> (pid=45100, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 13:23:02] 🩺 Attempting to heal process: python.exe (PID 118620) | No cause provided: 
+[2025-10-31 13:23:02] ✅ Terminated unresponsive process: python.exe (PID 118620) | No cause provided: 
+[2025-10-31 13:23:02] 🩺 Attempting to heal process: powershell.exe (PID 192388) | No cause provided: 
+[2025-10-31 13:23:02] ✅ Terminated unresponsive process: powershell.exe (PID 192388) | No cause provided: 
+[2025-10-31 13:23:03] 🩺 Attempting to heal process: nvcontainer.exe (PID 213316) | No cause provided: 
+[2025-10-31 13:23:03] ❌ Healing failed for nvcontainer.exe (PID 213316) -> (pid=213316, name='nvcontainer.exe') | No cause provided: 
+[2025-10-31 13:23:04] 🩺 Attempting to heal process: powershell.exe (PID 277060) | No cause provided: 
+[2025-10-31 13:23:04] ✅ Terminated unresponsive process: powershell.exe (PID 277060) | No cause provided: 
+[2025-10-31 13:23:04] 🩺 Attempting to heal process: python.exe (PID 278188) | No cause provided: 
+[2025-10-31 13:23:04] ✅ Terminated unresponsive process: python.exe (PID 278188) | No cause provided: 
+[2025-10-31 13:23:05] 🩺 Attempting to heal process: pgavgui.exe (PID 283032) | No cause provided: 
+[2025-10-31 13:23:10] ❌ Healing failed for pgavgui.exe (PID 283032) -> timeout after 5 seconds (pid=283032, name='pgavgui.exe') | No cause provided: 
+[2025-10-31 13:23:10] 🩺 Attempting to heal process: servicehost.exe (PID 286556) | No cause provided: 
+[2025-10-31 13:23:10] ❌ Healing failed for servicehost.exe (PID 286556) -> (pid=286556, name='servicehost.exe') | No cause provided: 
+[2025-10-31 13:23:11] 🩺 Attempting to heal process: msedgewebview2.exe (PID 294432) | No cause provided: 
+[2025-10-31 13:23:11] ✅ Terminated unresponsive process: msedgewebview2.exe (PID 294432) | No cause provided: 
+[2025-10-31 13:23:11] 🩺 Attempting to heal process: chrome.exe (PID 315224) | No cause provided: 
+[2025-10-31 13:23:11] ✅ Terminated unresponsive process: chrome.exe (PID 315224) | No cause provided: 
+[2025-10-31 13:23:11] 🩺 Attempting to heal process: Notepad.exe (PID 319768) | No cause provided: 
+[2025-10-31 13:23:11] ✅ Terminated unresponsive process: Notepad.exe (PID 319768) | No cause provided: 
+[2025-10-31 13:23:11] 🔁 Restarted process: Notepad.exe (via restart map): 
+[2025-10-31 13:23:12] 🩺 Attempting to heal process: RuntimeBroker.exe (PID 324900) | No cause provided: 
+[2025-10-31 13:23:12] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 324900) | No cause provided: 
+[2025-10-31 13:23:13] 🩺 Attempting to heal process: WmiPrvSE.exe (PID 326696) | No cause provided: 
+[2025-10-31 13:23:13] ❌ Healing failed for WmiPrvSE.exe (PID 326696) -> (pid=326696, name='WmiPrvSE.exe') | No cause provided: 
+[2025-10-31 13:23:13] 🩺 Attempting to heal process: Widgets.exe (PID 328176) | No cause provided: 
+[2025-10-31 13:23:13] ✅ Terminated unresponsive process: Widgets.exe (PID 328176) | No cause provided: 
+[2025-10-31 13:23:13] 🩺 Attempting to heal process: chrome.exe (PID 334408) | No cause provided: 
+[2025-10-31 13:23:13] ✅ Terminated unresponsive process: chrome.exe (PID 334408) | No cause provided: 
+[2025-10-31 13:23:13] 🩺 Attempting to heal process: ShellExperienceHost.exe (PID 336052) | No cause provided: 
+[2025-10-31 13:23:13] ✅ Terminated unresponsive process: ShellExperienceHost.exe (PID 336052) | No cause provided: 
+[2025-10-31 13:23:13] 🩺 Attempting to heal process: msedgewebview2.exe (PID 336420) | No cause provided: 
+[2025-10-31 13:23:13] ✅ Terminated unresponsive process: msedgewebview2.exe (PID 336420) | No cause provided: 
+[2025-10-31 13:23:13] 🩺 Attempting to heal process: conhost.exe (PID 336616) | No cause provided: 
+[2025-10-31 13:23:14] ✅ Terminated unresponsive process: conhost.exe (PID 336616) | No cause provided: 
+[2025-10-31 13:23:14] 🩺 Attempting to heal process: chrome.exe (PID 336824) | No cause provided: 
+[2025-10-31 13:23:14] ✅ Terminated unresponsive process: chrome.exe (PID 336824) | No cause provided: 
+[2025-10-31 13:23:15] 🩺 Attempting to heal process: FileSyncHelper.exe (PID 337544) | No cause provided: 
+[2025-10-31 13:23:15] ❌ Healing failed for FileSyncHelper.exe (PID 337544) -> (pid=337544, name='FileSyncHelper.exe') | No cause provided: 
+[2025-10-31 13:23:15] 🩺 Attempting to heal process: nvcontainer.exe (PID 338952) | No cause provided: 
+[2025-10-31 13:23:15] ✅ Terminated unresponsive process: nvcontainer.exe (PID 338952) | No cause provided: 
+[2025-10-31 13:23:15] 🩺 Attempting to heal process: msedgewebview2.exe (PID 340300) | No cause provided: 
+[2025-10-31 13:23:15] ✅ Terminated unresponsive process: msedgewebview2.exe (PID 340300) | No cause provided: 
+[2025-10-31 13:23:15] 🩺 Attempting to heal process: msedgewebview2.exe (PID 341672) | No cause provided: 
+[2025-10-31 13:23:15] ✅ Terminated unresponsive process: msedgewebview2.exe (PID 341672) | No cause provided: 
+[2025-10-31 13:23:15] 🩺 Attempting to heal process: CrossDeviceResume.exe (PID 344100) | No cause provided: 
+[2025-10-31 13:23:18] ✅ Terminated unresponsive process: CrossDeviceResume.exe (PID 344100) | No cause provided: 
+[2025-10-31 13:23:18] 🩺 Attempting to heal process: WidgetService.exe (PID 344308) | No cause provided: 
+[2025-10-31 13:23:18] ✅ Terminated unresponsive process: WidgetService.exe (PID 344308) | No cause provided: 
+[2025-10-31 13:23:18] 🩺 Attempting to heal process: ctfmon.exe (PID 344404) | No cause provided: 
+[2025-10-31 13:23:18] ❌ Healing failed for ctfmon.exe (PID 344404) -> (pid=344404, name='ctfmon.exe') | No cause provided: 
+[2025-10-31 13:23:18] 🩺 Attempting to heal process: chrome.exe (PID 345320) | No cause provided: 
+[2025-10-31 13:23:18] ✅ Terminated unresponsive process: chrome.exe (PID 345320) | No cause provided: 
+[2025-10-31 13:23:18] 🩺 Attempting to heal process: python.exe (PID 345356) | No cause provided: 
+[2025-10-31 16:07:53] 🧠 Healer service started: Timestamp: 1761907073.0266554
+[2025-10-31 16:07:54] 🩺 Attempting to heal process:  (PID 188) | No cause provided: 
+[2025-10-31 16:07:54] ❌ Healing failed for  (PID 188) -> (pid=188) | No cause provided: 
+[2025-10-31 16:07:55] 🩺 Attempting to heal process: dasHost.exe (PID 844) | No cause provided: 
+[2025-10-31 16:07:55] ❌ Healing failed for dasHost.exe (PID 844) -> (pid=844, name='dasHost.exe') | No cause provided: 
+[2025-10-31 16:07:56] 🩺 Attempting to heal process: LsaIso.exe (PID 1288) | No cause provided: 
+[2025-10-31 16:07:56] ❌ Healing failed for LsaIso.exe (PID 1288) -> (pid=1288, name='LsaIso.exe') | No cause provided: 
+[2025-10-31 16:07:56] 🩺 Attempting to heal process: fontdrvhost.exe (PID 1532) | No cause provided: 
+[2025-10-31 16:07:56] ❌ Healing failed for fontdrvhost.exe (PID 1532) -> (pid=1532, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 16:07:57] 🩺 Attempting to heal process: WUDFHost.exe (PID 1576) | No cause provided: 
+[2025-10-31 16:07:57] ❌ Healing failed for WUDFHost.exe (PID 1576) -> (pid=1576, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 16:07:58] 🩺 Attempting to heal process: WUDFHost.exe (PID 2064) | No cause provided: 
+[2025-10-31 16:07:58] ❌ Healing failed for WUDFHost.exe (PID 2064) -> (pid=2064, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 16:07:59] 🩺 Attempting to heal process: Widgets.exe (PID 2268) | No cause provided: 
+[2025-10-31 16:07:59] ✅ Terminated unresponsive process: Widgets.exe (PID 2268) | No cause provided: 
+[2025-10-31 16:08:00] 🩺 Attempting to heal process: IntelCpHDCPSvc.exe (PID 2444) | No cause provided: 
+[2025-10-31 16:08:00] ❌ Healing failed for IntelCpHDCPSvc.exe (PID 2444) -> (pid=2444, name='IntelCpHDCPSvc.exe') | No cause provided: 
+[2025-10-31 16:08:01] 🩺 Attempting to heal process: OmenCap.exe (PID 3460) | No cause provided: 
+[2025-10-31 16:08:01] ❌ Healing failed for OmenCap.exe (PID 3460) -> (pid=3460, name='OmenCap.exe') | No cause provided: 
+[2025-10-31 16:08:02] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 3548) | No cause provided: 
+[2025-10-31 16:08:02] ❌ Healing failed for NVDisplay.Container.exe (PID 3548) -> (pid=3548, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 16:08:05] 🩺 Attempting to heal process: AppHelperCap.exe (PID 3940) | No cause provided: 
+[2025-10-31 16:08:05] ❌ Healing failed for AppHelperCap.exe (PID 3940) -> (pid=3940, name='AppHelperCap.exe') | No cause provided: 
+[2025-10-31 16:08:07] 🩺 Attempting to heal process: SysInfoCap.exe (PID 3956) | No cause provided: 
+[2025-10-31 16:08:07] ❌ Healing failed for SysInfoCap.exe (PID 3956) -> (pid=3956, name='SysInfoCap.exe') | No cause provided: 
+[2025-10-31 16:08:08] 🩺 Attempting to heal process: NetworkCap.exe (PID 3964) | No cause provided: 
+[2025-10-31 16:08:08] ❌ Healing failed for NetworkCap.exe (PID 3964) -> (pid=3964, name='NetworkCap.exe') | No cause provided: 
+[2025-10-31 16:08:08] 🩺 Attempting to heal process: DiagsCap.exe (PID 3972) | No cause provided: 
+[2025-10-31 16:08:08] ❌ Healing failed for DiagsCap.exe (PID 3972) -> (pid=3972, name='DiagsCap.exe') | No cause provided: 
+[2025-10-31 16:08:09] 🩺 Attempting to heal process: TouchpointAnalyticsClientService.exe (PID 3980) | No cause provided: 
+[2025-10-31 16:08:09] ❌ Healing failed for TouchpointAnalyticsClientService.exe (PID 3980) -> (pid=3980, name='TouchpointAnalyticsClientService.exe') | No cause provided: 
+[2025-10-31 16:08:11] 🩺 Attempting to heal process: SecurityHealthService.exe (PID 4600) | No cause provided: 
+[2025-10-31 16:08:11] ❌ Healing failed for SecurityHealthService.exe (PID 4600) -> (pid=4600, name='SecurityHealthService.exe') | No cause provided: 
+[2025-10-31 16:08:12] 🩺 Attempting to heal process: unsecapp.exe (PID 4772) | No cause provided: 
+[2025-10-31 16:08:12] ❌ Healing failed for unsecapp.exe (PID 4772) -> (pid=4772, name='unsecapp.exe') | No cause provided: 
+[2025-10-31 16:08:13] 🩺 Attempting to heal process: WmiPrvSE.exe (PID 4996) | No cause provided: 
+[2025-10-31 16:08:13] ❌ Healing failed for WmiPrvSE.exe (PID 4996) -> (pid=4996, name='WmiPrvSE.exe') | No cause provided: 
+[2025-10-31 16:08:16] 🩺 Attempting to heal process: spoolsv.exe (PID 5592) | No cause provided: 
+[2025-10-31 16:08:16] ❌ Healing failed for spoolsv.exe (PID 5592) -> (pid=5592, name='spoolsv.exe') | No cause provided: 
+[2025-10-31 16:08:18] 🩺 Attempting to heal process: ipf_uf.exe (PID 5724) | No cause provided: 
+[2025-10-31 16:08:18] ❌ Healing failed for ipf_uf.exe (PID 5724) -> (pid=5724, name='ipf_uf.exe') | No cause provided: 
+[2025-10-31 16:08:19] 🩺 Attempting to heal process: armsvc.exe (PID 5928) | No cause provided: 
+[2025-10-31 16:08:19] ❌ Healing failed for armsvc.exe (PID 5928) -> (pid=5928, name='armsvc.exe') | No cause provided: 
+[2025-10-31 16:08:20] 🩺 Attempting to heal process: DtsApo4Service.exe (PID 5936) | No cause provided: 
+[2025-10-31 16:08:20] ❌ Healing failed for DtsApo4Service.exe (PID 5936) -> (pid=5936, name='DtsApo4Service.exe') | No cause provided: 
+[2025-10-31 16:08:21] 🩺 Attempting to heal process: ETDService.exe (PID 5968) | No cause provided: 
+[2025-10-31 16:08:21] ❌ Healing failed for ETDService.exe (PID 5968) -> (pid=5968, name='ETDService.exe') | No cause provided: 
+[2025-10-31 16:08:22] 🩺 Attempting to heal process: OfficeClickToRun.exe (PID 5988) | No cause provided: 
+[2025-10-31 16:08:22] ❌ Healing failed for OfficeClickToRun.exe (PID 5988) -> (pid=5988, name='OfficeClickToRun.exe') | No cause provided: 
+[2025-10-31 16:08:23] 🩺 Attempting to heal process: HPCommRecovery.exe (PID 6016) | No cause provided: 
+[2025-10-31 16:08:23] ❌ Healing failed for HPCommRecovery.exe (PID 6016) -> (pid=6016, name='HPCommRecovery.exe') | No cause provided: 
+[2025-10-31 16:08:24] 🩺 Attempting to heal process: HPPrintScanDoctorService.exe (PID 6024) | No cause provided: 
+[2025-10-31 16:08:24] ❌ Healing failed for HPPrintScanDoctorService.exe (PID 6024) -> (pid=6024, name='HPPrintScanDoctorService.exe') | No cause provided: 
+[2025-10-31 16:08:25] 🩺 Attempting to heal process: OneApp.IGCC.WinService.exe (PID 6072) | No cause provided: 
+[2025-10-31 16:08:25] ❌ Healing failed for OneApp.IGCC.WinService.exe (PID 6072) -> (pid=6072, name='OneApp.IGCC.WinService.exe') | No cause provided: 
+[2025-10-31 16:08:26] 🩺 Attempting to heal process: IntelAudioService.exe (PID 6092) | No cause provided: 
+[2025-10-31 16:08:26] ❌ Healing failed for IntelAudioService.exe (PID 6092) -> (pid=6092, name='IntelAudioService.exe') | No cause provided: 
+[2025-10-31 16:08:26] 🩺 Attempting to heal process: MpDefenderCoreService.exe (PID 6204) | No cause provided: 
+[2025-10-31 16:08:26] ❌ Healing failed for MpDefenderCoreService.exe (PID 6204) -> (pid=6204, name='MpDefenderCoreService.exe') | No cause provided: 
+[2025-10-31 16:08:27] 🩺 Attempting to heal process: jhi_service.exe (PID 6220) | No cause provided: 
+[2025-10-31 16:08:27] ❌ Healing failed for jhi_service.exe (PID 6220) -> (pid=6220, name='jhi_service.exe') | No cause provided: 
+[2025-10-31 16:08:29] 🩺 Attempting to heal process: nvcontainer.exe (PID 6284) | No cause provided: 
+[2025-10-31 16:08:29] ❌ Healing failed for nvcontainer.exe (PID 6284) -> (pid=6284, name='nvcontainer.exe') | No cause provided: 
+[2025-10-31 16:08:30] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 6292) | No cause provided: 
+[2025-10-31 16:08:30] ❌ Healing failed for RtkAudUService64.exe (PID 6292) -> (pid=6292, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 16:08:31] 🩺 Attempting to heal process: RtkBtManServ.exe (PID 6316) | No cause provided: 
+[2025-10-31 16:08:31] ❌ Healing failed for RtkBtManServ.exe (PID 6316) -> (pid=6316, name='RtkBtManServ.exe') | No cause provided: 
+[2025-10-31 16:08:32] 🩺 Attempting to heal process: XtuService.exe (PID 6448) | No cause provided: 
+[2025-10-31 16:08:32] ❌ Healing failed for XtuService.exe (PID 6448) -> (pid=6448, name='XtuService.exe') | No cause provided: 
+[2025-10-31 16:08:33] 🩺 Attempting to heal process: WMIRegistrationService.exe (PID 6456) | No cause provided: 
+[2025-10-31 16:08:33] ❌ Healing failed for WMIRegistrationService.exe (PID 6456) -> (pid=6456, name='WMIRegistrationService.exe') | No cause provided: 
+[2025-10-31 16:08:35] 🩺 Attempting to heal process: IntelGraphicsSoftware.Service.exe (PID 10868) | No cause provided: 
+[2025-10-31 16:08:35] ❌ Healing failed for IntelGraphicsSoftware.Service.exe (PID 10868) -> (pid=10868, name='IntelGraphicsSoftware.Service.exe') | No cause provided: 
+[2025-10-31 16:08:36] 🩺 Attempting to heal process: AggregatorHost.exe (PID 12116) | No cause provided: 
+[2025-10-31 16:08:36] ❌ Healing failed for AggregatorHost.exe (PID 12116) -> (pid=12116, name='AggregatorHost.exe') | No cause provided: 
+[2025-10-31 16:08:38] 🩺 Attempting to heal process: PresentMonService.exe (PID 14240) | No cause provided: 
+[2025-10-31 16:08:38] ❌ Healing failed for PresentMonService.exe (PID 14240) -> (pid=14240, name='PresentMonService.exe') | No cause provided: 
+[2025-10-31 16:08:38] 🩺 Attempting to heal process: conhost.exe (PID 14276) | No cause provided: 
+[2025-10-31 16:08:38] ❌ Healing failed for conhost.exe (PID 14276) -> (pid=14276, name='conhost.exe') | No cause provided: 
+[2025-10-31 16:08:39] 🩺 Attempting to heal process: SearchIndexer.exe (PID 14812) | No cause provided: 
+[2025-10-31 16:08:39] ❌ Healing failed for SearchIndexer.exe (PID 14812) -> (pid=14812, name='SearchIndexer.exe') | No cause provided: 
+[2025-10-31 16:08:40] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 17768) | No cause provided: 
+[2025-10-31 16:08:40] ❌ Healing failed for NVDisplay.Container.exe (PID 17768) -> (pid=17768, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 16:08:41] 🩺 Attempting to heal process: winlogon.exe (PID 22808) | No cause provided: 
+[2025-10-31 16:08:41] ❌ Healing failed for winlogon.exe (PID 22808) -> (pid=22808, name='winlogon.exe') | No cause provided: 
+[2025-10-31 16:08:42] 🩺 Attempting to heal process: dasHost.exe (PID 25540) | No cause provided: 
+[2025-10-31 16:08:42] ❌ Healing failed for dasHost.exe (PID 25540) -> (pid=25540, name='dasHost.exe') | No cause provided: 
+[2025-10-31 16:08:44] 🩺 Attempting to heal process: LockApp.exe (PID 33856) | No cause provided: 
+[2025-10-31 16:08:44] ✅ Terminated unresponsive process: LockApp.exe (PID 33856) | No cause provided: 
+[2025-10-31 16:08:44] 🩺 Attempting to heal process: Notepad.exe (PID 33928) | No cause provided: 
+[2025-10-31 16:08:44] ✅ Terminated unresponsive process: Notepad.exe (PID 33928) | No cause provided: 
+[2025-10-31 16:08:45] 🔁 Restarted process: Notepad.exe (via restart map): 
+[2025-10-31 16:08:47] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 34792) | No cause provided: 
+[2025-10-31 16:08:47] ❌ Healing failed for RtkAudUService64.exe (PID 34792) -> (pid=34792, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 16:08:47] 🩺 Attempting to heal process: RuntimeBroker.exe (PID 41420) | No cause provided: 
+[2025-10-31 16:08:48] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 41420) | No cause provided: 
+[2025-10-31 16:08:50] 🩺 Attempting to heal process: fontdrvhost.exe (PID 45100) | No cause provided: 
+[2025-10-31 16:08:50] ❌ Healing failed for fontdrvhost.exe (PID 45100) -> (pid=45100, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 16:08:53] 🩺 Attempting to heal process: nvcontainer.exe (PID 213316) | No cause provided: 
+[2025-10-31 16:08:53] ❌ Healing failed for nvcontainer.exe (PID 213316) -> (pid=213316, name='nvcontainer.exe') | No cause provided: 
+[2025-10-31 16:08:54] 🩺 Attempting to heal process: ShellExperienceHost.exe (PID 282460) | No cause provided: 
+[2025-10-31 16:08:55] ✅ Terminated unresponsive process: ShellExperienceHost.exe (PID 282460) | No cause provided: 
+[2025-10-31 16:08:57] 🩺 Attempting to heal process: servicehost.exe (PID 286556) | No cause provided: 
+[2025-10-31 16:08:57] ❌ Healing failed for servicehost.exe (PID 286556) -> (pid=286556, name='servicehost.exe') | No cause provided: 
+[2025-10-31 16:08:57] 🩺 Attempting to heal process: chrome.exe (PID 324300) | No cause provided: 
+[2025-10-31 16:08:58] ✅ Terminated unresponsive process: chrome.exe (PID 324300) | No cause provided: 
+[2025-10-31 16:08:59] 🩺 Attempting to heal process: WmiPrvSE.exe (PID 326696) | No cause provided: 
+[2025-10-31 16:08:59] ❌ Healing failed for WmiPrvSE.exe (PID 326696) -> (pid=326696, name='WmiPrvSE.exe') | No cause provided: 
+[2025-10-31 16:09:00] 🩺 Attempting to heal process: ctfmon.exe (PID 332700) | No cause provided: 
+[2025-10-31 16:09:00] ❌ Healing failed for ctfmon.exe (PID 332700) -> (pid=332700, name='ctfmon.exe') | No cause provided: 
+[2025-10-31 16:09:00] 🩺 Attempting to heal process: browserhost.exe (PID 334524) | No cause provided: 
+[2025-10-31 16:09:00] ✅ Terminated unresponsive process: browserhost.exe (PID 334524) | No cause provided: 
+[2025-10-31 16:09:00] 🩺 Attempting to heal process: Notepad.exe (PID 336028) | No cause provided: 
+[2025-10-31 16:09:00] ✅ Terminated unresponsive process: Notepad.exe (PID 336028) | No cause provided: 
+[2025-10-31 16:09:00] 🔁 Restarted process: Notepad.exe (via restart map): 
+[2025-10-31 16:09:00] 🩺 Attempting to heal process: msedgewebview2.exe (PID 336360) | No cause provided: 
+[2025-10-31 16:09:00] ✅ Terminated unresponsive process: msedgewebview2.exe (PID 336360) | No cause provided: 
+[2025-10-31 16:09:01] 🩺 Attempting to heal process: python.exe (PID 337472) | No cause provided: 
+[2025-10-31 16:09:01] ✅ Terminated unresponsive process: python.exe (PID 337472) | No cause provided: 
+[2025-10-31 16:09:03] 🩺 Attempting to heal process: FileSyncHelper.exe (PID 337544) | No cause provided: 
+[2025-10-31 16:09:03] ❌ Healing failed for FileSyncHelper.exe (PID 337544) -> (pid=337544, name='FileSyncHelper.exe') | No cause provided: 
+[2025-10-31 16:09:03] 🩺 Attempting to heal process: conhost.exe (PID 337820) | No cause provided: 
+[2025-10-31 16:09:03] ✅ Terminated unresponsive process: conhost.exe (PID 337820) | No cause provided: 
+[2025-10-31 16:09:04] 🩺 Attempting to heal process: RuntimeBroker.exe (PID 341580) | No cause provided: 
+[2025-10-31 16:09:04] ✅ Terminated unresponsive process: RuntimeBroker.exe (PID 341580) | No cause provided: 
+[2025-10-31 16:09:04] 🩺 Attempting to heal process: chrome.exe (PID 341844) | No cause provided: 
+[2025-10-31 16:09:06] ✅ Terminated unresponsive process: chrome.exe (PID 341844) | No cause provided: 
+[2025-10-31 16:09:06] 🩺 Attempting to heal process: python.exe (PID 341868) | No cause provided: 
+[2025-10-31 16:09:15] Restarted notepad.exe | Cause: Process not found / crashed
+[2025-10-31 16:18:20] 🧠 Healer service started: Timestamp: 1761907700.8445408
+[2025-10-31 16:18:21] 🩺 Attempting to heal process:  (PID 188) | No cause provided: 
+[2025-10-31 16:18:21] ❌ Healing failed for  (PID 188) -> (pid=188) | No cause provided: 
+[2025-10-31 16:18:22] 🩺 Attempting to heal process: dasHost.exe (PID 844) | No cause provided: 
+[2025-10-31 16:18:22] ❌ Healing failed for dasHost.exe (PID 844) -> (pid=844, name='dasHost.exe') | No cause provided: 
+[2025-10-31 16:18:23] 🩺 Attempting to heal process: LsaIso.exe (PID 1288) | No cause provided: 
+[2025-10-31 16:18:23] ❌ Healing failed for LsaIso.exe (PID 1288) -> (pid=1288, name='LsaIso.exe') | No cause provided: 
+[2025-10-31 16:18:24] 🩺 Attempting to heal process: fontdrvhost.exe (PID 1532) | No cause provided: 
+[2025-10-31 16:18:24] ❌ Healing failed for fontdrvhost.exe (PID 1532) -> (pid=1532, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 16:18:25] 🩺 Attempting to heal process: WUDFHost.exe (PID 1576) | No cause provided: 
+[2025-10-31 16:18:25] ❌ Healing failed for WUDFHost.exe (PID 1576) -> (pid=1576, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 16:18:27] 🩺 Attempting to heal process: WUDFHost.exe (PID 2064) | No cause provided: 
+[2025-10-31 16:18:27] ❌ Healing failed for WUDFHost.exe (PID 2064) -> (pid=2064, name='WUDFHost.exe') | No cause provided: 
+[2025-10-31 16:18:28] 🩺 Attempting to heal process: IntelCpHDCPSvc.exe (PID 2444) | No cause provided: 
+[2025-10-31 16:18:28] ❌ Healing failed for IntelCpHDCPSvc.exe (PID 2444) -> (pid=2444, name='IntelCpHDCPSvc.exe') | No cause provided: 
+[2025-10-31 16:18:29] 🩺 Attempting to heal process: OmenCap.exe (PID 3460) | No cause provided: 
+[2025-10-31 16:18:29] ❌ Healing failed for OmenCap.exe (PID 3460) -> (pid=3460, name='OmenCap.exe') | No cause provided: 
+[2025-10-31 16:18:29] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 3548) | No cause provided: 
+[2025-10-31 16:18:29] ❌ Healing failed for NVDisplay.Container.exe (PID 3548) -> (pid=3548, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 16:18:31] 🩺 Attempting to heal process: AppHelperCap.exe (PID 3940) | No cause provided: 
+[2025-10-31 16:18:31] ❌ Healing failed for AppHelperCap.exe (PID 3940) -> (pid=3940, name='AppHelperCap.exe') | No cause provided: 
+[2025-10-31 16:18:31] 🩺 Attempting to heal process: SysInfoCap.exe (PID 3956) | No cause provided: 
+[2025-10-31 16:18:31] ❌ Healing failed for SysInfoCap.exe (PID 3956) -> (pid=3956, name='SysInfoCap.exe') | No cause provided: 
+[2025-10-31 16:18:32] 🩺 Attempting to heal process: NetworkCap.exe (PID 3964) | No cause provided: 
+[2025-10-31 16:18:32] ❌ Healing failed for NetworkCap.exe (PID 3964) -> (pid=3964, name='NetworkCap.exe') | No cause provided: 
+[2025-10-31 16:18:32] 🩺 Attempting to heal process: DiagsCap.exe (PID 3972) | No cause provided: 
+[2025-10-31 16:18:32] ❌ Healing failed for DiagsCap.exe (PID 3972) -> (pid=3972, name='DiagsCap.exe') | No cause provided: 
+[2025-10-31 16:18:33] 🩺 Attempting to heal process: TouchpointAnalyticsClientService.exe (PID 3980) | No cause provided: 
+[2025-10-31 16:18:33] ❌ Healing failed for TouchpointAnalyticsClientService.exe (PID 3980) -> (pid=3980, name='TouchpointAnalyticsClientService.exe') | No cause provided: 
+[2025-10-31 16:18:33] 🩺 Attempting to heal process: SecurityHealthService.exe (PID 4600) | No cause provided: 
+[2025-10-31 16:18:33] ❌ Healing failed for SecurityHealthService.exe (PID 4600) -> (pid=4600, name='SecurityHealthService.exe') | No cause provided: 
+[2025-10-31 16:18:34] 🩺 Attempting to heal process: unsecapp.exe (PID 4772) | No cause provided: 
+[2025-10-31 16:18:34] ❌ Healing failed for unsecapp.exe (PID 4772) -> (pid=4772, name='unsecapp.exe') | No cause provided: 
+[2025-10-31 16:18:34] 🩺 Attempting to heal process: WmiPrvSE.exe (PID 4996) | No cause provided: 
+[2025-10-31 16:18:34] ❌ Healing failed for WmiPrvSE.exe (PID 4996) -> (pid=4996, name='WmiPrvSE.exe') | No cause provided: 
+[2025-10-31 16:18:36] 🩺 Attempting to heal process: spoolsv.exe (PID 5592) | No cause provided: 
+[2025-10-31 16:18:36] ❌ Healing failed for spoolsv.exe (PID 5592) -> (pid=5592, name='spoolsv.exe') | No cause provided: 
+[2025-10-31 16:18:37] 🩺 Attempting to heal process: ipf_uf.exe (PID 5724) | No cause provided: 
+[2025-10-31 16:18:37] ❌ Healing failed for ipf_uf.exe (PID 5724) -> (pid=5724, name='ipf_uf.exe') | No cause provided: 
+[2025-10-31 16:18:37] 🩺 Attempting to heal process: armsvc.exe (PID 5928) | No cause provided: 
+[2025-10-31 16:18:37] ❌ Healing failed for armsvc.exe (PID 5928) -> (pid=5928, name='armsvc.exe') | No cause provided: 
+[2025-10-31 16:18:38] 🩺 Attempting to heal process: DtsApo4Service.exe (PID 5936) | No cause provided: 
+[2025-10-31 16:18:38] ❌ Healing failed for DtsApo4Service.exe (PID 5936) -> (pid=5936, name='DtsApo4Service.exe') | No cause provided: 
+[2025-10-31 16:18:40] 🩺 Attempting to heal process: OfficeClickToRun.exe (PID 5988) | No cause provided: 
+[2025-10-31 16:18:40] ❌ Healing failed for OfficeClickToRun.exe (PID 5988) -> (pid=5988, name='OfficeClickToRun.exe') | No cause provided: 
+[2025-10-31 16:18:41] 🩺 Attempting to heal process: HPCommRecovery.exe (PID 6016) | No cause provided: 
+[2025-10-31 16:18:41] ❌ Healing failed for HPCommRecovery.exe (PID 6016) -> (pid=6016, name='HPCommRecovery.exe') | No cause provided: 
+[2025-10-31 16:18:42] 🩺 Attempting to heal process: HPPrintScanDoctorService.exe (PID 6024) | No cause provided: 
+[2025-10-31 16:18:42] ❌ Healing failed for HPPrintScanDoctorService.exe (PID 6024) -> (pid=6024, name='HPPrintScanDoctorService.exe') | No cause provided: 
+[2025-10-31 16:18:42] 🩺 Attempting to heal process: OneApp.IGCC.WinService.exe (PID 6072) | No cause provided: 
+[2025-10-31 16:18:42] ❌ Healing failed for OneApp.IGCC.WinService.exe (PID 6072) -> (pid=6072, name='OneApp.IGCC.WinService.exe') | No cause provided: 
+[2025-10-31 16:18:43] 🩺 Attempting to heal process: IntelAudioService.exe (PID 6092) | No cause provided: 
+[2025-10-31 16:18:43] ❌ Healing failed for IntelAudioService.exe (PID 6092) -> (pid=6092, name='IntelAudioService.exe') | No cause provided: 
+[2025-10-31 16:18:44] 🩺 Attempting to heal process: MpDefenderCoreService.exe (PID 6204) | No cause provided: 
+[2025-10-31 16:18:44] ❌ Healing failed for MpDefenderCoreService.exe (PID 6204) -> (pid=6204, name='MpDefenderCoreService.exe') | No cause provided: 
+[2025-10-31 16:18:44] 🩺 Attempting to heal process: jhi_service.exe (PID 6220) | No cause provided: 
+[2025-10-31 16:18:44] ❌ Healing failed for jhi_service.exe (PID 6220) -> (pid=6220, name='jhi_service.exe') | No cause provided: 
+[2025-10-31 16:18:45] 🩺 Attempting to heal process: nvcontainer.exe (PID 6284) | No cause provided: 
+[2025-10-31 16:18:45] ❌ Healing failed for nvcontainer.exe (PID 6284) -> (pid=6284, name='nvcontainer.exe') | No cause provided: 
+[2025-10-31 16:18:46] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 6292) | No cause provided: 
+[2025-10-31 16:18:46] ❌ Healing failed for RtkAudUService64.exe (PID 6292) -> (pid=6292, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 16:18:46] 🩺 Attempting to heal process: RtkBtManServ.exe (PID 6316) | No cause provided: 
+[2025-10-31 16:18:46] ❌ Healing failed for RtkBtManServ.exe (PID 6316) -> (pid=6316, name='RtkBtManServ.exe') | No cause provided: 
+[2025-10-31 16:18:47] 🩺 Attempting to heal process: XtuService.exe (PID 6448) | No cause provided: 
+[2025-10-31 16:18:47] ❌ Healing failed for XtuService.exe (PID 6448) -> (pid=6448, name='XtuService.exe') | No cause provided: 
+[2025-10-31 16:18:48] 🩺 Attempting to heal process: WMIRegistrationService.exe (PID 6456) | No cause provided: 
+[2025-10-31 16:18:48] ❌ Healing failed for WMIRegistrationService.exe (PID 6456) -> (pid=6456, name='WMIRegistrationService.exe') | No cause provided: 
+[2025-10-31 16:18:50] 🩺 Attempting to heal process: IntelGraphicsSoftware.Service.exe (PID 10868) | No cause provided: 
+[2025-10-31 16:18:50] ❌ Healing failed for IntelGraphicsSoftware.Service.exe (PID 10868) -> (pid=10868, name='IntelGraphicsSoftware.Service.exe') | No cause provided: 
+[2025-10-31 16:18:51] 🩺 Attempting to heal process: AggregatorHost.exe (PID 12116) | No cause provided: 
+[2025-10-31 16:18:51] ❌ Healing failed for AggregatorHost.exe (PID 12116) -> (pid=12116, name='AggregatorHost.exe') | No cause provided: 
+[2025-10-31 16:18:52] 🩺 Attempting to heal process: PresentMonService.exe (PID 14240) | No cause provided: 
+[2025-10-31 16:18:52] ❌ Healing failed for PresentMonService.exe (PID 14240) -> (pid=14240, name='PresentMonService.exe') | No cause provided: 
+[2025-10-31 16:18:53] 🩺 Attempting to heal process: conhost.exe (PID 14276) | No cause provided: 
+[2025-10-31 16:18:53] ❌ Healing failed for conhost.exe (PID 14276) -> (pid=14276, name='conhost.exe') | No cause provided: 
+[2025-10-31 16:18:54] 🩺 Attempting to heal process: SearchIndexer.exe (PID 14812) | No cause provided: 
+[2025-10-31 16:18:54] ❌ Healing failed for SearchIndexer.exe (PID 14812) -> (pid=14812, name='SearchIndexer.exe') | No cause provided: 
+[2025-10-31 16:18:55] 🩺 Attempting to heal process: NVDisplay.Container.exe (PID 17768) | No cause provided: 
+[2025-10-31 16:18:55] ❌ Healing failed for NVDisplay.Container.exe (PID 17768) -> (pid=17768, name='NVDisplay.Container.exe') | No cause provided: 
+[2025-10-31 16:18:55] 🩺 Attempting to heal process: winlogon.exe (PID 22808) | No cause provided: 
+[2025-10-31 16:18:55] ❌ Healing failed for winlogon.exe (PID 22808) -> (pid=22808, name='winlogon.exe') | No cause provided: 
+[2025-10-31 16:18:56] 🩺 Attempting to heal process: dasHost.exe (PID 25540) | No cause provided: 
+[2025-10-31 16:18:56] ❌ Healing failed for dasHost.exe (PID 25540) -> (pid=25540, name='dasHost.exe') | No cause provided: 
+[2025-10-31 16:18:58] 🩺 Attempting to heal process: RtkAudUService64.exe (PID 34792) | No cause provided: 
+[2025-10-31 16:18:58] ❌ Healing failed for RtkAudUService64.exe (PID 34792) -> (pid=34792, name='RtkAudUService64.exe') | No cause provided: 
+[2025-10-31 16:18:59] 🩺 Attempting to heal process: fontdrvhost.exe (PID 45100) | No cause provided: 
+[2025-10-31 16:18:59] ❌ Healing failed for fontdrvhost.exe (PID 45100) -> (pid=45100, name='fontdrvhost.exe') | No cause provided: 
+[2025-10-31 16:18:59] 🩺 Attempting to heal process: python.exe (PID 59144) | No cause provided: 
