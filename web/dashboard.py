@@ -3,7 +3,10 @@ import os
 import threading
 import time
 import re
+import json
+import tkinter as tk
 from collections import Counter, deque
+from datetime import datetime
 
 import customtkinter as ctk
 from tkinter import Text
@@ -34,6 +37,20 @@ TEXT_COLOR = "#E6EEF3"
 
 LOG_FILE = os.path.join(os.path.dirname(__file__), "..", "logs", "events.log")
 os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
+
+# new data files for whitelist and optimization log
+DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
+os.makedirs(DATA_DIR, exist_ok=True)
+WHITELIST_FILE = os.path.join(DATA_DIR, "whitelist.json")
+OPT_LOG_FILE = os.path.join(DATA_DIR, "optimization_log.json")
+
+# ensure files exist
+if not os.path.exists(WHITELIST_FILE):
+    with open(WHITELIST_FILE, "w") as _f:
+        json.dump([], _f)
+if not os.path.exists(OPT_LOG_FILE):
+    with open(OPT_LOG_FILE, "w") as _f:
+        json.dump([], _f)
 
 # Sampling history length (seconds)
 HISTORY_LEN = 120
@@ -116,8 +133,71 @@ summary_box = ctk.CTkTextbox(right_card, fg_color=LOG_BG, text_color=TEXT_COLOR,
 summary_box.grid(row=2, column=0, sticky="nsew", padx=14, pady=(8,12))
 summary_box.insert("end", "Loading analytics...\n")
 
+# we keep original Open Analytics button
 open_analytics_btn = ctk.CTkButton(right_card, text="Open Analytics Window", command=lambda: open_analytics_window(), fg_color=ACCENT, hover_color=ACCENT2)
-open_analytics_btn.grid(row=3, column=0, padx=14, pady=(6,16))
+open_analytics_btn.grid(row=3, column=0, padx=14, pady=(6,6))
+
+# NEW: Open Whitelist Manager button (placed under Analytics button)
+def open_whitelist_manager():
+    # popup to manage whitelist.json
+    win = ctk.CTkToplevel(root)
+    win.title("Whitelist Manager")
+    win.geometry("420x360")
+    win.configure(fg_color=APP_BG)
+
+    # load whitelist
+    try:
+        with open(WHITELIST_FILE, "r") as f:
+            wl = json.load(f)
+    except Exception:
+        wl = []
+
+    def save_and_refresh():
+        with open(WHITELIST_FILE, "w") as f:
+            json.dump(wl, f, indent=2)
+        refresh_list()
+
+    def refresh_list():
+        listbox.delete(0, tk.END)
+        for item in wl:
+            listbox.insert(tk.END, item)
+
+    def add_item():
+        name = entry.get().strip().lower()
+        if name and name not in wl:
+            wl.append(name)
+            save_and_refresh()
+            entry.delete(0, tk.END)
+
+    def remove_item():
+        sel = listbox.curselection()
+        if not sel:
+            return
+        idx = sel[0]
+        try:
+            wl.pop(idx)
+        except Exception:
+            pass
+        save_and_refresh()
+
+    header = ctk.CTkLabel(win, text="Process Whitelist", font=("Segoe UI", 16, "bold"), text_color=ACCENT)
+    header.pack(pady=(12,6))
+
+    listbox = tk.Listbox(win, bg="#0b0f12", fg=TEXT_COLOR, highlightthickness=0, selectbackground="#08312f", bd=0)
+    listbox.pack(fill="both", expand=False, padx=18, pady=(6,6), ipady=4)
+    refresh_list()
+
+    entry = ctk.CTkEntry(win, placeholder_text="e.g. chrome.exe (case-insensitive)")
+    entry.pack(fill="x", padx=18, pady=(6,6))
+
+    btn_frame = ctk.CTkFrame(win, fg_color=APP_BG)
+    btn_frame.pack(pady=(6,12))
+    add_btn = ctk.CTkButton(btn_frame, text="Add", command=add_item, fg_color=ACCENT)
+    add_btn.grid(row=0, column=0, padx=6)
+    rem_btn = ctk.CTkButton(btn_frame, text="Remove Selected", command=remove_item, fg_color="#ff6b6b")
+    rem_btn.grid(row=0, column=1, padx=6)
+
+ctk.CTkButton(right_card, text="Whitelist Manager", command=open_whitelist_manager, fg_color="#10b981", hover_color="#34d399").grid(row=4, column=0, padx=14, pady=(6,12))
 
 footer = ctk.CTkLabel(root, text="© 2025 Healing Systems Monitor", font=("Segoe UI", 10), text_color="#7b8b87")
 footer.pack(side="bottom", pady=(6,12))
@@ -249,7 +329,7 @@ def open_analytics_window():
     # create floating window
     analytics_window = ctk.CTkToplevel(root)
     analytics_window.title("System Performance — Live Charts")
-    analytics_window.geometry("1200x640")
+    analytics_window.geometry("1200x840")
     analytics_window.configure(fg_color=APP_BG)
 
     # layout: three charts side-by-side
@@ -275,6 +355,25 @@ def open_analytics_window():
         widget = canvas.get_tk_widget()
         widget.grid(row=0, column=i, sticky="nsew", padx=8, pady=8)
         figs.append(fig); canvases.append(canvas); axes.append(ax)
+
+    # ---------------- Process optimization (bar chart) ----------------
+    # create separate area under the three charts
+    proc_frame = ctk.CTkFrame(analytics_window, fg_color=CARD_BG, corner_radius=12)
+    proc_frame.pack(fill="x", expand=False, padx=12, pady=(0,12))
+    proc_label = ctk.CTkLabel(proc_frame, text="Optimization Impact by Process (last 10)", text_color=ACCENT, font=("Segoe UI", 12, "bold"))
+    proc_label.pack(anchor="w", padx=12, pady=(8,4))
+
+    proc_fig = Figure(figsize=(11,2.8), facecolor="#071018", dpi=100)
+    proc_ax = proc_fig.add_subplot(111)
+    proc_ax.set_facecolor("#071018")
+    proc_ax.tick_params(colors="#9fb6b0")
+    for spine in proc_ax.spines.values():
+        spine.set_color("#12333a")
+    proc_ax.set_title("", color=ACCENT, fontsize=10)
+
+    proc_canvas = FigureCanvasTkAgg(proc_fig, master=proc_frame)
+    proc_widget = proc_canvas.get_tk_widget()
+    proc_widget.pack(fill="both", expand=True, padx=8, pady=(0,12))
 
     def refresh_charts():
         # prepare arrays
@@ -326,6 +425,38 @@ def open_analytics_window():
 
         for canvas in canvases:
             canvas.draw()
+
+        # --- update process optimization bar chart ---
+        try:
+            with open(OPT_LOG_FILE, "r", encoding="utf-8", errors="ignore") as f:
+                opt_data = json.load(f)
+        except Exception:
+            opt_data = []
+
+        # take last 10 entries grouped by process (we'll display last 10 events)
+        last_n = opt_data[-10:] if opt_data else []
+        if last_n:
+            procs = [d.get("process", d.get("proc", "unknown")) for d in last_n]
+            gains = [float(d.get("optimization", 0.0)) for d in last_n]
+            proc_ax.clear()
+            proc_ax.set_facecolor("#071018")
+            proc_ax.tick_params(colors="#9fb6b0")
+            bars = proc_ax.bar(range(len(procs)), gains, color="#00e6cf")
+            proc_ax.set_ylim(min(0, min(gains) - 1), max(10, max(gains) + 5))
+            proc_ax.set_xticks(range(len(procs)))
+            proc_ax.set_xticklabels(procs, rotation=30, fontsize=9)
+            proc_ax.set_ylabel("Optimization (%)", color="#9fb6b0")
+            proc_ax.set_title("Optimization Impact by Process (last 10)", color=ACCENT, fontsize=11)
+            # label bars
+            for rect, val in zip(bars, gains):
+                height = rect.get_height()
+                proc_ax.text(rect.get_x() + rect.get_width()/2.0, height + 0.5, f"+{val}%", ha='center', va='bottom', color="#e6fff9", fontsize=8)
+        else:
+            proc_ax.clear()
+            proc_ax.set_facecolor("#071018")
+            proc_ax.text(0.5, 0.5, "No optimization data yet", ha="center", va="center", color="#7f8a86")
+
+        proc_canvas.draw()
 
         # schedule next update
         if analytics_window and analytics_window.winfo_exists():
