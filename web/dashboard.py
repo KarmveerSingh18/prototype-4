@@ -57,13 +57,13 @@ HISTORY_LEN = 120
 
 # ---------------- App ----------------
 root = ctk.CTk()
-root.title("HealOS — Dashboard")
+root.title("OptiCore — Dashboard")
 root.geometry("1400x820")
 root.minsize(1000, 700)
 root.configure(fg_color=APP_BG)
 
 # ---------- Layout ----------
-title = ctk.CTkLabel(root, text="HealOS — Self-Healing Monitor", font=("Segoe UI", 26, "bold"), text_color=ACCENT)
+title = ctk.CTkLabel(root, text="OptiCore - System Monitor", font=("Segoe UI", 26, "bold"), text_color=ACCENT)
 title.pack(pady=(12, 8))
 
 main = ctk.CTkFrame(root, fg_color=APP_BG, corner_radius=0)
@@ -433,30 +433,52 @@ def open_analytics_window():
         except Exception:
             opt_data = []
 
-        # take last 10 entries grouped by process (we'll display last 10 events)
-        last_n = opt_data[-10:] if opt_data else []
-        if last_n:
+                # --- update process optimization bar chart (live dynamic) ---
+        try:
+            with open(OPT_LOG_FILE, "r", encoding="utf-8", errors="ignore") as f:
+                opt_data = json.load(f)
+        except Exception:
+            opt_data = []
+
+        if opt_data:
+            # take last 10 entries for smooth animation
+            last_n = opt_data[-10:]
             procs = [d.get("process", d.get("proc", "unknown")) for d in last_n]
             gains = [float(d.get("optimization", 0.0)) for d in last_n]
+
             proc_ax.clear()
             proc_ax.set_facecolor("#071018")
             proc_ax.tick_params(colors="#9fb6b0")
-            bars = proc_ax.bar(range(len(procs)), gains, color="#00e6cf")
-            proc_ax.set_ylim(min(0, min(gains) - 1), max(10, max(gains) + 5))
-            proc_ax.set_xticks(range(len(procs)))
-            proc_ax.set_xticklabels(procs, rotation=30, fontsize=9)
+            for spine in proc_ax.spines.values():
+                spine.set_color("#12333a")
+
+            # create smooth bar chart
+            bars = proc_ax.bar(procs, gains, color="#00e6cf", edgecolor="#08312f")
+
+            # styling
+            proc_ax.set_ylim(min(0, min(gains) - 2), max(10, max(gains) + 5))
             proc_ax.set_ylabel("Optimization (%)", color="#9fb6b0")
+            proc_ax.set_xlabel("Process Name", color="#9fb6b0")
             proc_ax.set_title("Optimization Impact by Process (last 10)", color=ACCENT, fontsize=11)
+            proc_ax.set_xticklabels(procs, rotation=30, ha="right", fontsize=9)
+
             # label bars
             for rect, val in zip(bars, gains):
                 height = rect.get_height()
-                proc_ax.text(rect.get_x() + rect.get_width()/2.0, height + 0.5, f"+{val}%", ha='center', va='bottom', color="#e6fff9", fontsize=8)
+                proc_ax.text(
+                    rect.get_x() + rect.get_width()/2.0,
+                    height + 0.6,
+                    f"+{val:.1f}%",
+                    ha="center", va="bottom",
+                    color="#e6fff9", fontsize=8
+                )
         else:
             proc_ax.clear()
             proc_ax.set_facecolor("#071018")
             proc_ax.text(0.5, 0.5, "No optimization data yet", ha="center", va="center", color="#7f8a86")
 
         proc_canvas.draw()
+
 
         # schedule next update
         if analytics_window and analytics_window.winfo_exists():

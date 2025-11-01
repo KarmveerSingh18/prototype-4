@@ -1,352 +1,352 @@
 [
   {
-    "timestamp": 1761917841.3217237,
-    "process": "WidgetService.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917843.4865565,
-    "process": "Code.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917844.9809303,
+    "timestamp": 1761985360.6858501,
     "process": "msedgewebview2.exe",
     "cpu_gain": 0,
     "mem_gain": 0,
     "optimization_score": 0.0
   },
   {
-    "timestamp": 1761917846.5302453,
+    "timestamp": 1761985364.910619,
+    "process": "ApplicationFrameHost.exe",
+    "cpu_gain": 8.7,
+    "mem_gain": 0,
+    "optimization_score": 4.35
+  },
+  {
+    "timestamp": 1761985371.5116274,
     "process": "msedgewebview2.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
+    "cpu_gain": 15.4,
+    "mem_gain": 0.1,
+    "optimization_score": 7.75
   },
   {
-    "timestamp": 1761917847.9350622,
-    "process": "RuntimeBroker.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917849.416197,
-    "process": "SearchHost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917850.8402004,
-    "process": "python.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917852.1528084,
-    "process": "smartscreen.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917853.4658165,
+    "timestamp": 1761985378.3131683,
     "process": "chrome.exe",
     "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
+    "mem_gain": 0.1,
+    "optimization_score": 0.05
   },
   {
-    "timestamp": 1761917854.820122,
-    "process": "CrossDeviceResume.exe",
-    "cpu_gain": 0,
+    "timestamp": 1761985385.1644144,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 6.9,
     "mem_gain": 0,
-    "optimization_score": 0.0
+    "optimization_score": 3.45
   },
   {
-    "timestamp": 1761917856.8834808,
-    "process": "ShellHost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917858.2057765,
-    "process": "conhost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917859.652472,
-    "process": "chrome.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917861.0244696,
-    "process": "Code.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917862.3680077,
-    "process": "Code.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917864.1355462,
+    "timestamp": 1761985389.3948462,
     "process": "sihost.exe",
-    "cpu_gain": 0,
+    "cpu_gain": 2.3,
     "mem_gain": 0,
-    "optimization_score": 0.0
+    "optimization_score": 1.15
   },
   {
-    "timestamp": 1761917865.5337672,
-    "process": "uihost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761917868.2403924,
-    "process": "Code.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918131.038777,
+    "timestamp": 1761985393.6380165,
     "process": "msedgewebview2.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
+    "cpu_gain": 3.5,
+    "mem_gain": 0.1,
+    "optimization_score": 1.8
   },
   {
-    "timestamp": 1761918135.7590559,
-    "process": "msedgewebview2.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918143.6808653,
-    "process": "Code.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918146.2969456,
-    "process": "cmd.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918147.6569464,
-    "process": "ShellExperienceHost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918149.442778,
-    "process": "ShellHost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918150.7585492,
-    "process": "python.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918153.513045,
-    "process": "conhost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918154.8322427,
-    "process": "python.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918156.1596258,
-    "process": "nvcontainer.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918157.514708,
-    "process": "Code.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918392.4330902,
-    "process": "powershell.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918393.8849537,
-    "process": "python.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918396.9326298,
-    "process": "msedgewebview2.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918398.344462,
-    "process": "msedgewebview2.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918399.6818268,
-    "process": "Code.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918401.1986027,
-    "process": "SearchHost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918402.5649083,
-    "process": "Code.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918406.1092544,
-    "process": "Code.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918407.4351237,
-    "process": "dllhost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918408.7868035,
-    "process": "uihost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918410.2473812,
-    "process": "chrome.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918411.7221816,
-    "process": "Code.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918413.153318,
-    "process": "conhost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918414.4877102,
-    "process": "python.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918415.8279238,
-    "process": "chrome.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918417.201842,
+    "timestamp": 1761985397.8573534,
     "process": "Widgets.exe",
+    "cpu_gain": 11.7,
+    "mem_gain": 0.1,
+    "optimization_score": 5.9
+  },
+  {
+    "timestamp": 1761985402.083574,
+    "process": "python.exe",
+    "cpu_gain": 2.1,
+    "mem_gain": 0,
+    "optimization_score": 1.05
+  },
+  {
+    "timestamp": 1761985405.3153749,
+    "process": "ctfmon.exe",
+    "cpu_gain": 1.6,
+    "mem_gain": 0,
+    "optimization_score": 0.8
+  },
+  {
+    "timestamp": 1761985468.0596905,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 3.6,
+    "mem_gain": 0.1,
+    "optimization_score": 1.85
+  },
+  {
+    "timestamp": 1761985477.4594874,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 5.9,
+    "mem_gain": 0,
+    "optimization_score": 2.95
+  },
+  {
+    "timestamp": 1761985484.1081433,
+    "process": "RuntimeBroker.exe",
+    "cpu_gain": 3.8,
+    "mem_gain": 0,
+    "optimization_score": 1.9
+  },
+  {
+    "timestamp": 1761985490.703609,
+    "process": "msedgewebview2.exe",
     "cpu_gain": 0,
     "mem_gain": 0,
     "optimization_score": 0.0
   },
   {
-    "timestamp": 1761918418.6450875,
-    "process": "nvcontainer.exe",
+    "timestamp": 1761985502.2463837,
+    "process": "pgavgui.exe",
+    "cpu_gain": 0,
+    "mem_gain": 0.6,
+    "optimization_score": 0.3
+  },
+  {
+    "timestamp": 1761985510.9204445,
+    "process": "RuntimeBroker.exe",
+    "cpu_gain": 0.3,
+    "mem_gain": 0,
+    "optimization_score": 0.15
+  },
+  {
+    "timestamp": 1761985515.243547,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 11.2,
+    "mem_gain": 0,
+    "optimization_score": 5.6
+  },
+  {
+    "timestamp": 1761985519.5253155,
+    "process": "uihost.exe",
+    "cpu_gain": 13.7,
+    "mem_gain": 0,
+    "optimization_score": 6.85
+  },
+  {
+    "timestamp": 1761985523.820704,
+    "process": "dllhost.exe",
+    "cpu_gain": 6.0,
+    "mem_gain": 0.1,
+    "optimization_score": 3.05
+  },
+  {
+    "timestamp": 1761985530.6476986,
+    "process": "msedgewebview2.exe",
     "cpu_gain": 0,
     "mem_gain": 0,
     "optimization_score": 0.0
   },
   {
-    "timestamp": 1761918422.0374799,
-    "process": "ShellHost.exe",
-    "cpu_gain": 0,
+    "timestamp": 1761985534.9282646,
+    "process": "chrome.exe",
+    "cpu_gain": 18.6,
     "mem_gain": 0,
-    "optimization_score": 0.0
+    "optimization_score": 9.3
   },
   {
-    "timestamp": 1761918423.449412,
-    "process": "nvcontainer.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
+    "timestamp": 1761985539.1526325,
+    "process": "chrome.exe",
+    "cpu_gain": 9.2,
+    "mem_gain": 0.1,
+    "optimization_score": 4.65
   },
   {
-    "timestamp": 1761918424.795055,
-    "process": "sihost.exe",
-    "cpu_gain": 0,
-    "mem_gain": 0,
-    "optimization_score": 0.0
-  },
-  {
-    "timestamp": 1761918427.398365,
+    "timestamp": 1761985545.7952561,
     "process": "ChatGPT.exe",
     "cpu_gain": 0,
     "mem_gain": 0,
     "optimization_score": 0.0
+  },
+  {
+    "timestamp": 1761985552.7246935,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 0,
+    "mem_gain": 0.3,
+    "optimization_score": 0.15
+  },
+  {
+    "timestamp": 1761985559.428859,
+    "process": "ShellHost.exe",
+    "cpu_gain": 7.6,
+    "mem_gain": 0.2,
+    "optimization_score": 3.9
+  },
+  {
+    "timestamp": 1761985564.6166244,
+    "process": "Notepad.exe",
+    "cpu_gain": 11.7,
+    "mem_gain": 0,
+    "optimization_score": 5.85
+  },
+  {
+    "timestamp": 1761985568.9814875,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 16.9,
+    "mem_gain": 0.1,
+    "optimization_score": 8.5
+  },
+  {
+    "timestamp": 1761985573.2234263,
+    "process": "nvcontainer.exe",
+    "cpu_gain": 4.3,
+    "mem_gain": 0.1,
+    "optimization_score": 2.2
+  },
+  {
+    "timestamp": 1761985577.4450386,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 16.6,
+    "mem_gain": 0.1,
+    "optimization_score": 8.35
+  },
+  {
+    "timestamp": 1761985581.671201,
+    "process": "chrome.exe",
+    "cpu_gain": 1.8,
+    "mem_gain": 0,
+    "optimization_score": 0.9
+  },
+  {
+    "timestamp": 1761985586.9731798,
+    "process": "SearchHost.exe",
+    "cpu_gain": 1.0,
+    "mem_gain": 0.1,
+    "optimization_score": 0.55
+  },
+  {
+    "timestamp": 1761985592.4377606,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 0.8,
+    "mem_gain": 0,
+    "optimization_score": 0.4
+  },
+  {
+    "timestamp": 1761985599.1489909,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 0,
+    "mem_gain": 0,
+    "optimization_score": 0.0
+  },
+  {
+    "timestamp": 1761985603.392166,
+    "process": "nvcontainer.exe",
+    "cpu_gain": 15.0,
+    "mem_gain": 0.1,
+    "optimization_score": 7.55
+  },
+  {
+    "timestamp": 1761985606.640359,
+    "process": "ctfmon.exe",
+    "cpu_gain": 0,
+    "mem_gain": 0,
+    "optimization_score": 0.0
+  },
+  {
+    "timestamp": 1761985610.8602543,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 5.1,
+    "mem_gain": 0.1,
+    "optimization_score": 2.6
+  },
+  {
+    "timestamp": 1761985615.089666,
+    "process": "smartscreen.exe",
+    "cpu_gain": 2.9,
+    "mem_gain": 0,
+    "optimization_score": 1.45
+  },
+  {
+    "timestamp": 1761985621.663086,
+    "process": "ApplicationFrameHost.exe",
+    "cpu_gain": 0,
+    "mem_gain": 0.3,
+    "optimization_score": 0.15
+  },
+  {
+    "timestamp": 1761985628.333638,
+    "process": "sihost.exe",
+    "cpu_gain": 0,
+    "mem_gain": 1.5,
+    "optimization_score": 0.75
+  },
+  {
+    "timestamp": 1761985632.791776,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 69.9,
+    "mem_gain": 0,
+    "optimization_score": 34.95
+  },
+  {
+    "timestamp": 1761985637.0611837,
+    "process": "AppActions.exe",
+    "cpu_gain": 16.4,
+    "mem_gain": 0.2,
+    "optimization_score": 8.3
+  },
+  {
+    "timestamp": 1761986031.153319,
+    "process": "SearchHost.exe",
+    "cpu_gain": 0,
+    "mem_gain": 1.6,
+    "optimization_score": 0.8
+  },
+  {
+    "timestamp": 1761986067.6150155,
+    "process": "ShellHost.exe",
+    "cpu_gain": 0.4,
+    "mem_gain": 0.1,
+    "optimization_score": 0.25
+  },
+  {
+    "timestamp": 1761986075.573503,
+    "process": "Code.exe",
+    "cpu_gain": 10.3,
+    "mem_gain": 0.4,
+    "optimization_score": 5.35
+  },
+  {
+    "timestamp": 1761986082.2514794,
+    "process": "msedgewebview2.exe",
+    "cpu_gain": 2.6,
+    "mem_gain": 0,
+    "optimization_score": 1.3
+  },
+  {
+    "timestamp": 1761986093.916306,
+    "process": "pgavgui.exe",
+    "cpu_gain": 8.0,
+    "mem_gain": 0.1,
+    "optimization_score": 4.05
+  },
+  {
+    "timestamp": 1761986102.644706,
+    "process": "browserhost.exe",
+    "cpu_gain": 0,
+    "mem_gain": 0.1,
+    "optimization_score": 0.05
+  },
+  {
+    "timestamp": 1761986109.2152302,
+    "process": "uihost.exe",
+    "cpu_gain": 0,
+    "mem_gain": 0,
+    "optimization_score": 0.0
+  },
+  {
+    "timestamp": 1761986115.8441417,
+    "process": "dllhost.exe",
+    "cpu_gain": 0.7,
+    "mem_gain": 1.4,
+    "optimization_score": 1.05
+  },
+  {
+    "timestamp": 1761986120.0633826,
+    "process": "Photos.exe",
+    "cpu_gain": 6.0,
+    "mem_gain": 0.1,
+    "optimization_score": 3.05
   }
 ]
